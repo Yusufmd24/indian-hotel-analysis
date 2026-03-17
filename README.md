@@ -99,3 +99,5 @@ The analysis highlights that hotel market performance is driven by a combination
 
 Yusuf M
 Aspiring Data Analyst | Python | SQL | Power BI
+
+⭐ If you found this project useful, consider giving it a star!
