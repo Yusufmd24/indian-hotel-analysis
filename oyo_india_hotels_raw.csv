@@ -1,0 +1,1201 @@
+hotel_id,hotel_name,city,area,room_type,price,rating,reviews,discount,availability_365
+1,OYO Inn 282,Mumbai,Salt Lake,Classic,4712,2.8,,,15.0
+2,OYO Stay 617,Kolkata,Banjara Hills,Classic,,,,19,
+3,Oyo Flagship 221,Chennai,Andheri,classic,₹6214,2.7,No reviews,43%,
+4,oyo SilverKey 850,Mumbai,Airport Road,Deluxe,,2.9,,54,
+5,Oyo Inn 855,Hyderabad,Airport Road,classic,6677,3.4,No reviews,,325.0
+6,oyo Flagship 168,Goa,City Center,Deluxe,8273 INR,,,48,
+7,Oyo Townhouse 217,Pune,Park Street,DELUXE,5855,,No reviews,14%,
+8,Oyo Stay 409,Ahmedabad,Airport Road,Deluxe,6630,4.8,No reviews,10%,321.0
+9,oyo Townhouse 395,Pune,Airport Road,DELUXE,,,,,
+10,OYO SilverKey 446,Chennai,Whitefield,Classic,3291 INR,,No reviews,37%,
+11,oyo Flagship 157,Goa,Airport Road,Suite,6826,,,25%,157.0
+12,OYO Stay 970,Delhi,Whitefield,Deluxe,₹1990,4.2,1090,47,
+13,oyo Residency 748,Kolkata,Airport Road,Deluxe,3995.0,,No reviews,38,115.0
+14,OYO Stay 568,Chennai,City Center,Suite,,3.0,,8%,36.0
+15,oyo Collection 220,Hyderabad,Salt Lake,Suite,,3.8,No reviews,17%,
+16,oyo Townhouse 690,Jaipur,Andheri,Deluxe,₹2312,,223,,216.0
+17,Oyo Flagship 896,Hyderabad,Airport Road,Deluxe,1935 INR,,200,46%,
+18,Oyo Flagship 886,Jaipur,Banjara Hills,Premium,₹7270,2.9,No reviews,55,
+19,OYO SilverKey 223,Bangalore,Whitefield,classic,,4.2,642,42,80.0
+20,OYO Residency 191,Goa,City Center,classic,,2.7,826,,
+21,oyo Stay 324,Ahmedabad,Banjara Hills,Premium,4972,,No reviews,,161.0
+22,Oyo Stay 577,Delhi,Connaught Place,Suite,₹2338,,543,27%,
+23,oyo SilverKey 627,Goa,Whitefield,Deluxe,,,212,21%,
+24,OYO Inn 352,Ahmedabad,City Center,Classic,4035.0,,104,32,170.0
+25,OYO Inn 453,Hyderabad,Whitefield,Deluxe,,2.5,1415,7,220.0
+26,Oyo SilverKey 921,Delhi,Salt Lake,classic,1353.0,3.0,1365,,79.0
+27,OYO Collection 26,Bangalore,MG Road,DELUXE,3638.0,,,20,
+28,Oyo Flagship 205,Delhi,Connaught Place,Suite,8241.0,3.2,456,17,
+29,oyo Stay 410,Chennai,Salt Lake,Suite,₹6125,,,21%,
+30,oyo Townhouse 395,Ahmedabad,Park Street,Suite,3814.0,,,,220.0
+31,oyo SilverKey 680,Chennai,Whitefield,Deluxe,2741.0,,No reviews,49,
+32,oyo Inn 925,Pune,Salt Lake,classic,,,1122,24%,
+33,Oyo Collection 692,Jaipur,Connaught Place,Classic,,,,,
+34,OYO Flagship 26,Kolkata,Park Street,DELUXE,1457,,No reviews,,
+35,Oyo Flagship 152,Jaipur,Whitefield,Deluxe,₹790,4.3,,38%,
+36,Oyo Inn 544,Bangalore,MG Road,DELUXE,5898 INR,,No reviews,40,
+37,OYO Residency 653,Hyderabad,Park Street,Suite,,3.6,No reviews,50,
+38,OYO Flagship 155,Goa,Whitefield,Premium,4488 INR,,438,31,212.0
+39,Oyo Collection 927,Kolkata,Whitefield,DELUXE,,3.4,No reviews,29,279.0
+40,OYO SilverKey 447,Jaipur,MG Road,classic,₹8656,,No reviews,15,273.0
+41,oyo Stay 679,Pune,Connaught Place,Deluxe,₹1144,4.0,945,21,
+42,Oyo SilverKey 771,Chennai,Park Street,DELUXE,7606.0,,,8,35.0
+43,OYO Flagship 860,Delhi,Andheri,DELUXE,,2.9,,12%,
+44,oyo Stay 987,Bangalore,Salt Lake,Premium,2576,4.7,1185,,101.0
+45,oyo Residency 643,Ahmedabad,City Center,Suite,₹4678,,,,
+46,OYO Stay 664,Chennai,MG Road,Premium,₹6290,,No reviews,45,
+47,oyo Residency 496,Ahmedabad,Banjara Hills,Premium,8316 INR,,No reviews,59%,
+48,oyo Inn 389,Ahmedabad,Connaught Place,Suite,₹6211,,No reviews,27,
+49,OYO Stay 971,Goa,Andheri,DELUXE,₹3830,,,,
+50,OYO Townhouse 302,Jaipur,Whitefield,Suite,4330 INR,,,,
+51,oyo Collection 278,Chennai,MG Road,Deluxe,5723.0,,No reviews,,
+52,oyo Stay 779,Hyderabad,Whitefield,Deluxe,₹5336,,No reviews,16%,140.0
+53,oyo SilverKey 715,Delhi,Connaught Place,Deluxe,2768 INR,2.7,No reviews,35,
+54,OYO Residency 67,Jaipur,Banjara Hills,Classic,7265 INR,,1405,,127.0
+55,Oyo Stay 611,Goa,City Center,classic,,,,,50.0
+56,Oyo Inn 84,Kolkata,Andheri,Suite,3273,2.9,320,,16.0
+57,oyo SilverKey 720,Hyderabad,Salt Lake,Classic,₹8138,,,47%,278.0
+58,Oyo Residency 146,Bangalore,Andheri,Classic,₹1869,,,41,
+59,Oyo Stay 553,Pune,City Center,Classic,8790 INR,2.7,,43,117.0
+60,oyo Townhouse 782,Hyderabad,Andheri,Classic,3570 INR,,569,,
+61,Oyo SilverKey 687,Pune,City Center,Premium,2413,,No reviews,,
+62,Oyo Townhouse 994,Hyderabad,Park Street,classic,,4.4,,34%,
+63,OYO Flagship 274,Jaipur,Park Street,DELUXE,2846.0,,992,,
+64,OYO Stay 418,Goa,Andheri,DELUXE,2227,4.8,945,46%,
+65,Oyo Collection 250,Pune,Banjara Hills,Premium,,2.8,,52%,
+66,Oyo Inn 306,Delhi,Salt Lake,Premium,8722,,No reviews,,164.0
+67,oyo Collection 240,Kolkata,MG Road,Premium,₹7430,,No reviews,,18.0
+68,oyo SilverKey 891,Goa,MG Road,Classic,2344 INR,,,,
+69,oyo Inn 408,Chennai,Whitefield,Classic,2015.0,,No reviews,50,316.0
+70,oyo Inn 944,Kolkata,Andheri,Deluxe,5408,,,50%,
+71,OYO SilverKey 816,Delhi,MG Road,Deluxe,1619.0,,298,,89.0
+72,Oyo Stay 700,Ahmedabad,Banjara Hills,DELUXE,4645 INR,4.6,No reviews,21,
+73,oyo Stay 162,Hyderabad,Andheri,Suite,1910 INR,,,49,
+74,OYO Flagship 391,Jaipur,Banjara Hills,Classic,,,604,47,289.0
+75,oyo Collection 853,Ahmedabad,MG Road,DELUXE,5389,,,44,49.0
+76,Oyo Townhouse 594,Hyderabad,MG Road,classic,6677,,,31%,
+77,Oyo Residency 967,Bangalore,Salt Lake,classic,8594.0,,No reviews,9%,187.0
+78,OYO SilverKey 550,Pune,Connaught Place,Classic,2724 INR,,No reviews,,345.0
+79,OYO Stay 906,Jaipur,Salt Lake,Classic,,3.0,No reviews,,71.0
+80,Oyo Collection 119,Delhi,Whitefield,Premium,2292,4.5,No reviews,,300.0
+81,oyo Townhouse 854,Pune,Andheri,Deluxe,,,,18,185.0
+82,oyo Inn 368,Chennai,City Center,Classic,1692 INR,3.1,931,,170.0
+83,oyo Flagship 71,Bangalore,Banjara Hills,Deluxe,,3.0,672,55%,
+84,OYO Inn 888,Bangalore,City Center,Deluxe,1122,2.5,No reviews,16,215.0
+85,Oyo Collection 797,Mumbai,Whitefield,Suite,,,1031,,234.0
+86,Oyo Residency 412,Delhi,Airport Road,Deluxe,₹7684,,150,25%,
+87,oyo Stay 302,Pune,Whitefield,DELUXE,,3.9,1437,,
+88,OYO Collection 348,Jaipur,Connaught Place,Deluxe,8130 INR,3.5,No reviews,47,
+89,OYO Residency 88,Mumbai,Whitefield,classic,2227 INR,,763,,168.0
+90,Oyo Residency 682,Pune,Park Street,Deluxe,₹7629,,No reviews,,
+91,OYO SilverKey 866,Kolkata,Whitefield,Classic,₹6722,,No reviews,,
+92,OYO SilverKey 720,Delhi,MG Road,DELUXE,5762.0,3.3,,47%,324.0
+93,oyo Stay 221,Mumbai,Airport Road,Classic,6863 INR,3.5,No reviews,,79.0
+94,OYO Inn 84,Ahmedabad,Whitefield,Classic,5158 INR,,No reviews,31%,
+95,Oyo Inn 695,Mumbai,Park Street,Suite,,4.0,No reviews,43%,108.0
+96,Oyo SilverKey 123,Hyderabad,Whitefield,classic,826 INR,4.2,No reviews,39%,
+97,Oyo Residency 760,Mumbai,Salt Lake,Suite,1393 INR,2.5,,41,
+98,Oyo Flagship 821,Delhi,Airport Road,Premium,8238.0,2.7,No reviews,,
+99,Oyo Residency 173,Kolkata,MG Road,Deluxe,,,1044,27,52.0
+100,OYO Flagship 617,Hyderabad,Andheri,DELUXE,₹3204,,No reviews,,
+101,OYO Collection 70,Chennai,Banjara Hills,Premium,8382 INR,,1211,27%,231.0
+102,Oyo Residency 294,Delhi,City Center,Premium,₹1957,,No reviews,,292.0
+103,oyo Collection 514,Chennai,City Center,Deluxe,₹3171,,1462,37%,
+104,oyo Stay 625,Jaipur,City Center,DELUXE,3300.0,,No reviews,,
+105,Oyo Townhouse 572,Mumbai,MG Road,Suite,7033.0,,1234,,
+106,oyo Inn 961,Bangalore,Whitefield,Classic,2088.0,,672,,
+107,Oyo Townhouse 372,Goa,Airport Road,Suite,5760,,995,19%,51.0
+108,oyo Flagship 612,Chennai,Salt Lake,Suite,6872,,1279,51%,346.0
+109,oyo SilverKey 771,Jaipur,Andheri,Premium,8055,,960,,
+110,oyo Collection 990,Goa,Whitefield,Classic,3355,4.3,512,35,364.0
+111,OYO Residency 165,Hyderabad,Connaught Place,Classic,5169 INR,4.6,895,57,212.0
+112,oyo SilverKey 242,Pune,Connaught Place,Deluxe,₹7026,3.4,652,,70.0
+113,Oyo Inn 852,Hyderabad,Whitefield,DELUXE,2973 INR,3.5,162,21%,
+114,Oyo Flagship 309,Mumbai,Whitefield,Classic,₹2696,,No reviews,12,323.0
+115,Oyo Collection 2,Bangalore,Airport Road,classic,6480,3.8,,38,278.0
+116,Oyo Townhouse 651,Pune,Airport Road,classic,7038.0,3.1,731,,170.0
+117,Oyo Stay 347,Delhi,Andheri,Classic,3568 INR,,1293,56%,150.0
+118,OYO Townhouse 324,Delhi,Park Street,Suite,,,No reviews,,182.0
+119,Oyo Townhouse 819,Chennai,Andheri,Suite,6729 INR,,No reviews,16,
+120,oyo Collection 81,Mumbai,Connaught Place,DELUXE,,4.8,No reviews,25%,
+121,oyo Inn 437,Jaipur,City Center,Classic,3430 INR,3.3,No reviews,32,
+122,oyo Residency 768,Chennai,Park Street,DELUXE,₹3321,,No reviews,7%,
+123,oyo Townhouse 620,Pune,Connaught Place,Premium,3213 INR,,909,,
+124,OYO Townhouse 754,Kolkata,Andheri,Deluxe,3748 INR,,No reviews,,
+125,OYO Townhouse 139,Jaipur,Connaught Place,DELUXE,1913 INR,,911,48,
+126,OYO Inn 727,Hyderabad,City Center,Suite,3552.0,3.7,411,55,
+127,oyo Flagship 627,Jaipur,Airport Road,Deluxe,₹2112,,No reviews,31,162.0
+128,Oyo Inn 530,Jaipur,Salt Lake,classic,6344,,,16%,28.0
+129,OYO SilverKey 169,Goa,Banjara Hills,Deluxe,3353.0,4.6,,23%,
+130,oyo SilverKey 630,Bangalore,Connaught Place,classic,,,1189,,21.0
+131,OYO Inn 790,Mumbai,Whitefield,Suite,5036,,,,
+132,OYO Residency 827,Jaipur,Andheri,Deluxe,7353.0,,122,31,174.0
+133,oyo SilverKey 752,Chennai,Andheri,Classic,6358 INR,,,11%,
+134,OYO Townhouse 52,Kolkata,Connaught Place,Deluxe,5454 INR,,508,,
+135,Oyo Collection 901,Goa,Connaught Place,Classic,5755 INR,,No reviews,,
+136,oyo Residency 670,Jaipur,Salt Lake,Suite,8410.0,3.7,882,51,
+137,oyo Stay 200,Delhi,Airport Road,Deluxe,,,No reviews,40,
+138,Oyo Stay 962,Chennai,MG Road,DELUXE,6690,,,7%,
+139,Oyo Flagship 621,Goa,Connaught Place,classic,2990.0,,No reviews,52,
+140,Oyo Collection 836,Ahmedabad,City Center,classic,972.0,3.3,,,
+141,oyo Flagship 739,Ahmedabad,MG Road,DELUXE,,,,54,124.0
+142,oyo Townhouse 196,Ahmedabad,Andheri,DELUXE,1010 INR,3.2,,,31.0
+143,OYO Stay 333,Goa,Banjara Hills,classic,,3.4,,39,247.0
+144,Oyo Stay 306,Kolkata,Andheri,Suite,4384.0,,,36,
+145,OYO Stay 693,Hyderabad,Connaught Place,Premium,6920 INR,4.4,594,23%,
+146,OYO Flagship 848,Jaipur,Park Street,Classic,,4.1,,52%,342.0
+147,OYO Townhouse 424,Kolkata,Andheri,Premium,6111 INR,2.7,,,333.0
+148,Oyo SilverKey 662,Hyderabad,MG Road,Premium,₹1669,4.0,,51%,90.0
+149,Oyo Flagship 960,Pune,Whitefield,classic,₹5442,,1234,23,252.0
+150,Oyo SilverKey 198,Goa,Connaught Place,Suite,2545.0,,No reviews,50%,290.0
+151,oyo Residency 655,Bangalore,Andheri,Suite,7343 INR,3.7,,11%,127.0
+152,Oyo Flagship 458,Hyderabad,Park Street,Classic,5074.0,,1173,46,341.0
+153,Oyo Flagship 416,Jaipur,MG Road,Premium,8933.0,,No reviews,44%,
+154,Oyo Collection 719,Ahmedabad,Whitefield,Premium,,4.3,,53%,
+155,oyo Townhouse 64,Mumbai,Airport Road,DELUXE,8981,3.8,No reviews,38,
+156,oyo Collection 829,Mumbai,Banjara Hills,DELUXE,1611 INR,,,40,
+157,OYO Inn 224,Hyderabad,City Center,Suite,₹1896,,,9,209.0
+158,oyo Inn 662,Bangalore,Whitefield,Deluxe,7587.0,,No reviews,,
+159,OYO Stay 403,Mumbai,Salt Lake,classic,2786,4.4,No reviews,,194.0
+160,Oyo SilverKey 159,Kolkata,City Center,Deluxe,5216,,231,47,105.0
+161,oyo Townhouse 458,Mumbai,MG Road,classic,1497,,898,39%,148.0
+162,Oyo Stay 613,Ahmedabad,Banjara Hills,Classic,5953,3.2,,31,285.0
+163,oyo Collection 49,Pune,Salt Lake,Deluxe,6342 INR,,No reviews,14,
+164,OYO SilverKey 879,Kolkata,Salt Lake,Deluxe,3065 INR,,No reviews,40%,130.0
+165,oyo Townhouse 945,Chennai,City Center,Classic,8069.0,,390,,96.0
+166,OYO Residency 929,Jaipur,Andheri,Deluxe,6155.0,4.7,433,,356.0
+167,OYO Stay 330,Pune,Andheri,Premium,5337 INR,,No reviews,,
+168,OYO SilverKey 321,Chennai,Salt Lake,Suite,₹7481,3.8,298,,78.0
+169,OYO Collection 584,Chennai,Andheri,Premium,4726 INR,,No reviews,57,
+170,OYO Inn 560,Bangalore,City Center,Classic,8700,,1314,38%,211.0
+171,OYO Inn 155,Kolkata,Andheri,DELUXE,849,,,,249.0
+172,oyo Stay 422,Delhi,Salt Lake,Deluxe,₹894,,No reviews,,54.0
+173,OYO Flagship 197,Goa,Park Street,DELUXE,4835.0,,No reviews,,
+174,oyo Residency 666,Mumbai,MG Road,Classic,₹1219,,No reviews,8%,
+175,oyo Residency 998,Chennai,City Center,Classic,,4.6,,35,
+176,oyo Inn 34,Goa,Salt Lake,Classic,3638.0,2.5,1202,,153.0
+177,OYO Stay 855,Ahmedabad,Connaught Place,Classic,,,,,
+178,OYO SilverKey 620,Kolkata,Salt Lake,Premium,7199.0,,No reviews,,
+179,oyo SilverKey 818,Mumbai,Salt Lake,Suite,₹4737,2.7,,55%,184.0
+180,OYO SilverKey 456,Mumbai,Whitefield,Premium,6596.0,2.7,No reviews,,52.0
+181,Oyo Stay 96,Mumbai,Whitefield,Deluxe,6015 INR,,794,51%,
+182,OYO SilverKey 309,Bangalore,Airport Road,Suite,5097 INR,2.8,No reviews,24,128.0
+183,oyo Stay 201,Jaipur,Connaught Place,Premium,₹8201,2.8,No reviews,44,
+184,OYO SilverKey 329,Ahmedabad,Andheri,classic,3990 INR,,No reviews,,
+185,Oyo Residency 805,Pune,Whitefield,Classic,7137.0,,,,236.0
+186,Oyo Residency 710,Jaipur,MG Road,DELUXE,1833 INR,4.0,No reviews,,
+187,Oyo Stay 491,Mumbai,Whitefield,classic,,,,55,326.0
+188,OYO Inn 681,Mumbai,Connaught Place,Premium,6516,4.0,,46,54.0
+189,Oyo Flagship 523,Mumbai,Connaught Place,Classic,4321 INR,,,49%,247.0
+190,Oyo Townhouse 119,Hyderabad,Airport Road,Premium,3021.0,,,27,
+191,OYO SilverKey 46,Chennai,Park Street,classic,₹2585,,,,89.0
+192,oyo Collection 982,Chennai,Salt Lake,Classic,8270,,377,47,314.0
+193,oyo Collection 399,Jaipur,MG Road,Suite,772,,,,166.0
+194,OYO SilverKey 687,Jaipur,Airport Road,Suite,,,No reviews,,
+195,OYO Residency 690,Ahmedabad,Airport Road,Deluxe,,,No reviews,20,191.0
+196,Oyo Collection 611,Goa,MG Road,classic,,3.4,,,
+197,OYO Flagship 323,Hyderabad,Whitefield,classic,,,No reviews,17,
+198,oyo Collection 426,Pune,Park Street,classic,7972 INR,,63,7,147.0
+199,oyo Inn 792,Jaipur,Whitefield,Classic,,,No reviews,39,225.0
+200,OYO Inn 850,Pune,Andheri,Classic,4755.0,4.5,No reviews,27%,121.0
+201,oyo SilverKey 882,Ahmedabad,Banjara Hills,classic,7715,3.9,423,,275.0
+202,oyo SilverKey 297,Chennai,City Center,Suite,,,195,55,335.0
+203,OYO Flagship 729,Bangalore,Banjara Hills,DELUXE,5977,,No reviews,,
+204,OYO Inn 814,Jaipur,City Center,DELUXE,2225 INR,,No reviews,36,
+205,OYO Residency 548,Chennai,Connaught Place,classic,7216,4.7,No reviews,58,295.0
+206,Oyo Residency 352,Ahmedabad,Andheri,Classic,₹1493,,33,15,219.0
+207,oyo SilverKey 163,Bangalore,City Center,Premium,₹5189,,No reviews,47%,
+208,Oyo Inn 94,Kolkata,Andheri,Classic,₹2259,3.0,,,
+209,Oyo Inn 136,Mumbai,Banjara Hills,Deluxe,₹8526,3.0,1496,25,195.0
+210,OYO Stay 577,Bangalore,MG Road,Premium,,,,,
+211,OYO Townhouse 144,Kolkata,Banjara Hills,DELUXE,,,No reviews,55%,43.0
+212,oyo Stay 739,Goa,Park Street,DELUXE,₹5368,,617,,
+213,OYO Collection 396,Delhi,MG Road,Premium,2547,,,28,
+214,oyo Inn 177,Chennai,Salt Lake,classic,₹8417,2.5,No reviews,18%,
+215,oyo Collection 85,Pune,Connaught Place,Premium,3201.0,2.7,1047,,300.0
+216,oyo Collection 748,Hyderabad,Banjara Hills,DELUXE,₹4609,,No reviews,44%,336.0
+217,OYO Inn 141,Mumbai,Banjara Hills,Deluxe,885,,,,190.0
+218,oyo Townhouse 790,Hyderabad,Airport Road,Premium,1180.0,,1072,,
+219,Oyo Residency 581,Delhi,Whitefield,Classic,3434.0,2.9,,51%,22.0
+220,OYO Collection 373,Kolkata,Park Street,Suite,6974,2.9,,46,
+221,Oyo Residency 80,Chennai,Salt Lake,Classic,₹6808,3.7,367,56%,
+222,Oyo Townhouse 567,Hyderabad,Andheri,Suite,₹8183,,No reviews,52%,
+223,oyo Stay 779,Kolkata,City Center,Suite,4716,,48,,
+224,OYO Flagship 543,Hyderabad,Park Street,classic,4602 INR,3.6,,22%,
+225,oyo Townhouse 595,Jaipur,MG Road,Deluxe,,,,8,
+226,Oyo Inn 852,Chennai,Airport Road,Deluxe,6045.0,3.5,152,,54.0
+227,Oyo SilverKey 417,Jaipur,Airport Road,Deluxe,,3.3,No reviews,34%,
+228,OYO Flagship 856,Ahmedabad,Banjara Hills,Suite,6070,2.7,No reviews,,89.0
+229,Oyo Stay 767,Pune,MG Road,Deluxe,₹4793,3.6,248,8%,
+230,oyo Stay 266,Mumbai,Connaught Place,Classic,₹1928,4.8,No reviews,56%,
+231,OYO Stay 444,Delhi,Banjara Hills,Suite,7171 INR,,873,27%,228.0
+232,oyo Stay 632,Delhi,MG Road,Premium,4726.0,,981,22,102.0
+233,OYO Collection 801,Goa,Banjara Hills,Deluxe,6583 INR,,,25,
+234,OYO Townhouse 918,Ahmedabad,MG Road,Classic,₹5302,,No reviews,54%,126.0
+235,oyo Residency 811,Hyderabad,Connaught Place,DELUXE,1616,,726,,
+236,OYO Inn 718,Ahmedabad,Andheri,Classic,,,No reviews,39%,46.0
+237,oyo Flagship 21,Kolkata,Connaught Place,Classic,₹8531,,412,26%,11.0
+238,oyo Flagship 793,Ahmedabad,Airport Road,Suite,,4.5,,,
+239,OYO Inn 972,Bangalore,Park Street,DELUXE,7857 INR,4.0,,44,301.0
+240,Oyo Inn 706,Pune,City Center,Deluxe,5525,2.9,,,
+241,OYO Inn 580,Ahmedabad,Airport Road,DELUXE,2405 INR,,159,27%,
+242,OYO SilverKey 215,Jaipur,Salt Lake,Deluxe,₹4788,3.3,1475,29,
+243,Oyo Stay 385,Pune,Airport Road,Classic,2361 INR,,,15,150.0
+244,Oyo Townhouse 76,Chennai,Andheri,DELUXE,6300,4.5,1499,10,
+245,oyo Collection 161,Bangalore,Whitefield,Suite,₹1577,3.3,,,
+246,OYO Townhouse 51,Hyderabad,Airport Road,Suite,,,314,5,
+247,OYO Townhouse 212,Kolkata,Andheri,DELUXE,3498.0,,No reviews,30,135.0
+248,Oyo Flagship 380,Goa,Banjara Hills,classic,6949.0,2.9,No reviews,34%,31.0
+249,OYO Inn 353,Mumbai,Andheri,classic,,3.0,,,
+250,OYO Collection 925,Hyderabad,Andheri,Deluxe,,,,44%,85.0
+251,OYO Townhouse 434,Kolkata,Airport Road,Classic,1983 INR,,,,
+252,Oyo Residency 283,Goa,Salt Lake,Deluxe,₹8206,,,55%,75.0
+253,oyo Residency 104,Mumbai,Andheri,Classic,,,No reviews,,
+254,OYO Stay 624,Pune,Banjara Hills,Suite,₹7281,,1414,52,
+255,Oyo SilverKey 864,Hyderabad,Banjara Hills,DELUXE,₹8754,4.7,No reviews,33,213.0
+256,Oyo Flagship 936,Kolkata,Banjara Hills,DELUXE,7371 INR,,,55%,
+257,oyo Stay 30,Bangalore,Connaught Place,DELUXE,3546,4.5,118,7%,
+258,Oyo Stay 407,Chennai,Whitefield,Suite,₹2729,,No reviews,60,176.0
+259,oyo Residency 706,Hyderabad,Park Street,DELUXE,2180.0,2.6,,54%,
+260,oyo Townhouse 886,Pune,Banjara Hills,classic,845 INR,,,56%,
+261,Oyo Residency 358,Pune,Airport Road,Classic,8220.0,,,44,
+262,oyo Stay 624,Goa,Banjara Hills,Suite,5331.0,,No reviews,45,
+263,OYO Stay 784,Kolkata,City Center,DELUXE,₹4637,,,25%,
+264,Oyo Collection 398,Hyderabad,Whitefield,DELUXE,,,No reviews,51%,
+265,Oyo Residency 175,Goa,Connaught Place,DELUXE,3667.0,2.7,,56%,45.0
+266,OYO Inn 893,Chennai,Airport Road,Premium,5731 INR,,No reviews,23,27.0
+267,OYO Stay 123,Jaipur,Andheri,Deluxe,,3.2,308,26,161.0
+268,Oyo SilverKey 647,Mumbai,MG Road,Premium,3597.0,4.0,No reviews,18%,45.0
+269,Oyo Inn 440,Ahmedabad,Connaught Place,Classic,7309 INR,,9,,164.0
+270,oyo Townhouse 642,Delhi,Banjara Hills,Deluxe,4776,,639,,33.0
+271,Oyo Collection 746,Hyderabad,MG Road,Premium,6235 INR,4.5,No reviews,27%,9.0
+272,oyo Flagship 217,Kolkata,Salt Lake,DELUXE,,3.7,,46%,130.0
+273,OYO Inn 111,Ahmedabad,Andheri,DELUXE,₹1023,,No reviews,40,78.0
+274,Oyo Collection 678,Delhi,Whitefield,DELUXE,,,1435,31%,316.0
+275,OYO Residency 109,Hyderabad,Banjara Hills,Deluxe,8854,,1071,50,
+276,oyo Collection 339,Kolkata,Airport Road,classic,₹4542,2.5,,47%,38.0
+277,oyo Flagship 468,Hyderabad,Connaught Place,Premium,5550.0,3.6,357,23,59.0
+278,OYO Residency 142,Delhi,Connaught Place,Deluxe,3493.0,,No reviews,10,
+279,Oyo SilverKey 856,Pune,City Center,Deluxe,7019 INR,,341,,
+280,Oyo Residency 583,Ahmedabad,MG Road,Premium,7878,,1252,,249.0
+281,Oyo Townhouse 65,Pune,Park Street,DELUXE,4986.0,,,,173.0
+282,oyo Inn 255,Pune,City Center,Classic,8595.0,,788,,329.0
+283,Oyo Residency 508,Goa,Park Street,classic,₹3409,,No reviews,,
+284,OYO Townhouse 471,Pune,City Center,Classic,,,No reviews,,
+285,oyo Stay 1,Delhi,Andheri,Suite,,,,,186.0
+286,Oyo SilverKey 574,Kolkata,Connaught Place,DELUXE,8451.0,4.1,,5,
+287,OYO Flagship 505,Mumbai,Park Street,Premium,3001 INR,,401,59,
+288,Oyo Townhouse 949,Mumbai,City Center,classic,2718 INR,,1032,,
+289,OYO Inn 593,Goa,Salt Lake,classic,3545,,,37,354.0
+290,Oyo SilverKey 994,Hyderabad,Banjara Hills,DELUXE,5519 INR,4.4,,,
+291,oyo Flagship 206,Goa,MG Road,classic,,,,,
+292,Oyo Stay 492,Mumbai,MG Road,Classic,,,,6,343.0
+293,Oyo Residency 805,Kolkata,Whitefield,Classic,3336.0,4.1,,55%,
+294,oyo Residency 692,Mumbai,Salt Lake,Premium,,,No reviews,49%,
+295,OYO Townhouse 762,Goa,Connaught Place,classic,4817,,,,279.0
+296,Oyo Collection 182,Kolkata,Banjara Hills,classic,1920,,1052,7,135.0
+297,oyo Residency 262,Bangalore,Banjara Hills,Premium,792.0,3.6,81,25%,
+298,oyo SilverKey 539,Mumbai,Airport Road,Suite,4303,,No reviews,39,113.0
+299,Oyo SilverKey 301,Chennai,Andheri,Deluxe,,,1329,47,328.0
+300,oyo SilverKey 391,Delhi,Whitefield,classic,2557 INR,,579,57,
+301,Oyo Inn 198,Delhi,Airport Road,Deluxe,,2.7,,,343.0
+302,OYO Flagship 551,Pune,Airport Road,Classic,₹7830,4.2,No reviews,50%,27.0
+303,oyo Townhouse 589,Hyderabad,Salt Lake,DELUXE,4429.0,,No reviews,32%,60.0
+304,OYO Residency 764,Ahmedabad,Airport Road,Suite,₹1445,,No reviews,48,
+305,oyo Townhouse 486,Pune,Banjara Hills,DELUXE,,,,23%,
+306,oyo Residency 569,Delhi,Banjara Hills,Deluxe,₹3016,,No reviews,39%,176.0
+307,oyo Residency 525,Pune,City Center,classic,3033,,517,,236.0
+308,oyo Townhouse 257,Hyderabad,Park Street,Classic,2308,,No reviews,,145.0
+309,Oyo Collection 462,Kolkata,Connaught Place,Premium,,,1196,41,86.0
+310,OYO Residency 227,Chennai,Andheri,Suite,7845.0,4.4,,35,
+311,OYO Flagship 662,Goa,Airport Road,DELUXE,2043.0,4.5,1103,,38.0
+312,oyo Townhouse 833,Goa,MG Road,Suite,,3.0,No reviews,39,200.0
+313,oyo Residency 298,Ahmedabad,Park Street,classic,2893 INR,3.7,No reviews,,350.0
+314,OYO Collection 164,Goa,City Center,Deluxe,,,,35,249.0
+315,Oyo SilverKey 240,Mumbai,Connaught Place,Classic,1401,,No reviews,34%,
+316,oyo Stay 584,Hyderabad,Banjara Hills,Premium,3548 INR,,,,
+317,Oyo Collection 812,Chennai,Banjara Hills,Deluxe,,2.5,900,,76.0
+318,Oyo Stay 735,Bangalore,Andheri,Deluxe,2638,,1475,48,302.0
+319,OYO Flagship 45,Pune,City Center,Deluxe,,3.9,,7%,132.0
+320,Oyo Stay 993,Goa,MG Road,Deluxe,1005.0,4.7,,60,210.0
+321,OYO Stay 676,Ahmedabad,Salt Lake,Premium,5033,,,42%,67.0
+322,OYO Stay 881,Delhi,City Center,classic,8963 INR,,197,,257.0
+323,Oyo Inn 134,Mumbai,Andheri,Premium,719 INR,,,38%,179.0
+324,OYO SilverKey 489,Pune,City Center,classic,₹4509,,No reviews,,267.0
+325,OYO Collection 671,Goa,Banjara Hills,classic,4065.0,3.4,No reviews,42,
+326,Oyo Inn 407,Ahmedabad,Andheri,Suite,4037 INR,,988,,
+327,oyo Flagship 876,Pune,Connaught Place,classic,2651,,331,37,314.0
+328,Oyo Inn 6,Bangalore,Connaught Place,Classic,2192,,891,9%,311.0
+329,Oyo Stay 672,Pune,Whitefield,Suite,,2.6,No reviews,33%,99.0
+330,oyo Stay 716,Ahmedabad,Airport Road,Suite,,2.9,736,46%,
+331,Oyo Stay 206,Pune,Connaught Place,Suite,₹951,,,,141.0
+332,OYO Collection 953,Ahmedabad,Whitefield,Suite,,2.5,,11%,174.0
+333,Oyo Stay 833,Goa,Andheri,classic,4798 INR,,990,26,
+334,Oyo Townhouse 392,Mumbai,Banjara Hills,Deluxe,4310,,,,147.0
+335,oyo Inn 841,Pune,Banjara Hills,Deluxe,₹6303,3.8,No reviews,,349.0
+336,oyo Flagship 241,Jaipur,Airport Road,Classic,4665.0,3.0,,27%,
+337,OYO Residency 878,Ahmedabad,MG Road,classic,1392 INR,,,22,
+338,oyo Flagship 56,Kolkata,MG Road,Premium,7633 INR,4.7,No reviews,,
+339,oyo Townhouse 13,Chennai,Whitefield,Suite,4152 INR,,,60%,
+340,oyo SilverKey 375,Jaipur,Banjara Hills,Premium,3713 INR,,No reviews,59,92.0
+341,oyo Flagship 834,Ahmedabad,MG Road,Premium,2336.0,,No reviews,,4.0
+342,Oyo Flagship 915,Pune,MG Road,Classic,5872 INR,,1162,,
+343,oyo Townhouse 461,Jaipur,Airport Road,Suite,6183.0,,No reviews,6,347.0
+344,oyo Inn 665,Ahmedabad,Airport Road,Premium,3559.0,,No reviews,52,
+345,oyo Flagship 890,Jaipur,MG Road,Suite,3445.0,,No reviews,59%,
+346,oyo SilverKey 728,Chennai,Andheri,Premium,,,No reviews,,85.0
+347,OYO Inn 241,Delhi,City Center,Classic,₹4822,,210,,203.0
+348,Oyo Stay 160,Mumbai,Whitefield,Deluxe,2081 INR,3.2,No reviews,45%,14.0
+349,Oyo Residency 488,Chennai,Andheri,DELUXE,,,911,49%,
+350,oyo Inn 547,Goa,Banjara Hills,Deluxe,5773.0,3.6,No reviews,28,155.0
+351,oyo Residency 777,Delhi,Banjara Hills,Classic,2933.0,,,53,
+352,OYO Residency 8,Ahmedabad,Salt Lake,Premium,6821,,No reviews,,
+353,Oyo Inn 246,Mumbai,MG Road,Deluxe,5154.0,,No reviews,17%,148.0
+354,oyo Collection 279,Jaipur,Banjara Hills,Suite,8760,3.2,,6%,
+355,OYO Townhouse 155,Delhi,City Center,Suite,941 INR,,No reviews,,41.0
+356,Oyo Residency 402,Delhi,Park Street,Premium,,3.6,No reviews,58%,226.0
+357,OYO Collection 753,Delhi,MG Road,DELUXE,,4.0,No reviews,24,21.0
+358,Oyo Inn 306,Hyderabad,Connaught Place,Classic,3955.0,,446,45,
+359,OYO Collection 809,Ahmedabad,Connaught Place,Classic,₹4682,,No reviews,49%,127.0
+360,OYO Inn 634,Jaipur,MG Road,Premium,₹6244,,,39%,
+361,oyo Residency 356,Goa,Andheri,DELUXE,7887,,,13%,
+362,oyo Collection 195,Goa,Whitefield,Deluxe,,,No reviews,,35.0
+363,Oyo Residency 270,Jaipur,Connaught Place,classic,6714 INR,,No reviews,51%,
+364,oyo Stay 839,Mumbai,Salt Lake,DELUXE,7048,,1129,23,164.0
+365,oyo Inn 69,Mumbai,City Center,classic,1417,2.9,413,36%,
+366,oyo Stay 719,Jaipur,Andheri,Classic,₹4893,,1470,,239.0
+367,oyo Inn 961,Chennai,Airport Road,Suite,7514.0,4.3,No reviews,,39.0
+368,OYO Townhouse 743,Goa,MG Road,classic,,3.4,,,
+369,oyo Stay 367,Mumbai,MG Road,classic,8215 INR,4.5,,37,
+370,Oyo Stay 333,Chennai,Whitefield,Deluxe,6790 INR,,No reviews,,
+371,Oyo Collection 983,Chennai,City Center,Suite,₹7205,,1220,13,113.0
+372,OYO Residency 842,Chennai,Connaught Place,Deluxe,,,1170,7,
+373,oyo Flagship 239,Chennai,Connaught Place,Premium,4898.0,,1165,,
+374,OYO Stay 658,Ahmedabad,Connaught Place,Premium,₹5621,,781,8,213.0
+375,oyo Inn 870,Kolkata,Connaught Place,classic,887 INR,,No reviews,39%,357.0
+376,OYO Inn 750,Bangalore,Salt Lake,Deluxe,7136 INR,,1033,32,
+377,Oyo Stay 764,Mumbai,MG Road,Deluxe,,3.4,,,246.0
+378,Oyo Inn 586,Jaipur,Salt Lake,Suite,,,1073,9,350.0
+379,oyo Collection 434,Mumbai,MG Road,Suite,6684.0,,,54,
+380,OYO Collection 46,Ahmedabad,Park Street,classic,4525,4.1,1491,12%,
+381,Oyo Inn 824,Delhi,Park Street,classic,2523.0,3.5,679,52%,
+382,Oyo Stay 748,Goa,Banjara Hills,Deluxe,₹3015,,1078,21%,
+383,Oyo Inn 968,Delhi,City Center,Suite,₹836,,,28%,
+384,Oyo Stay 727,Kolkata,Andheri,classic,2331.0,,1088,,364.0
+385,OYO Stay 313,Delhi,Banjara Hills,Deluxe,6165 INR,3.4,No reviews,27,
+386,oyo SilverKey 900,Delhi,MG Road,Classic,₹7043,,461,,195.0
+387,OYO Stay 157,Pune,MG Road,classic,7687.0,,,,277.0
+388,Oyo Inn 723,Bangalore,Whitefield,classic,2915 INR,4.8,,15%,60.0
+389,OYO Inn 31,Chennai,Banjara Hills,Deluxe,5921 INR,,,,96.0
+390,OYO Townhouse 781,Bangalore,Connaught Place,Classic,,3.8,1221,19%,
+391,oyo Residency 620,Bangalore,Park Street,Classic,8380.0,,No reviews,13%,209.0
+392,Oyo Flagship 761,Hyderabad,Park Street,Premium,4023,,No reviews,25,207.0
+393,oyo Residency 390,Ahmedabad,City Center,classic,5826 INR,,,,
+394,OYO Flagship 532,Jaipur,Salt Lake,Suite,₹7181,,1291,23,
+395,Oyo SilverKey 628,Bangalore,Airport Road,Deluxe,,,No reviews,,299.0
+396,Oyo SilverKey 462,Pune,MG Road,DELUXE,1108,,No reviews,21,63.0
+397,oyo Collection 650,Mumbai,Whitefield,Premium,₹6646,,,15,22.0
+398,oyo Residency 676,Chennai,Andheri,Suite,3159,4.5,1458,24,320.0
+399,OYO Flagship 4,Mumbai,Park Street,classic,₹4846,,1113,43%,
+400,Oyo Collection 82,Jaipur,City Center,Deluxe,807,,,40%,75.0
+401,OYO Flagship 875,Chennai,MG Road,Deluxe,,,678,11,
+402,oyo Inn 717,Ahmedabad,Connaught Place,Premium,3606 INR,,73,24,
+403,OYO SilverKey 483,Goa,Park Street,classic,₹2904,,,31%,29.0
+404,oyo Inn 542,Ahmedabad,Banjara Hills,classic,2136 INR,,No reviews,43,
+405,oyo Stay 509,Bangalore,Airport Road,Classic,8854 INR,,,23%,238.0
+406,oyo Collection 424,Kolkata,Banjara Hills,Suite,1445.0,,434,,
+407,oyo Stay 332,Hyderabad,MG Road,Deluxe,₹800,,,41%,
+408,Oyo Residency 37,Jaipur,City Center,classic,2924 INR,,No reviews,55,
+409,oyo Townhouse 214,Goa,Whitefield,Deluxe,6134.0,2.7,574,,
+410,oyo Townhouse 886,Bangalore,Andheri,Suite,5750.0,,847,20,
+411,OYO SilverKey 804,Bangalore,MG Road,Deluxe,1312,,1036,,
+412,Oyo Residency 336,Goa,Andheri,Premium,₹3047,,1385,18%,365.0
+413,Oyo Townhouse 704,Delhi,Banjara Hills,Classic,2126.0,3.6,,,
+414,Oyo Flagship 198,Kolkata,Banjara Hills,Classic,5395.0,,1374,22%,7.0
+415,oyo SilverKey 563,Kolkata,Banjara Hills,classic,5918.0,,,20%,
+416,OYO Townhouse 483,Delhi,Andheri,classic,₹1526,3.4,No reviews,,
+417,OYO Inn 777,Chennai,Andheri,Premium,1986 INR,3.8,No reviews,34,118.0
+418,oyo SilverKey 935,Bangalore,Airport Road,Premium,6654 INR,,No reviews,34%,
+419,Oyo Residency 175,Jaipur,Airport Road,Suite,5324.0,3.9,1040,,284.0
+420,oyo Collection 411,Hyderabad,Park Street,DELUXE,7473,,No reviews,9,
+421,oyo Residency 351,Pune,Andheri,Suite,4569,4.0,,58%,284.0
+422,OYO SilverKey 979,Jaipur,City Center,Classic,₹7348,,No reviews,,111.0
+423,oyo Residency 1,Ahmedabad,Park Street,DELUXE,3103,,,41%,
+424,oyo SilverKey 941,Ahmedabad,Banjara Hills,Classic,7822.0,,,37%,189.0
+425,oyo Stay 841,Delhi,Connaught Place,DELUXE,₹6585,4.5,No reviews,42,
+426,Oyo Stay 217,Pune,Banjara Hills,DELUXE,3541 INR,,No reviews,58%,64.0
+427,OYO Inn 17,Delhi,Andheri,DELUXE,3059 INR,4.0,173,56,
+428,OYO Collection 522,Ahmedabad,City Center,classic,,,727,,255.0
+429,Oyo Collection 949,Goa,Andheri,DELUXE,₹6712,,,,40.0
+430,Oyo Collection 530,Goa,Airport Road,DELUXE,,4.5,No reviews,,
+431,OYO SilverKey 548,Ahmedabad,Banjara Hills,Suite,876 INR,,,31,85.0
+432,oyo SilverKey 745,Ahmedabad,City Center,Suite,₹4967,,,47,248.0
+433,oyo Townhouse 872,Bangalore,MG Road,classic,5252.0,,No reviews,5%,
+434,OYO SilverKey 802,Chennai,MG Road,Premium,4569 INR,,No reviews,,
+435,oyo Collection 744,Kolkata,City Center,Deluxe,3440,,,21%,
+436,Oyo Collection 765,Jaipur,City Center,Suite,4528 INR,,No reviews,38,
+437,oyo Inn 979,Chennai,Connaught Place,Suite,₹1372,,No reviews,46,136.0
+438,oyo Stay 401,Hyderabad,MG Road,Suite,8254,,,,280.0
+439,OYO Townhouse 422,Delhi,Park Street,Classic,,,719,23,12.0
+440,oyo Inn 916,Delhi,Salt Lake,DELUXE,,,245,59%,331.0
+441,oyo Flagship 260,Mumbai,Connaught Place,Suite,5526 INR,4.0,No reviews,54,82.0
+442,OYO Collection 398,Hyderabad,Salt Lake,Deluxe,₹6150,,No reviews,9%,
+443,OYO Stay 788,Mumbai,Airport Road,Classic,7765,3.9,,21%,
+444,OYO Collection 153,Jaipur,City Center,classic,₹714,,,,
+445,Oyo Collection 865,Jaipur,Connaught Place,Suite,,,No reviews,,
+446,OYO Inn 982,Pune,Park Street,Deluxe,2185.0,,No reviews,54,283.0
+447,oyo Flagship 307,Pune,Park Street,Deluxe,₹7091,,996,,18.0
+448,oyo Stay 245,Delhi,City Center,Classic,8715 INR,,No reviews,39,173.0
+449,oyo Townhouse 416,Chennai,MG Road,DELUXE,2636,,No reviews,,296.0
+450,OYO Inn 145,Mumbai,City Center,Deluxe,₹8710,,93,49%,323.0
+451,OYO Collection 626,Hyderabad,Park Street,Classic,,2.6,No reviews,,
+452,oyo Inn 412,Chennai,City Center,classic,₹6012,,1117,25%,
+453,OYO SilverKey 145,Mumbai,MG Road,Classic,7501,,No reviews,20%,
+454,OYO Collection 83,Bangalore,Andheri,DELUXE,₹804,2.9,,23,64.0
+455,oyo SilverKey 536,Bangalore,Andheri,classic,8079 INR,3.1,,7%,
+456,Oyo Townhouse 572,Chennai,Whitefield,Deluxe,4560,,,,237.0
+457,OYO Flagship 116,Hyderabad,Banjara Hills,Deluxe,3144 INR,3.6,1372,46,
+458,oyo Residency 912,Chennai,Andheri,classic,₹8124,2.7,1100,15%,59.0
+459,oyo Collection 607,Kolkata,Park Street,Classic,6040 INR,,667,12,
+460,Oyo Flagship 76,Kolkata,Salt Lake,Suite,,,296,44%,
+461,oyo SilverKey 999,Kolkata,Airport Road,Premium,5118,3.3,,8%,
+462,Oyo Flagship 908,Bangalore,Airport Road,Premium,,,1252,41%,
+463,oyo Collection 858,Kolkata,Park Street,classic,8281.0,,505,,76.0
+464,OYO Townhouse 482,Pune,Andheri,Deluxe,₹8961,,,11,42.0
+465,OYO Flagship 368,Pune,Andheri,classic,5546,4.0,No reviews,47%,298.0
+466,Oyo Residency 142,Jaipur,Airport Road,Premium,7341,,No reviews,50%,
+467,OYO SilverKey 437,Goa,City Center,classic,,3.7,1402,,
+468,OYO Collection 375,Delhi,Whitefield,DELUXE,,,,40%,104.0
+469,OYO Stay 117,Chennai,Connaught Place,Suite,,,,19,
+470,OYO Townhouse 382,Hyderabad,Whitefield,Suite,6356 INR,,No reviews,,
+471,OYO Collection 90,Mumbai,MG Road,Premium,2013 INR,,157,15%,77.0
+472,oyo Townhouse 301,Goa,City Center,Suite,,,No reviews,,96.0
+473,OYO Residency 971,Delhi,Whitefield,classic,6203 INR,,No reviews,,
+474,oyo Flagship 920,Hyderabad,MG Road,Suite,5721,4.3,No reviews,23%,
+475,oyo Flagship 729,Bangalore,Park Street,Classic,5373,,,55%,
+476,OYO Collection 267,Ahmedabad,Connaught Place,Premium,6756,,,25%,276.0
+477,Oyo Townhouse 943,Goa,Whitefield,classic,1108 INR,4.6,No reviews,,
+478,Oyo Residency 588,Jaipur,City Center,Deluxe,,,,51,347.0
+479,OYO Collection 633,Hyderabad,Whitefield,Deluxe,4310 INR,,,,142.0
+480,OYO Stay 870,Delhi,Whitefield,Classic,₹7998,,No reviews,,
+481,OYO Inn 875,Pune,Whitefield,Classic,7706.0,3.4,No reviews,24,
+482,Oyo SilverKey 168,Pune,Andheri,classic,7644 INR,,1224,18,171.0
+483,Oyo Townhouse 7,Ahmedabad,Park Street,Deluxe,7408.0,,,41%,
+484,Oyo Townhouse 843,Goa,MG Road,Suite,,,949,6%,
+485,oyo Inn 915,Mumbai,Andheri,Classic,5413 INR,,1320,12,
+486,Oyo Stay 447,Ahmedabad,Banjara Hills,Deluxe,4925 INR,4.7,,51%,297.0
+487,Oyo Collection 900,Bangalore,Banjara Hills,Suite,2919.0,,No reviews,45%,271.0
+488,OYO Residency 644,Goa,Banjara Hills,Suite,₹3702,3.9,No reviews,,
+489,oyo Stay 361,Mumbai,Airport Road,Deluxe,₹3054,,No reviews,31%,79.0
+490,oyo Stay 707,Kolkata,Banjara Hills,DELUXE,2567 INR,3.6,238,35,185.0
+491,oyo Stay 782,Jaipur,MG Road,DELUXE,6304,4.1,242,,
+492,OYO Flagship 81,Bangalore,Whitefield,classic,₹7660,,883,17%,
+493,Oyo Townhouse 68,Mumbai,Connaught Place,Classic,₹5642,4.2,1232,42%,46.0
+494,oyo SilverKey 361,Hyderabad,City Center,classic,,,,41%,111.0
+495,OYO Residency 551,Hyderabad,MG Road,Premium,₹770,,No reviews,,344.0
+496,Oyo Collection 435,Bangalore,MG Road,Premium,,3.0,643,,
+497,oyo Townhouse 85,Goa,Andheri,Deluxe,6075 INR,,,,
+498,Oyo Flagship 878,Hyderabad,Airport Road,Premium,1840 INR,,367,,224.0
+499,OYO Collection 411,Mumbai,Airport Road,Deluxe,2366,2.6,693,59,
+500,oyo Residency 596,Hyderabad,MG Road,Premium,5172 INR,,No reviews,37,55.0
+501,Oyo Collection 237,Hyderabad,Salt Lake,classic,₹2905,2.7,No reviews,48%,
+502,Oyo Stay 639,Bangalore,Andheri,Premium,₹2278,,No reviews,,
+503,Oyo Residency 881,Goa,Andheri,Premium,₹989,4.8,No reviews,59,18.0
+504,oyo Inn 882,Bangalore,Andheri,DELUXE,5665,3.6,,29%,
+505,oyo Residency 161,Jaipur,Connaught Place,Classic,1613 INR,,,27,14.0
+506,Oyo SilverKey 829,Bangalore,Park Street,Deluxe,1140.0,,No reviews,31%,
+507,OYO Inn 68,Ahmedabad,Salt Lake,classic,₹5695,3.3,No reviews,,
+508,OYO Inn 481,Hyderabad,Airport Road,DELUXE,1064.0,,,56,345.0
+509,Oyo Stay 831,Chennai,Whitefield,Deluxe,6263,,892,36%,
+510,Oyo Stay 412,Delhi,Banjara Hills,Classic,,4.2,,42,
+511,OYO SilverKey 815,Pune,Salt Lake,Premium,1956.0,,,39%,
+512,OYO Townhouse 643,Goa,Salt Lake,classic,,,No reviews,,320.0
+513,OYO SilverKey 474,Goa,Park Street,Premium,3120,,No reviews,31%,
+514,Oyo Inn 616,Bangalore,Andheri,Premium,4568 INR,3.0,393,56,
+515,oyo Townhouse 207,Pune,City Center,DELUXE,3310.0,,,,248.0
+516,OYO SilverKey 617,Delhi,MG Road,Deluxe,₹5582,,,10,57.0
+517,oyo Residency 595,Goa,Connaught Place,classic,4825 INR,4.5,1228,56,199.0
+518,OYO Flagship 110,Pune,Andheri,classic,3569,,No reviews,60%,191.0
+519,oyo Collection 487,Chennai,City Center,DELUXE,4736.0,4.5,No reviews,28,310.0
+520,oyo Residency 688,Delhi,Airport Road,classic,4626.0,,,,
+521,OYO Collection 950,Pune,Connaught Place,DELUXE,4886.0,2.7,609,15,208.0
+522,OYO Residency 799,Hyderabad,Banjara Hills,classic,8755 INR,,No reviews,57%,
+523,oyo Inn 833,Pune,MG Road,Classic,6053 INR,4.1,,45,205.0
+524,Oyo Stay 85,Hyderabad,Salt Lake,Suite,2515,,1329,,
+525,Oyo Flagship 704,Bangalore,Park Street,Classic,6067.0,,752,,11.0
+526,Oyo Flagship 269,Mumbai,MG Road,classic,₹3464,,No reviews,10,60.0
+527,Oyo Residency 943,Goa,Banjara Hills,DELUXE,8133 INR,,416,57,
+528,Oyo Residency 212,Bangalore,City Center,Suite,4231.0,4.2,856,31%,134.0
+529,Oyo Flagship 379,Ahmedabad,Salt Lake,DELUXE,₹8206,2.5,,30%,
+530,OYO Stay 61,Mumbai,City Center,Classic,1553.0,,,,
+531,Oyo Inn 380,Hyderabad,Andheri,Deluxe,,2.6,533,36,
+532,Oyo Flagship 267,Goa,Banjara Hills,Suite,2614.0,2.6,No reviews,28,
+533,Oyo Collection 915,Goa,Andheri,Classic,3403.0,,,,96.0
+534,OYO Flagship 37,Delhi,Connaught Place,DELUXE,8404.0,,893,7,
+535,Oyo Townhouse 867,Jaipur,Whitefield,Suite,₹3125,3.3,581,,288.0
+536,OYO Stay 786,Ahmedabad,Banjara Hills,DELUXE,3658 INR,4.6,,11%,348.0
+537,Oyo Stay 952,Pune,Banjara Hills,classic,2437.0,2.9,,35,336.0
+538,OYO Inn 638,Chennai,Banjara Hills,Suite,8123.0,,1165,18%,28.0
+539,oyo Collection 95,Goa,Salt Lake,Premium,7234.0,,182,59%,145.0
+540,Oyo Collection 821,Mumbai,Whitefield,Deluxe,7783.0,,No reviews,11,
+541,Oyo SilverKey 577,Pune,Airport Road,Classic,₹7631,,1257,45,
+542,oyo Flagship 664,Jaipur,Airport Road,Premium,3240 INR,,1074,34,153.0
+543,oyo SilverKey 862,Bangalore,Airport Road,classic,,,,,
+544,Oyo Inn 738,Mumbai,Andheri,Deluxe,4851.0,3.1,1031,,
+545,OYO Collection 898,Delhi,Connaught Place,Deluxe,5576.0,,No reviews,56,108.0
+546,oyo Stay 266,Mumbai,Andheri,Premium,2442 INR,3.7,808,,
+547,oyo Collection 311,Ahmedabad,City Center,DELUXE,6610 INR,4.4,256,5%,96.0
+548,Oyo Inn 149,Kolkata,MG Road,Premium,4661 INR,,390,54,216.0
+549,OYO Flagship 757,Mumbai,Salt Lake,Classic,7995 INR,,1198,,170.0
+550,oyo Residency 731,Mumbai,City Center,Premium,7774 INR,,,40,
+551,oyo Inn 627,Goa,Airport Road,Suite,8693,,No reviews,,
+552,OYO Collection 638,Jaipur,Connaught Place,Premium,6381 INR,4.1,No reviews,17,118.0
+553,oyo SilverKey 944,Ahmedabad,Connaught Place,Premium,8375,,No reviews,,82.0
+554,oyo Inn 89,Hyderabad,Andheri,Suite,8611,2.9,No reviews,55,120.0
+555,OYO Townhouse 368,Goa,Salt Lake,Classic,4973.0,4.1,1031,9,316.0
+556,oyo Flagship 499,Mumbai,Whitefield,classic,4924.0,4.3,No reviews,,342.0
+557,Oyo Residency 469,Delhi,MG Road,DELUXE,₹2517,,,7%,60.0
+558,OYO Inn 300,Chennai,Airport Road,Deluxe,,3.6,,28%,
+559,OYO Residency 829,Delhi,Connaught Place,DELUXE,8460.0,3.2,No reviews,50,340.0
+560,oyo Collection 807,Bangalore,Connaught Place,Classic,4438,,No reviews,,226.0
+561,oyo Residency 530,Delhi,MG Road,classic,₹1840,,No reviews,8%,
+562,Oyo Inn 718,Pune,Salt Lake,Premium,5686.0,4.6,,,329.0
+563,oyo Residency 634,Goa,Whitefield,Suite,7944.0,,828,24%,199.0
+564,oyo SilverKey 219,Goa,Whitefield,classic,,,,15%,132.0
+565,oyo Collection 518,Hyderabad,Airport Road,Premium,₹2509,,,27%,152.0
+566,Oyo Flagship 825,Jaipur,Salt Lake,classic,4531.0,,,,126.0
+567,oyo Stay 198,Chennai,Salt Lake,Deluxe,6619 INR,,No reviews,10%,243.0
+568,OYO SilverKey 694,Jaipur,Andheri,DELUXE,,,,45,
+569,OYO Stay 131,Bangalore,Andheri,Premium,8642 INR,,,12%,16.0
+570,Oyo Townhouse 617,Goa,Connaught Place,Suite,₹7394,,593,38%,
+571,Oyo Townhouse 811,Hyderabad,Andheri,Classic,3040,,No reviews,23%,
+572,OYO Collection 493,Mumbai,MG Road,Deluxe,,,No reviews,,
+573,oyo Collection 153,Jaipur,Connaught Place,classic,₹6028,,No reviews,19,
+574,oyo Townhouse 887,Hyderabad,Whitefield,Classic,₹3413,,,,98.0
+575,oyo Flagship 769,Ahmedabad,Park Street,Deluxe,,4.6,,6,
+576,oyo Stay 329,Mumbai,Whitefield,Suite,,2.6,No reviews,16%,
+577,OYO Townhouse 555,Mumbai,MG Road,Classic,3455.0,,183,,
+578,OYO Inn 60,Bangalore,City Center,Deluxe,5582 INR,2.7,No reviews,21%,122.0
+579,oyo Residency 517,Jaipur,City Center,Premium,₹7008,,,9,324.0
+580,Oyo Stay 987,Delhi,Airport Road,DELUXE,2363,,No reviews,31,256.0
+581,Oyo Stay 173,Bangalore,Banjara Hills,DELUXE,,,925,57,85.0
+582,Oyo SilverKey 613,Delhi,City Center,Deluxe,4810 INR,,,37,273.0
+583,OYO Collection 716,Hyderabad,Connaught Place,DELUXE,2714,,884,37,
+584,OYO Inn 330,Hyderabad,City Center,classic,6297,,672,,243.0
+585,oyo Flagship 424,Delhi,Andheri,DELUXE,8711 INR,,1333,,
+586,oyo SilverKey 397,Pune,City Center,Suite,₹3603,,No reviews,,
+587,OYO Residency 629,Kolkata,Park Street,Classic,5667,,743,,
+588,Oyo Stay 513,Mumbai,MG Road,Classic,8793,,,,301.0
+589,OYO SilverKey 956,Mumbai,Whitefield,classic,,,,,
+590,Oyo Inn 690,Delhi,Andheri,Suite,1549.0,,561,38,264.0
+591,OYO SilverKey 941,Kolkata,City Center,DELUXE,,3.5,802,,
+592,OYO Flagship 169,Mumbai,Connaught Place,Suite,6094.0,,198,35%,126.0
+593,OYO SilverKey 853,Jaipur,Andheri,classic,1591.0,3.7,,44%,63.0
+594,OYO Collection 321,Delhi,Airport Road,Classic,1765,,No reviews,45,346.0
+595,OYO SilverKey 871,Goa,City Center,Premium,6949 INR,,,,
+596,oyo Stay 104,Pune,Airport Road,classic,₹6264,,1203,11%,99.0
+597,Oyo SilverKey 432,Goa,Salt Lake,classic,,3.5,281,13,
+598,oyo Stay 795,Hyderabad,MG Road,Classic,3085,,No reviews,,121.0
+599,Oyo Flagship 206,Pune,Connaught Place,classic,₹3997,,,,
+600,Oyo Collection 337,Ahmedabad,Park Street,Premium,₹3358,3.5,1015,5%,319.0
+601,Oyo Inn 787,Kolkata,City Center,classic,6131 INR,3.0,No reviews,9,58.0
+602,Oyo Flagship 647,Hyderabad,MG Road,Suite,₹6596,4.7,No reviews,19,283.0
+603,OYO Townhouse 181,Bangalore,Connaught Place,Deluxe,₹4989,,No reviews,46%,
+604,Oyo Residency 382,Kolkata,MG Road,Deluxe,,,,9%,
+605,Oyo Stay 440,Chennai,Connaught Place,Deluxe,₹4706,,,23%,
+606,oyo Stay 908,Bangalore,Salt Lake,DELUXE,8711,,,,
+607,oyo Collection 184,Jaipur,Salt Lake,DELUXE,5972.0,,No reviews,,298.0
+608,OYO Flagship 463,Kolkata,Banjara Hills,classic,4540 INR,,,58,43.0
+609,Oyo Collection 532,Mumbai,Andheri,Premium,6460,,,32,
+610,Oyo SilverKey 392,Jaipur,Whitefield,classic,1104,,1321,10,279.0
+611,OYO Townhouse 122,Hyderabad,Banjara Hills,DELUXE,1868.0,2.6,683,26,
+612,oyo Stay 142,Kolkata,City Center,Premium,₹4978,,No reviews,,334.0
+613,OYO Flagship 741,Pune,Connaught Place,Classic,4138 INR,,No reviews,57,160.0
+614,oyo Collection 215,Pune,Banjara Hills,DELUXE,7887 INR,4.5,767,41%,
+615,Oyo Flagship 430,Chennai,City Center,Deluxe,7674 INR,,No reviews,25%,
+616,oyo Residency 618,Ahmedabad,Airport Road,Suite,7104 INR,,,17,
+617,OYO Flagship 107,Hyderabad,Salt Lake,Suite,₹3610,,1000,16%,105.0
+618,oyo Stay 72,Hyderabad,MG Road,Classic,₹8149,3.3,No reviews,31,
+619,oyo Townhouse 399,Jaipur,Banjara Hills,classic,4082,,,47%,
+620,OYO Townhouse 147,Hyderabad,Andheri,Premium,₹8002,,,41,294.0
+621,Oyo Inn 903,Mumbai,Salt Lake,Deluxe,8176.0,,No reviews,44%,
+622,Oyo Inn 188,Jaipur,Banjara Hills,DELUXE,2265 INR,4.1,490,,34.0
+623,Oyo Residency 567,Jaipur,Banjara Hills,Deluxe,2686.0,2.7,No reviews,31%,259.0
+624,OYO Townhouse 655,Jaipur,Airport Road,DELUXE,8267 INR,,No reviews,5,
+625,Oyo Collection 70,Jaipur,MG Road,Deluxe,,,896,57,9.0
+626,Oyo Townhouse 548,Bangalore,MG Road,Deluxe,7103,2.7,No reviews,33,365.0
+627,OYO Collection 714,Goa,Andheri,Classic,,,1351,49,306.0
+628,Oyo Residency 207,Delhi,Connaught Place,Deluxe,4791.0,4.6,187,31%,348.0
+629,OYO Residency 856,Kolkata,Park Street,classic,3450,,No reviews,,
+630,OYO Flagship 219,Pune,Park Street,Premium,2434.0,3.2,,5,112.0
+631,oyo Stay 378,Hyderabad,Whitefield,classic,₹1419,,,,
+632,oyo SilverKey 647,Mumbai,Airport Road,Suite,7066,,No reviews,47,
+633,oyo Inn 760,Pune,Banjara Hills,Deluxe,,3.9,476,44%,219.0
+634,OYO Townhouse 141,Ahmedabad,Andheri,DELUXE,6836 INR,3.2,769,46%,168.0
+635,Oyo Inn 806,Hyderabad,Connaught Place,Suite,,,No reviews,53%,124.0
+636,OYO Inn 255,Goa,Airport Road,Premium,,,658,33%,35.0
+637,oyo Flagship 961,Delhi,Salt Lake,DELUXE,4045,,1124,20%,
+638,oyo Flagship 251,Bangalore,Banjara Hills,Premium,7647,,,33%,
+639,Oyo Flagship 483,Pune,City Center,Premium,7931 INR,,887,55,218.0
+640,oyo Stay 157,Hyderabad,Andheri,Classic,3578.0,,No reviews,,170.0
+641,OYO Flagship 939,Jaipur,Salt Lake,Premium,₹3806,,,36,
+642,Oyo Inn 603,Jaipur,Banjara Hills,DELUXE,1867 INR,4.5,,17,
+643,oyo Townhouse 667,Chennai,City Center,DELUXE,7013 INR,4.2,978,,340.0
+644,oyo Collection 967,Hyderabad,Salt Lake,Premium,3114.0,,1357,5%,361.0
+645,OYO Collection 170,Goa,Salt Lake,DELUXE,7693.0,,,42,45.0
+646,Oyo Residency 147,Ahmedabad,City Center,Classic,5107,,No reviews,15,
+647,Oyo Inn 296,Goa,Whitefield,Classic,7760,2.9,1441,17%,230.0
+648,OYO Townhouse 768,Bangalore,MG Road,Classic,3693,,,,150.0
+649,OYO SilverKey 66,Pune,City Center,Suite,₹6305,,,53%,3.0
+650,OYO Stay 811,Mumbai,Salt Lake,Suite,818 INR,,No reviews,,
+651,OYO SilverKey 682,Chennai,Salt Lake,DELUXE,7228 INR,,676,,71.0
+652,OYO Residency 544,Ahmedabad,Salt Lake,DELUXE,5278,,,,96.0
+653,OYO Inn 369,Chennai,Airport Road,Suite,1449.0,4.1,No reviews,,
+654,oyo Collection 301,Mumbai,Airport Road,Suite,3896,,,13,
+655,Oyo Townhouse 494,Bangalore,City Center,Deluxe,4646,,1433,,
+656,OYO Inn 264,Hyderabad,Connaught Place,Deluxe,₹8503,,,,294.0
+657,Oyo Inn 761,Chennai,Airport Road,Classic,,,477,12,
+658,OYO Inn 965,Ahmedabad,City Center,classic,,,,5,274.0
+659,Oyo SilverKey 790,Pune,Whitefield,Premium,6680,,1209,11%,161.0
+660,OYO Collection 697,Hyderabad,Banjara Hills,classic,8167,3.9,,43,352.0
+661,oyo Stay 490,Hyderabad,Park Street,DELUXE,4234 INR,,No reviews,,115.0
+662,Oyo Inn 402,Bangalore,Connaught Place,Premium,5600,,No reviews,48,200.0
+663,oyo SilverKey 290,Goa,Banjara Hills,Premium,,3.4,,60%,335.0
+664,OYO Collection 713,Ahmedabad,City Center,Suite,8604.0,4.6,,,294.0
+665,Oyo Collection 696,Bangalore,Connaught Place,classic,₹3456,,367,,222.0
+666,OYO Townhouse 122,Pune,Airport Road,Premium,4646 INR,,1220,52,
+667,oyo Inn 456,Hyderabad,Park Street,Classic,₹6718,2.8,No reviews,,
+668,oyo Inn 97,Hyderabad,Airport Road,Suite,3667 INR,,No reviews,24%,32.0
+669,oyo Townhouse 404,Pune,Airport Road,Deluxe,₹8704,,,,337.0
+670,oyo Inn 185,Bangalore,MG Road,Classic,,,251,13%,
+671,OYO Townhouse 519,Delhi,City Center,classic,5591.0,4.7,,20,
+672,oyo Collection 712,Bangalore,Airport Road,DELUXE,,,,,22.0
+673,OYO Flagship 307,Delhi,Salt Lake,Classic,4226,3.9,No reviews,,
+674,Oyo Inn 926,Hyderabad,Park Street,Classic,3375 INR,,No reviews,,
+675,oyo SilverKey 578,Kolkata,Airport Road,Suite,3387 INR,,No reviews,6%,63.0
+676,Oyo Townhouse 338,Goa,Salt Lake,Deluxe,2157.0,,299,22%,193.0
+677,OYO Stay 746,Mumbai,Banjara Hills,classic,,,,,138.0
+678,OYO SilverKey 970,Delhi,Andheri,classic,7082,,,43,
+679,oyo Stay 731,Delhi,Park Street,DELUXE,3247,,547,45,
+680,OYO Collection 363,Jaipur,Airport Road,Suite,,,,19,
+681,oyo Townhouse 79,Mumbai,City Center,Premium,₹4632,2.9,,40,346.0
+682,Oyo Stay 702,Jaipur,Connaught Place,Deluxe,2742 INR,2.5,,,338.0
+683,Oyo Flagship 691,Ahmedabad,Salt Lake,Deluxe,4387,2.7,No reviews,32,191.0
+684,oyo Flagship 852,Chennai,Salt Lake,Deluxe,2631.0,,542,,156.0
+685,oyo Residency 500,Jaipur,Connaught Place,DELUXE,1642.0,,No reviews,27%,
+686,OYO Townhouse 442,Chennai,MG Road,DELUXE,8761,,No reviews,12%,128.0
+687,Oyo SilverKey 307,Jaipur,MG Road,Deluxe,6671 INR,,551,47,
+688,Oyo Residency 727,Delhi,City Center,Deluxe,₹3951,2.9,No reviews,52,341.0
+689,oyo SilverKey 122,Jaipur,Whitefield,DELUXE,7599 INR,,1462,53,199.0
+690,OYO Residency 22,Mumbai,Salt Lake,classic,2766,3.3,1401,48,
+691,Oyo SilverKey 498,Jaipur,Airport Road,Suite,2053 INR,3.1,,20,358.0
+692,OYO Collection 724,Pune,Airport Road,Deluxe,,3.9,,45%,205.0
+693,OYO Flagship 437,Hyderabad,Park Street,Deluxe,,3.0,No reviews,,
+694,OYO Stay 438,Jaipur,Connaught Place,Classic,1546.0,,No reviews,50%,93.0
+695,OYO Inn 763,Delhi,Andheri,Suite,5969,,1242,16,
+696,OYO Inn 14,Mumbai,Banjara Hills,Deluxe,2834.0,,,43%,
+697,OYO Flagship 645,Mumbai,Airport Road,classic,₹2671,,390,50%,
+698,oyo Collection 780,Hyderabad,Banjara Hills,classic,,4.2,261,,
+699,oyo Inn 121,Jaipur,MG Road,Suite,₹7845,,1031,43,23.0
+700,oyo Residency 408,Kolkata,Whitefield,Premium,,4.5,No reviews,37,
+701,OYO Townhouse 164,Kolkata,Banjara Hills,Suite,,,,,
+702,oyo Townhouse 176,Hyderabad,Banjara Hills,Classic,₹4368,,,14%,328.0
+703,oyo Townhouse 2,Kolkata,MG Road,Premium,,,,,
+704,OYO Inn 836,Chennai,Airport Road,DELUXE,870.0,,No reviews,,
+705,oyo Inn 619,Hyderabad,MG Road,Premium,4077 INR,,,56,
+706,OYO Collection 96,Chennai,Banjara Hills,Classic,8825,3.6,,36%,158.0
+707,Oyo Inn 623,Bangalore,Whitefield,Deluxe,₹3777,,No reviews,46%,6.0
+708,Oyo Townhouse 113,Pune,City Center,Classic,₹922,2.8,548,45%,
+709,OYO Flagship 492,Mumbai,Banjara Hills,DELUXE,7979,,316,,278.0
+710,OYO Townhouse 558,Delhi,Salt Lake,Premium,₹5561,,290,19%,
+711,OYO Inn 394,Hyderabad,Connaught Place,Classic,2541 INR,2.9,459,23%,184.0
+712,oyo Flagship 183,Delhi,Banjara Hills,classic,,3.3,No reviews,,
+713,Oyo Collection 678,Mumbai,MG Road,Suite,6747.0,,156,,
+714,oyo Residency 805,Jaipur,MG Road,Deluxe,₹8538,,No reviews,10,
+715,Oyo Collection 493,Chennai,Whitefield,Premium,,,,29,
+716,oyo Residency 236,Goa,Park Street,DELUXE,₹7001,,,,44.0
+717,OYO Flagship 872,Chennai,Banjara Hills,Premium,981.0,3.8,225,27%,
+718,OYO Residency 230,Kolkata,Salt Lake,Suite,1615,,1441,29%,27.0
+719,OYO Collection 858,Ahmedabad,Salt Lake,Deluxe,₹3291,2.8,161,,
+720,oyo Stay 716,Bangalore,Airport Road,Deluxe,5607 INR,,,5,30.0
+721,OYO Stay 165,Ahmedabad,Whitefield,Suite,878 INR,,,58,363.0
+722,OYO SilverKey 997,Pune,Salt Lake,Deluxe,,3.4,No reviews,44%,286.0
+723,Oyo SilverKey 669,Jaipur,Airport Road,Classic,7337 INR,,No reviews,17%,
+724,OYO SilverKey 167,Delhi,City Center,Deluxe,₹2444,3.0,633,,137.0
+725,oyo Townhouse 578,Ahmedabad,Salt Lake,classic,₹8626,2.6,632,53,
+726,oyo SilverKey 998,Pune,City Center,classic,₹2822,,1031,37%,
+727,OYO SilverKey 166,Ahmedabad,MG Road,DELUXE,3182 INR,,,,
+728,OYO SilverKey 298,Jaipur,Park Street,Deluxe,,,,48,312.0
+729,oyo Inn 510,Bangalore,Connaught Place,Deluxe,₹2295,,1120,11,151.0
+730,Oyo Stay 373,Mumbai,MG Road,Classic,₹6489,,No reviews,21,
+731,Oyo Residency 294,Delhi,Connaught Place,Suite,7268 INR,,No reviews,,
+732,Oyo SilverKey 899,Goa,MG Road,Classic,,4.7,,57%,
+733,oyo Collection 875,Bangalore,Whitefield,Premium,1895,,1370,34,55.0
+734,oyo Townhouse 940,Bangalore,Park Street,DELUXE,7203 INR,,No reviews,43,243.0
+735,Oyo Townhouse 559,Hyderabad,City Center,Suite,3251 INR,2.8,,43,
+736,OYO Flagship 889,Kolkata,Salt Lake,Classic,1075 INR,,360,9,
+737,oyo Flagship 686,Pune,Park Street,Suite,4950,4.4,No reviews,53%,
+738,oyo Inn 803,Jaipur,Park Street,Classic,3332 INR,,No reviews,,341.0
+739,oyo Residency 962,Chennai,Salt Lake,Suite,₹5885,,No reviews,60%,266.0
+740,OYO Inn 461,Jaipur,Salt Lake,Deluxe,₹2296,3.0,,39%,178.0
+741,oyo Stay 979,Kolkata,Andheri,DELUXE,935.0,4.4,No reviews,37%,
+742,Oyo SilverKey 849,Pune,MG Road,classic,,,232,32,304.0
+743,Oyo Collection 292,Goa,Salt Lake,Classic,7867.0,4.1,179,10%,254.0
+744,oyo Stay 826,Jaipur,Park Street,Premium,1234.0,4.5,No reviews,40%,
+745,Oyo Residency 661,Jaipur,Banjara Hills,Premium,₹7184,4.7,No reviews,47,344.0
+746,Oyo Townhouse 16,Delhi,Salt Lake,Deluxe,1130,,No reviews,,
+747,oyo Inn 403,Kolkata,Whitefield,Deluxe,,,,30,223.0
+748,oyo Residency 130,Mumbai,Connaught Place,Deluxe,₹8961,,No reviews,58%,47.0
+749,Oyo Townhouse 644,Delhi,MG Road,Premium,₹3207,,,,
+750,OYO Inn 920,Bangalore,City Center,Suite,4333.0,2.9,No reviews,,42.0
+751,oyo Stay 888,Delhi,MG Road,Classic,₹2394,,251,23,
+752,OYO Collection 104,Chennai,Salt Lake,Suite,₹8745,,1281,48,
+753,OYO SilverKey 11,Bangalore,Whitefield,Classic,,4.0,No reviews,,
+754,OYO Stay 31,Mumbai,Connaught Place,Deluxe,,3.7,No reviews,12%,112.0
+755,Oyo SilverKey 494,Bangalore,Salt Lake,classic,₹3964,,No reviews,52,204.0
+756,OYO Flagship 704,Hyderabad,Andheri,Premium,5305 INR,,638,,
+757,oyo SilverKey 836,Ahmedabad,Airport Road,Premium,,,879,27,85.0
+758,Oyo Stay 420,Goa,MG Road,Suite,,,No reviews,30%,219.0
+759,OYO Townhouse 221,Chennai,Connaught Place,Deluxe,6789.0,,250,25%,
+760,oyo Townhouse 395,Kolkata,Airport Road,classic,,3.0,,,
+761,Oyo Residency 328,Pune,Airport Road,Premium,3946,,1021,22%,
+762,Oyo Flagship 591,Ahmedabad,City Center,classic,1048.0,,No reviews,13,270.0
+763,oyo Townhouse 72,Chennai,Salt Lake,Classic,₹8398,,No reviews,25,
+764,oyo Townhouse 403,Jaipur,Park Street,Classic,5589 INR,,No reviews,44%,5.0
+765,Oyo Residency 705,Mumbai,City Center,Suite,7838,2.9,No reviews,57%,22.0
+766,Oyo Townhouse 271,Delhi,Andheri,Classic,,,,,
+767,oyo Residency 990,Bangalore,Andheri,Suite,7471 INR,,1080,,
+768,OYO SilverKey 785,Kolkata,Airport Road,Classic,₹5553,3.3,,52%,253.0
+769,OYO Inn 222,Kolkata,Whitefield,Suite,8370 INR,2.9,697,,
+770,oyo Townhouse 937,Bangalore,Park Street,Classic,2830,,,17,
+771,oyo SilverKey 975,Bangalore,Banjara Hills,Classic,2372,3.6,225,6%,
+772,Oyo Townhouse 950,Chennai,City Center,Premium,2077.0,3.5,,37,
+773,OYO Inn 392,Mumbai,Andheri,classic,7623,,,,221.0
+774,oyo Flagship 982,Delhi,Airport Road,Suite,2519,2.8,No reviews,,
+775,Oyo Townhouse 226,Pune,Banjara Hills,DELUXE,5095 INR,3.0,,,1.0
+776,oyo Inn 638,Bangalore,MG Road,Deluxe,8511.0,,488,25%,
+777,OYO Inn 486,Bangalore,Connaught Place,Premium,7711.0,,157,48%,298.0
+778,OYO Collection 113,Jaipur,Airport Road,Classic,₹1440,,,37%,
+779,Oyo Inn 360,Jaipur,Whitefield,DELUXE,4916 INR,,No reviews,50,
+780,Oyo Inn 532,Mumbai,Park Street,classic,1039,4.8,1350,27%,
+781,OYO Inn 92,Chennai,MG Road,Suite,3875 INR,,,,
+782,Oyo Stay 428,Chennai,Airport Road,Premium,5226.0,,,,
+783,OYO Townhouse 511,Hyderabad,Banjara Hills,Premium,3110 INR,,,40%,147.0
+784,OYO Collection 42,Hyderabad,Connaught Place,DELUXE,4260.0,4.4,No reviews,5,0.0
+785,OYO SilverKey 900,Hyderabad,Park Street,Premium,,,317,50%,299.0
+786,OYO Townhouse 485,Hyderabad,Banjara Hills,classic,6510,,No reviews,11,159.0
+787,Oyo Inn 897,Ahmedabad,Banjara Hills,Suite,,2.8,512,31%,
+788,oyo Collection 559,Ahmedabad,Connaught Place,classic,3704 INR,,196,,
+789,Oyo Collection 478,Jaipur,Banjara Hills,Deluxe,7589 INR,,No reviews,10%,
+790,oyo Stay 922,Bangalore,Whitefield,Premium,₹5506,,No reviews,5,27.0
+791,Oyo Residency 666,Delhi,Airport Road,DELUXE,2453.0,,No reviews,49%,299.0
+792,oyo Flagship 576,Kolkata,City Center,Premium,8815,,1310,45,319.0
+793,OYO Townhouse 157,Mumbai,Andheri,Premium,,2.7,No reviews,,28.0
+794,Oyo Collection 189,Hyderabad,Airport Road,Premium,,,No reviews,,74.0
+795,OYO Residency 763,Bangalore,Banjara Hills,DELUXE,4643,,1119,35,
+796,oyo SilverKey 401,Chennai,Salt Lake,Classic,₹7021,,303,23%,
+797,oyo Inn 915,Delhi,City Center,Deluxe,₹7982,,No reviews,34,183.0
+798,oyo Stay 400,Chennai,MG Road,Suite,1728,,,26,
+799,OYO Residency 661,Pune,Whitefield,Suite,8625 INR,,1349,,
+800,oyo SilverKey 599,Ahmedabad,Andheri,DELUXE,₹7315,,325,11%,
+801,oyo Residency 243,Kolkata,Airport Road,Classic,2427,,860,44,
+802,oyo Inn 861,Chennai,Whitefield,Deluxe,1182,,No reviews,,
+803,Oyo Inn 293,Jaipur,Airport Road,Deluxe,4394,,1082,10%,17.0
+804,Oyo Residency 418,Delhi,Park Street,classic,1879.0,,,38%,
+805,oyo Stay 874,Chennai,Whitefield,Suite,₹2958,,770,41%,51.0
+806,OYO Townhouse 616,Jaipur,MG Road,Suite,₹6121,,No reviews,50%,38.0
+807,oyo Stay 320,Goa,City Center,Classic,,,,,
+808,OYO SilverKey 910,Hyderabad,Airport Road,classic,1673,,,20,312.0
+809,OYO Collection 613,Chennai,Andheri,classic,,3.6,,7%,
+810,Oyo SilverKey 801,Pune,City Center,classic,₹4431,4.6,,60,246.0
+811,Oyo Inn 129,Pune,Park Street,Suite,7740 INR,3.8,896,28,223.0
+812,OYO Townhouse 603,Kolkata,Park Street,Classic,864,,1163,,39.0
+813,Oyo Flagship 290,Bangalore,Andheri,DELUXE,1416.0,,No reviews,43,62.0
+814,Oyo Stay 211,Mumbai,Banjara Hills,DELUXE,8808.0,4.6,,,
+815,oyo Stay 516,Chennai,Park Street,Deluxe,₹2410,,,36%,266.0
+816,oyo Stay 216,Hyderabad,Andheri,Classic,2711.0,4.2,73,,
+817,Oyo SilverKey 603,Delhi,Andheri,Classic,6994.0,4.4,No reviews,44,
+818,OYO Flagship 211,Jaipur,Connaught Place,Classic,6914,,,,
+819,oyo Flagship 776,Hyderabad,City Center,Classic,1148.0,,No reviews,,
+820,oyo Collection 435,Hyderabad,Banjara Hills,Classic,4961,,487,,
+821,oyo Collection 40,Chennai,Connaught Place,Suite,5193.0,,,12,
+822,OYO Collection 10,Jaipur,Airport Road,Suite,₹8342,,,18%,
+823,Oyo Flagship 265,Mumbai,City Center,Deluxe,5224.0,4.5,,,58.0
+824,oyo Stay 882,Bangalore,Banjara Hills,Classic,,,1469,50,
+825,oyo Townhouse 615,Goa,Park Street,Suite,4545.0,,908,37%,
+826,OYO Inn 437,Pune,Andheri,Suite,5338,,No reviews,46,318.0
+827,Oyo Townhouse 298,Bangalore,Whitefield,classic,,,No reviews,,
+828,Oyo Residency 597,Kolkata,Whitefield,DELUXE,1234,,160,,214.0
+829,OYO Stay 484,Goa,Park Street,Premium,7925.0,,600,20,161.0
+830,Oyo Inn 981,Kolkata,Park Street,Premium,7416.0,,1035,46,214.0
+831,OYO Stay 251,Ahmedabad,Airport Road,Premium,,,No reviews,26%,215.0
+832,Oyo Inn 903,Ahmedabad,Andheri,DELUXE,3945,4.5,341,,51.0
+833,Oyo Townhouse 707,Delhi,Whitefield,Deluxe,₹3435,,No reviews,13,
+834,Oyo Residency 920,Mumbai,Andheri,Premium,,3.9,1479,52,
+835,Oyo Residency 489,Pune,Connaught Place,DELUXE,2905,,1043,,
+836,Oyo Collection 181,Pune,Whitefield,Premium,₹5276,,698,,
+837,Oyo Residency 183,Pune,Connaught Place,Classic,₹3046,,1497,38,
+838,OYO SilverKey 281,Bangalore,Park Street,DELUXE,8673 INR,3.0,No reviews,43%,142.0
+839,OYO Stay 859,Mumbai,Andheri,Classic,₹3466,3.9,,56%,189.0
+840,oyo Collection 750,Hyderabad,Andheri,Premium,,,604,50%,
+841,OYO SilverKey 750,Mumbai,Whitefield,Suite,2608.0,,,9%,
+842,oyo Residency 76,Goa,City Center,DELUXE,₹5857,,No reviews,,321.0
+843,OYO Stay 386,Kolkata,MG Road,Deluxe,4307,3.1,992,36,325.0
+844,oyo Inn 220,Goa,Salt Lake,DELUXE,752 INR,,1251,50%,
+845,OYO Inn 358,Ahmedabad,Andheri,DELUXE,,4.0,614,47,
+846,Oyo SilverKey 99,Goa,Salt Lake,Classic,₹4286,,No reviews,,
+847,oyo Townhouse 356,Chennai,City Center,Suite,7222,,,31%,137.0
+848,OYO Stay 791,Pune,City Center,Suite,5995.0,,No reviews,30,248.0
+849,oyo Residency 47,Chennai,Airport Road,classic,5754 INR,,,,
+850,oyo Stay 21,Bangalore,Airport Road,DELUXE,1045 INR,,No reviews,,25.0
+851,oyo Flagship 161,Chennai,Park Street,Classic,7180,3.2,No reviews,,18.0
+852,OYO Stay 408,Goa,Park Street,Classic,₹8644,,49,,139.0
+853,oyo Collection 135,Pune,City Center,Classic,₹5123,,,51,277.0
+854,oyo Stay 812,Mumbai,Banjara Hills,Suite,7108,,No reviews,37%,234.0
+855,Oyo Inn 591,Mumbai,Banjara Hills,DELUXE,8423 INR,3.2,No reviews,22,273.0
+856,OYO Collection 746,Pune,Salt Lake,Deluxe,7149.0,,No reviews,19%,
+857,oyo Townhouse 659,Jaipur,Andheri,classic,5789.0,,171,40%,127.0
+858,Oyo Stay 859,Bangalore,Salt Lake,Suite,,,476,36,172.0
+859,Oyo Inn 579,Delhi,Park Street,Suite,₹7360,3.1,No reviews,36,
+860,oyo Residency 758,Goa,Whitefield,DELUXE,₹2034,3.5,769,53%,62.0
+861,Oyo Residency 996,Kolkata,MG Road,DELUXE,₹2562,,,38,
+862,OYO SilverKey 121,Pune,MG Road,Deluxe,7834.0,,,44,148.0
+863,oyo SilverKey 532,Ahmedabad,Andheri,Classic,4816 INR,,1474,,
+864,OYO Collection 69,Bangalore,Airport Road,Classic,791.0,4.1,1421,34,
+865,OYO Townhouse 359,Ahmedabad,Banjara Hills,Suite,4403.0,3.9,No reviews,60,
+866,oyo Stay 657,Hyderabad,Airport Road,Deluxe,₹4019,3.9,1496,16,
+867,oyo Residency 874,Chennai,Park Street,Classic,,,428,5%,314.0
+868,OYO Collection 896,Bangalore,Andheri,Suite,704.0,2.7,,33,154.0
+869,oyo Collection 387,Kolkata,MG Road,DELUXE,7016 INR,,,10%,142.0
+870,oyo Collection 502,Pune,Andheri,DELUXE,₹4804,,No reviews,6,
+871,oyo Stay 898,Kolkata,Park Street,Classic,3829 INR,,21,,
+872,OYO SilverKey 938,Chennai,Andheri,Premium,,,559,,
+873,oyo Townhouse 995,Hyderabad,Whitefield,Classic,1198 INR,,No reviews,,
+874,oyo Inn 157,Delhi,Connaught Place,Classic,3598,2.7,No reviews,45%,
+875,oyo Stay 756,Kolkata,Whitefield,Classic,973.0,,1452,51,
+876,oyo Inn 63,Pune,Andheri,Classic,1764,,,22%,141.0
+877,Oyo Flagship 651,Goa,Airport Road,classic,752.0,,No reviews,,237.0
+878,OYO Flagship 748,Mumbai,Connaught Place,Premium,2115,,41,55%,41.0
+879,oyo Inn 966,Hyderabad,Connaught Place,Premium,3830,,No reviews,16%,115.0
+880,OYO Flagship 303,Hyderabad,Whitefield,Premium,4949 INR,,,,323.0
+881,oyo Collection 160,Delhi,Whitefield,DELUXE,4151 INR,,591,,137.0
+882,OYO SilverKey 224,Goa,MG Road,Premium,8362.0,2.6,,16,
+883,oyo Collection 675,Chennai,Connaught Place,Suite,1254.0,,734,31,331.0
+884,Oyo SilverKey 167,Bangalore,Salt Lake,DELUXE,,2.9,,,
+885,Oyo Inn 383,Kolkata,Salt Lake,Premium,6235 INR,,82,53%,
+886,OYO Flagship 525,Ahmedabad,MG Road,DELUXE,3426.0,,1073,41%,170.0
+887,Oyo Residency 785,Mumbai,MG Road,Suite,3017.0,3.6,943,47%,157.0
+888,OYO Residency 209,Bangalore,City Center,Premium,₹7852,4.2,,54,
+889,Oyo Stay 704,Mumbai,Salt Lake,Deluxe,7156,,No reviews,50%,162.0
+890,Oyo SilverKey 840,Pune,City Center,Deluxe,,3.4,No reviews,,311.0
+891,Oyo SilverKey 349,Kolkata,Park Street,Classic,₹8915,,,13,
+892,OYO SilverKey 394,Pune,Banjara Hills,Premium,3647 INR,,,57%,91.0
+893,oyo Stay 855,Pune,City Center,Deluxe,2443 INR,,,46,163.0
+894,oyo Collection 703,Ahmedabad,Salt Lake,Suite,₹8149,,No reviews,8,324.0
+895,Oyo Stay 382,Ahmedabad,Airport Road,Deluxe,8458.0,,228,39,
+896,Oyo Flagship 528,Ahmedabad,Connaught Place,Classic,8154 INR,,81,36,
+897,Oyo SilverKey 692,Hyderabad,Connaught Place,Suite,₹5552,3.7,No reviews,6,325.0
+898,OYO SilverKey 750,Ahmedabad,MG Road,DELUXE,,4.2,358,39%,
+899,Oyo Collection 706,Hyderabad,Airport Road,Premium,,3.8,No reviews,28%,262.0
+900,oyo Inn 310,Chennai,Salt Lake,Classic,7622 INR,,,46%,
+901,oyo Stay 553,Hyderabad,MG Road,Suite,₹4693,,No reviews,,256.0
+902,Oyo Flagship 695,Ahmedabad,Banjara Hills,Premium,5368.0,2.5,No reviews,13,
+903,OYO Flagship 19,Mumbai,Salt Lake,DELUXE,6018,,,57,
+904,Oyo Collection 953,Goa,Andheri,Deluxe,905.0,,910,,272.0
+905,Oyo Collection 34,Pune,Banjara Hills,Suite,1987 INR,,170,38,
+906,OYO Flagship 640,Jaipur,Andheri,Deluxe,,,850,,192.0
+907,oyo Residency 127,Pune,Salt Lake,classic,2288 INR,3.0,No reviews,16%,
+908,Oyo Stay 286,Kolkata,Whitefield,classic,5933.0,,,45,
+909,Oyo Collection 775,Kolkata,Whitefield,Suite,8300.0,,321,30%,237.0
+910,Oyo Stay 669,Mumbai,Whitefield,Classic,7550 INR,,,,
+911,Oyo Stay 256,Delhi,Salt Lake,classic,,,No reviews,,261.0
+912,Oyo SilverKey 741,Bangalore,City Center,Deluxe,4620,,No reviews,13%,
+913,OYO Inn 618,Jaipur,Connaught Place,Deluxe,7968,,,,
+914,OYO Inn 34,Mumbai,Airport Road,DELUXE,,,No reviews,,310.0
+915,Oyo Residency 744,Jaipur,Andheri,Premium,1679.0,,No reviews,,63.0
+916,Oyo Residency 846,Bangalore,Park Street,Suite,2531,,695,55,
+917,Oyo Inn 504,Mumbai,Banjara Hills,classic,4709.0,,No reviews,,140.0
+918,OYO Stay 296,Bangalore,MG Road,classic,1125,,,,
+919,oyo Collection 690,Jaipur,Banjara Hills,DELUXE,5531,,263,23,116.0
+920,oyo SilverKey 152,Kolkata,Connaught Place,DELUXE,897.0,,No reviews,35%,
+921,Oyo Collection 887,Goa,Airport Road,Suite,8650,,No reviews,,
+922,OYO Flagship 285,Kolkata,Whitefield,Deluxe,2659,,,,
+923,Oyo Inn 102,Delhi,City Center,Premium,,,,39%,290.0
+924,Oyo Residency 758,Kolkata,Whitefield,Suite,3693,,934,43,46.0
+925,OYO Stay 311,Mumbai,City Center,Suite,1697,,No reviews,,324.0
+926,Oyo Townhouse 453,Kolkata,City Center,classic,2066 INR,,1207,36,220.0
+927,oyo Flagship 604,Jaipur,Connaught Place,classic,₹8175,,No reviews,36%,
+928,Oyo Residency 545,Hyderabad,MG Road,Premium,4779.0,,No reviews,45%,
+929,Oyo Collection 168,Goa,Whitefield,Deluxe,₹3629,,623,33,99.0
+930,OYO SilverKey 514,Kolkata,MG Road,Suite,5703.0,,,24%,80.0
+931,OYO Residency 162,Pune,Banjara Hills,Deluxe,3274.0,,,,
+932,Oyo Flagship 314,Hyderabad,Salt Lake,Classic,6167.0,,No reviews,41,206.0
+933,Oyo Inn 825,Pune,Banjara Hills,Suite,2992 INR,4.3,1442,,191.0
+934,Oyo Residency 392,Chennai,Airport Road,Classic,,3.8,,33,124.0
+935,oyo Collection 965,Chennai,Salt Lake,Classic,₹8398,,,20,51.0
+936,Oyo Stay 379,Chennai,MG Road,Deluxe,7878.0,2.8,No reviews,51,
+937,OYO Stay 91,Ahmedabad,City Center,Deluxe,7880,,No reviews,38,
+938,Oyo Inn 906,Chennai,Banjara Hills,Suite,4219,3.2,No reviews,,309.0
+939,OYO Inn 421,Bangalore,Salt Lake,Classic,7701 INR,4.4,1082,37%,
+940,Oyo SilverKey 589,Goa,MG Road,classic,₹6168,,,,
+941,oyo Flagship 770,Ahmedabad,Airport Road,Deluxe,1897 INR,,,46,
+942,oyo Residency 710,Jaipur,City Center,Deluxe,₹7784,,,58%,
+943,Oyo Residency 229,Bangalore,MG Road,Deluxe,,,,,75.0
+944,OYO Townhouse 27,Hyderabad,Park Street,Suite,1346,3.7,No reviews,19%,
+945,OYO Flagship 791,Hyderabad,Park Street,Premium,₹6521,,No reviews,,
+946,Oyo Flagship 211,Jaipur,Airport Road,Deluxe,,4.4,,,107.0
+947,oyo Stay 367,Jaipur,Airport Road,Premium,5891 INR,2.9,No reviews,,8.0
+948,Oyo Collection 985,Pune,Park Street,DELUXE,2339.0,,No reviews,46,
+949,OYO SilverKey 748,Jaipur,MG Road,Deluxe,₹5996,2.8,,,
+950,OYO Stay 822,Delhi,MG Road,DELUXE,4137.0,,No reviews,,342.0
+951,OYO Residency 167,Chennai,Connaught Place,Classic,1191 INR,,No reviews,,
+952,Oyo Townhouse 753,Delhi,Airport Road,Classic,3064 INR,,,38%,178.0
+953,Oyo Townhouse 116,Mumbai,City Center,Suite,8493 INR,,901,,
+954,OYO SilverKey 673,Hyderabad,Park Street,Deluxe,,4.0,No reviews,,112.0
+955,OYO Inn 85,Bangalore,Banjara Hills,Suite,2253 INR,,215,19%,
+956,oyo Stay 592,Ahmedabad,Salt Lake,DELUXE,5070,,1354,42%,24.0
+957,OYO Flagship 650,Bangalore,Park Street,DELUXE,1258,,,35,
+958,OYO Collection 637,Jaipur,Connaught Place,Deluxe,,,,37,
+959,oyo Collection 680,Jaipur,Whitefield,Deluxe,2281.0,,No reviews,32%,48.0
+960,OYO Townhouse 564,Jaipur,MG Road,Premium,5544,,No reviews,,261.0
+961,oyo Flagship 795,Bangalore,Whitefield,classic,973,,,,
+962,OYO Inn 970,Goa,Park Street,DELUXE,3432.0,,,,
+963,Oyo Townhouse 983,Kolkata,Banjara Hills,Classic,7267.0,,No reviews,34%,
+964,oyo SilverKey 214,Goa,Salt Lake,Deluxe,₹1794,4.2,No reviews,57%,
+965,oyo Flagship 255,Pune,MG Road,Deluxe,₹6441,,No reviews,,227.0
+966,Oyo Townhouse 653,Hyderabad,Andheri,Suite,,3.2,,,
+967,OYO Residency 933,Bangalore,Salt Lake,classic,6293.0,4.7,No reviews,45,
+968,OYO Stay 106,Hyderabad,Salt Lake,Premium,,,,,29.0
+969,oyo Inn 283,Hyderabad,Andheri,Deluxe,,,No reviews,10%,
+970,oyo Collection 682,Kolkata,Salt Lake,classic,₹5054,,,,
+971,oyo Townhouse 605,Delhi,Salt Lake,Premium,,2.7,,,
+972,Oyo Stay 885,Jaipur,MG Road,Classic,1310 INR,,,,
+973,Oyo Collection 822,Mumbai,Banjara Hills,Premium,1164 INR,,,27%,
+974,oyo Inn 270,Jaipur,MG Road,Premium,3331,,No reviews,30,
+975,oyo Stay 758,Chennai,Andheri,DELUXE,4428.0,4.4,1478,30,
+976,Oyo Residency 725,Kolkata,Airport Road,Deluxe,8653.0,,740,15%,
+977,oyo Inn 574,Goa,Airport Road,DELUXE,,,,9%,
+978,OYO Inn 349,Hyderabad,Airport Road,Suite,6496 INR,,,56,
+979,OYO Stay 159,Delhi,Park Street,Deluxe,₹5185,,448,,
+980,OYO Residency 627,Kolkata,Salt Lake,DELUXE,8617 INR,,1163,,
+981,oyo Residency 373,Hyderabad,MG Road,Suite,5018 INR,3.4,,,359.0
+982,oyo Flagship 99,Goa,Whitefield,Deluxe,,,,,
+983,OYO Collection 634,Ahmedabad,City Center,Suite,7874 INR,3.9,350,,244.0
+984,oyo SilverKey 67,Mumbai,MG Road,Premium,,,,36,
+985,oyo Inn 691,Hyderabad,Connaught Place,Classic,5691.0,,833,,312.0
+986,oyo Townhouse 794,Chennai,MG Road,Deluxe,,,1495,51%,
+987,Oyo Townhouse 97,Mumbai,MG Road,Suite,,,No reviews,49,93.0
+988,Oyo Flagship 725,Hyderabad,Airport Road,Suite,7751.0,3.6,No reviews,19,231.0
+989,Oyo Townhouse 901,Goa,City Center,Suite,,,195,5%,
+990,oyo Stay 384,Delhi,Airport Road,DELUXE,1836,,1020,18,
+991,OYO Collection 724,Ahmedabad,Banjara Hills,Suite,,,,7%,
+992,oyo Stay 172,Bangalore,Salt Lake,Premium,2333 INR,2.9,No reviews,,59.0
+993,OYO SilverKey 145,Chennai,Airport Road,classic,4623 INR,,No reviews,,
+994,oyo Stay 720,Goa,Banjara Hills,DELUXE,,,656,33%,
+995,Oyo Townhouse 503,Pune,Banjara Hills,DELUXE,1090 INR,,,24,357.0
+996,OYO Flagship 970,Goa,City Center,classic,2161.0,,,46,14.0
+997,Oyo Flagship 361,Hyderabad,City Center,Deluxe,1559 INR,,,,
+998,OYO Inn 328,Bangalore,Park Street,DELUXE,1895,,,7,
+999,OYO Inn 834,Delhi,Park Street,classic,6119,4.8,No reviews,7%,
+1000,oyo Stay 728,Pune,Salt Lake,Premium,5774,,No reviews,5,142.0
+1001,Oyo Stay 11,Jaipur,Airport Road,Classic,₹7179,,,49%,
+1002,OYO Stay 336,Mumbai,Banjara Hills,classic,3442.0,,No reviews,39,133.0
+1003,Oyo Residency 907,Mumbai,Andheri,Classic,₹4011,,411,7,57.0
+1004,Oyo Flagship 86,Delhi,City Center,DELUXE,1804,,,,257.0
+1005,oyo SilverKey 45,Kolkata,City Center,Premium,932,,No reviews,,194.0
+1006,oyo Townhouse 231,Hyderabad,Park Street,classic,3714,,898,60%,
+1007,OYO Flagship 561,Goa,MG Road,DELUXE,₹5902,2.8,,,
+1008,OYO Townhouse 701,Delhi,Park Street,DELUXE,₹4528,,No reviews,54%,18.0
+1009,oyo Residency 933,Delhi,Park Street,DELUXE,,,,,
+1010,oyo Collection 491,Chennai,MG Road,Premium,3209 INR,,458,,131.0
+1011,oyo Townhouse 443,Chennai,MG Road,DELUXE,5612,,,19,180.0
+1012,Oyo Collection 472,Pune,MG Road,DELUXE,8110 INR,,No reviews,47,271.0
+1013,OYO Inn 196,Kolkata,Park Street,Premium,,,No reviews,46,
+1014,oyo Inn 464,Mumbai,Salt Lake,classic,,3.4,No reviews,,221.0
+1015,OYO Inn 212,Jaipur,Salt Lake,classic,,,,,101.0
+1016,Oyo Collection 252,Pune,Airport Road,Classic,2839 INR,,,,43.0
+1017,OYO SilverKey 874,Delhi,Airport Road,Suite,2173.0,,,18,
+1018,Oyo Collection 347,Ahmedabad,Whitefield,classic,3570.0,,327,15%,209.0
+1019,oyo Inn 481,Goa,MG Road,Premium,5307,,No reviews,11%,
+1020,OYO Residency 21,Jaipur,Connaught Place,Suite,6637 INR,3.8,916,,
+1021,OYO Flagship 640,Mumbai,Airport Road,Suite,5616 INR,4.6,1369,25,
+1022,oyo Stay 428,Delhi,Connaught Place,Deluxe,3469.0,4.5,No reviews,6,26.0
+1023,Oyo Collection 444,Hyderabad,City Center,Deluxe,₹6229,,,,319.0
+1024,OYO SilverKey 390,Ahmedabad,Connaught Place,Suite,3970 INR,3.4,,49,
+1025,oyo SilverKey 136,Pune,Airport Road,DELUXE,6372.0,,No reviews,,163.0
+1026,OYO Residency 781,Delhi,Airport Road,Classic,2453,,133,41%,4.0
+1027,oyo Townhouse 160,Chennai,Park Street,DELUXE,8249.0,4.3,1254,8%,41.0
+1028,oyo Townhouse 4,Mumbai,Park Street,Premium,7793,,No reviews,,
+1029,oyo Flagship 481,Ahmedabad,MG Road,Deluxe,,4.5,906,37%,134.0
+1030,oyo Flagship 717,Goa,Banjara Hills,classic,₹2731,,466,,
+1031,Oyo SilverKey 845,Kolkata,Airport Road,Classic,6348,,No reviews,23%,
+1032,oyo Townhouse 635,Chennai,Connaught Place,classic,₹7746,,913,52%,185.0
+1033,Oyo Inn 860,Ahmedabad,Connaught Place,classic,5927 INR,,No reviews,53,97.0
+1034,OYO Townhouse 708,Ahmedabad,Andheri,Deluxe,6481 INR,,No reviews,60,
+1035,OYO Residency 143,Pune,MG Road,Deluxe,5889 INR,,No reviews,5,303.0
+1036,OYO Townhouse 401,Kolkata,Whitefield,Suite,8437,3.1,No reviews,15,116.0
+1037,oyo Inn 512,Jaipur,Airport Road,Suite,7791 INR,4.7,,8%,
+1038,Oyo Flagship 241,Ahmedabad,Banjara Hills,DELUXE,8797,3.5,,,
+1039,OYO Stay 133,Ahmedabad,City Center,Premium,5318.0,,No reviews,41%,
+1040,OYO SilverKey 705,Kolkata,Park Street,Deluxe,4524.0,,,41,164.0
+1041,oyo Flagship 833,Ahmedabad,Connaught Place,Classic,4781 INR,3.8,,11%,
+1042,oyo Inn 273,Jaipur,Andheri,Deluxe,1796 INR,3.4,,14%,114.0
+1043,Oyo Residency 636,Chennai,Park Street,DELUXE,,,No reviews,,96.0
+1044,oyo Townhouse 754,Hyderabad,Banjara Hills,Suite,,,No reviews,32%,104.0
+1045,OYO Townhouse 668,Hyderabad,Andheri,Suite,₹7604,3.3,,29%,
+1046,Oyo Flagship 724,Jaipur,Whitefield,Premium,8127.0,2.9,661,8,188.0
+1047,oyo Collection 564,Chennai,Banjara Hills,Suite,1117 INR,,No reviews,44%,289.0
+1048,OYO Inn 735,Goa,Park Street,Classic,2860 INR,2.6,286,11%,
+1049,OYO Collection 352,Chennai,MG Road,classic,1839 INR,3.4,No reviews,55,45.0
+1050,OYO Townhouse 782,Jaipur,Park Street,Premium,4972,,,,21.0
+1051,OYO Flagship 978,Kolkata,Banjara Hills,Premium,,,,,
+1052,OYO Townhouse 205,Goa,Connaught Place,classic,1289,,No reviews,,
+1053,OYO Stay 8,Kolkata,Banjara Hills,Suite,5310.0,,795,,
+1054,Oyo Townhouse 667,Hyderabad,Park Street,Deluxe,5375 INR,,,54,57.0
+1055,OYO Inn 956,Pune,Banjara Hills,Suite,4068,,,,237.0
+1056,oyo Residency 259,Kolkata,Andheri,DELUXE,,2.6,443,60%,
+1057,Oyo Stay 772,Jaipur,Airport Road,Classic,3407 INR,,,59%,15.0
+1058,Oyo Townhouse 311,Delhi,Park Street,Premium,7991 INR,4.2,199,,190.0
+1059,Oyo Inn 23,Hyderabad,Airport Road,DELUXE,₹5573,,No reviews,34%,349.0
+1060,OYO Townhouse 116,Jaipur,Andheri,Classic,2110,,,22%,354.0
+1061,OYO Collection 695,Kolkata,City Center,DELUXE,₹6883,,No reviews,,
+1062,oyo Collection 208,Hyderabad,City Center,classic,₹5079,4.0,,33%,
+1063,oyo Residency 761,Kolkata,MG Road,Suite,1474.0,,No reviews,,
+1064,oyo Flagship 329,Goa,MG Road,DELUXE,6381 INR,,No reviews,54,
+1065,Oyo Townhouse 617,Chennai,MG Road,Classic,4848,,No reviews,,175.0
+1066,Oyo Stay 648,Ahmedabad,Airport Road,classic,,2.8,No reviews,57,278.0
+1067,OYO Stay 5,Goa,Andheri,Classic,,4.0,,55,
+1068,Oyo Stay 673,Goa,Andheri,Deluxe,7135,,,53%,355.0
+1069,oyo Residency 111,Delhi,Park Street,classic,8813,,627,30,326.0
+1070,OYO Townhouse 32,Kolkata,Salt Lake,Suite,₹5546,,146,21%,
+1071,oyo Stay 308,Delhi,City Center,DELUXE,6322 INR,,,,251.0
+1072,Oyo SilverKey 32,Jaipur,Connaught Place,DELUXE,4890 INR,,1103,,251.0
+1073,OYO Collection 778,Pune,Airport Road,Premium,2122 INR,3.1,169,,
+1074,oyo Collection 36,Kolkata,City Center,DELUXE,5989.0,,924,44%,65.0
+1075,Oyo Townhouse 515,Goa,Banjara Hills,classic,3669 INR,,,46%,
+1076,Oyo SilverKey 875,Bangalore,Park Street,Premium,₹3366,,873,48%,248.0
+1077,Oyo Residency 763,Delhi,Andheri,Deluxe,3593 INR,2.6,No reviews,,
+1078,OYO Flagship 143,Mumbai,City Center,DELUXE,,,No reviews,49,
+1079,OYO Collection 486,Goa,Connaught Place,Premium,1249.0,,864,10,205.0
+1080,OYO Townhouse 166,Bangalore,Banjara Hills,Premium,,2.9,,,34.0
+1081,Oyo Townhouse 574,Ahmedabad,Connaught Place,Classic,1351,,,49%,261.0
+1082,oyo Inn 273,Mumbai,Park Street,DELUXE,845.0,4.5,654,60%,
+1083,OYO Townhouse 177,Jaipur,MG Road,Classic,,,145,,244.0
+1084,OYO Flagship 642,Ahmedabad,Connaught Place,Premium,7474.0,,832,53%,14.0
+1085,Oyo Collection 621,Chennai,MG Road,Deluxe,4381,,,,
+1086,OYO Collection 615,Jaipur,Connaught Place,Suite,1206 INR,2.7,1442,54%,
+1087,oyo Residency 940,Jaipur,Andheri,Premium,6294.0,,No reviews,,352.0
+1088,Oyo Townhouse 709,Jaipur,Banjara Hills,Suite,8722.0,,1293,45,304.0
+1089,Oyo Flagship 580,Chennai,Banjara Hills,classic,3833.0,4.7,,31,217.0
+1090,OYO Residency 789,Ahmedabad,Andheri,classic,5533,,,40%,266.0
+1091,oyo Inn 898,Mumbai,Connaught Place,Deluxe,5475,,690,56,
+1092,oyo Collection 551,Hyderabad,Salt Lake,Classic,6293,3.1,517,,34.0
+1093,Oyo Collection 958,Hyderabad,Airport Road,Premium,,3.8,544,45,
+1094,OYO Flagship 186,Chennai,Whitefield,Suite,2713.0,4.2,84,,65.0
+1095,OYO Townhouse 913,Pune,Park Street,Deluxe,₹1681,,No reviews,23%,
+1096,Oyo Residency 243,Goa,Park Street,classic,₹3185,,450,57,315.0
+1097,OYO Stay 759,Bangalore,MG Road,Deluxe,5119 INR,2.8,832,,
+1098,OYO Flagship 688,Mumbai,Airport Road,Premium,5754 INR,,No reviews,18%,
+1099,OYO Inn 910,Jaipur,Salt Lake,classic,,4.2,No reviews,48,
+1100,Oyo Stay 631,Delhi,Salt Lake,Deluxe,7055 INR,,,,206.0
+1101,Oyo SilverKey 415,Kolkata,Park Street,DELUXE,5191,4.1,,,357.0
+1102,oyo Residency 23,Jaipur,Salt Lake,Classic,,,No reviews,51,
+1103,OYO SilverKey 376,Chennai,Park Street,Classic,4957 INR,2.9,,,
+1104,OYO Townhouse 725,Delhi,Andheri,Deluxe,₹3301,,No reviews,38,150.0
+1105,Oyo Residency 938,Pune,City Center,classic,3747,3.4,1066,19%,335.0
+1106,oyo Collection 965,Hyderabad,Banjara Hills,Deluxe,7634,3.0,,9%,273.0
+1107,oyo Residency 378,Jaipur,Banjara Hills,classic,3631,3.7,503,25%,10.0
+1108,OYO Flagship 50,Pune,Andheri,Deluxe,8385,4.4,No reviews,55,232.0
+1109,oyo Flagship 166,Mumbai,Salt Lake,classic,₹1392,4.8,No reviews,38,
+1110,Oyo Inn 966,Goa,Whitefield,Premium,,,No reviews,38%,64.0
+1111,OYO Stay 377,Kolkata,Connaught Place,Premium,₹5589,,No reviews,24%,101.0
+1112,Oyo Residency 654,Kolkata,Park Street,Deluxe,3111 INR,,,24,8.0
+1113,Oyo Collection 409,Jaipur,MG Road,DELUXE,8340 INR,3.4,948,31%,
+1114,OYO SilverKey 477,Chennai,Andheri,Classic,7033 INR,,,40%,
+1115,Oyo Stay 170,Kolkata,Park Street,DELUXE,₹881,,No reviews,,
+1116,Oyo Collection 343,Delhi,Airport Road,Premium,8241.0,,753,,
+1117,OYO Inn 799,Goa,Banjara Hills,Deluxe,₹8989,4.8,No reviews,50,72.0
+1118,oyo Collection 283,Mumbai,Park Street,Premium,7161,,24,,
+1119,oyo SilverKey 939,Goa,Park Street,Premium,₹4150,4.8,No reviews,51%,
+1120,OYO Inn 471,Mumbai,Connaught Place,DELUXE,,,No reviews,,
+1121,OYO Inn 699,Goa,Connaught Place,classic,,4.3,463,35,
+1122,OYO Stay 308,Pune,Airport Road,DELUXE,₹4921,,457,20%,
+1123,oyo Collection 430,Pune,City Center,Premium,6126.0,2.7,No reviews,9,
+1124,Oyo Collection 32,Bangalore,Salt Lake,Premium,6168.0,2.8,No reviews,30%,
+1125,oyo Residency 169,Kolkata,City Center,Deluxe,6206,,771,11%,
+1126,OYO Residency 828,Jaipur,Connaught Place,DELUXE,₹3188,2.5,66,58,292.0
+1127,OYO SilverKey 339,Delhi,MG Road,Premium,₹2337,4.8,,5%,251.0
+1128,oyo SilverKey 631,Hyderabad,Whitefield,Classic,,3.2,,59%,254.0
+1129,OYO Collection 873,Hyderabad,Salt Lake,Premium,6248,,,,
+1130,OYO Flagship 473,Chennai,MG Road,Deluxe,3136,2.6,1203,11,
+1131,oyo SilverKey 594,Chennai,Banjara Hills,DELUXE,4619 INR,3.5,,,
+1132,Oyo Flagship 401,Delhi,Andheri,DELUXE,3837.0,2.7,No reviews,57,
+1133,OYO Residency 335,Jaipur,Banjara Hills,Premium,7619.0,,1433,5%,
+1134,OYO Townhouse 906,Chennai,City Center,Classic,2999,,569,16,
+1135,oyo SilverKey 346,Chennai,Whitefield,Suite,₹744,,413,,
+1136,oyo Stay 949,Goa,Banjara Hills,classic,3922 INR,,No reviews,,233.0
+1137,Oyo Townhouse 418,Hyderabad,Park Street,Premium,1728 INR,,,19,
+1138,OYO Inn 927,Delhi,Park Street,Premium,4863 INR,,469,57,
+1139,OYO Residency 823,Delhi,Banjara Hills,classic,,,853,,339.0
+1140,oyo Flagship 547,Jaipur,Park Street,Classic,₹5411,,,,
+1141,Oyo Inn 252,Mumbai,Banjara Hills,Premium,₹8562,,No reviews,47,
+1142,oyo Flagship 371,Kolkata,MG Road,Classic,2299.0,,,45%,1.0
+1143,Oyo Flagship 117,Mumbai,Banjara Hills,Classic,8093.0,,,,182.0
+1144,OYO Collection 826,Chennai,Airport Road,Deluxe,,,,56%,
+1145,oyo Residency 707,Bangalore,Salt Lake,Classic,3881 INR,,719,59,
+1146,OYO Flagship 636,Kolkata,Andheri,Premium,,4.2,,,
+1147,OYO Townhouse 464,Kolkata,City Center,Suite,₹3781,3.8,No reviews,26,237.0
+1148,OYO Stay 534,Bangalore,Airport Road,classic,,,,53,
+1149,Oyo Stay 842,Kolkata,Banjara Hills,Premium,7673.0,2.6,No reviews,,
+1150,Oyo Townhouse 999,Chennai,Connaught Place,Deluxe,₹6660,,No reviews,6,364.0
+1151,oyo Stay 614,Bangalore,Park Street,classic,2340.0,,No reviews,,40.0
+1152,Oyo SilverKey 862,Delhi,Airport Road,Premium,,,No reviews,47,
+1153,OYO Inn 342,Pune,Andheri,Suite,₹5108,2.8,1204,11%,207.0
+1154,OYO Stay 963,Hyderabad,City Center,Premium,₹4756,3.3,,49%,111.0
+1155,oyo Residency 885,Bangalore,Andheri,classic,4609 INR,,,55%,121.0
+1156,OYO Stay 683,Pune,Banjara Hills,Suite,7064,,705,42,127.0
+1157,Oyo Inn 620,Pune,MG Road,classic,₹8853,,1209,,94.0
+1158,OYO Inn 42,Kolkata,Banjara Hills,Classic,4482,,,30%,294.0
+1159,oyo Townhouse 850,Kolkata,Airport Road,Suite,925 INR,2.7,915,,
+1160,oyo Stay 697,Pune,Park Street,Premium,5206 INR,,298,29%,
+1161,OYO SilverKey 4,Pune,Airport Road,Suite,7799 INR,2.9,,18,
+1162,OYO Collection 788,Hyderabad,Park Street,Premium,925 INR,,,27,
+1163,Oyo SilverKey 165,Jaipur,Park Street,classic,8570,3.5,35,36,260.0
+1164,Oyo Inn 380,Mumbai,Airport Road,classic,₹4874,,No reviews,52%,54.0
+1165,Oyo Residency 251,Hyderabad,Whitefield,Premium,3697 INR,4.7,305,,
+1166,Oyo Flagship 192,Delhi,Park Street,DELUXE,2477.0,,,,
+1167,Oyo Collection 640,Mumbai,Connaught Place,Premium,3915,,No reviews,,
+1168,OYO Inn 79,Goa,Whitefield,DELUXE,,4.6,841,34,37.0
+1169,Oyo Inn 139,Goa,Airport Road,Suite,4316,3.0,No reviews,42,
+1170,OYO SilverKey 946,Kolkata,City Center,Premium,,,,52%,
+1171,OYO Inn 776,Goa,Park Street,classic,804 INR,4.4,No reviews,,142.0
+1172,oyo SilverKey 958,Pune,City Center,DELUXE,6547 INR,3.8,,,140.0
+1173,OYO Flagship 756,Bangalore,Andheri,Deluxe,1440,3.0,404,23%,316.0
+1174,OYO Inn 935,Delhi,MG Road,Premium,4045.0,,No reviews,14%,193.0
+1175,Oyo Townhouse 546,Bangalore,Salt Lake,Deluxe,3568 INR,2.7,433,14%,358.0
+1176,oyo Stay 731,Hyderabad,Salt Lake,Deluxe,6107 INR,,,18,
+1177,Oyo SilverKey 621,Hyderabad,Airport Road,DELUXE,₹4208,,,,64.0
+1178,oyo Inn 547,Kolkata,City Center,classic,,,,52%,92.0
+1179,OYO Townhouse 521,Bangalore,Banjara Hills,Suite,1915,3.7,,10,281.0
+1180,OYO Collection 503,Bangalore,Andheri,Classic,4063,4.3,,10%,216.0
+1181,Oyo Flagship 698,Chennai,City Center,Classic,5227.0,2.6,,,165.0
+1182,OYO Townhouse 705,Ahmedabad,City Center,DELUXE,3819 INR,4.7,,46%,
+1183,Oyo Inn 118,Chennai,Whitefield,Premium,8957.0,,326,39%,
+1184,OYO Flagship 180,Goa,Salt Lake,Premium,,3.9,No reviews,,13.0
+1185,OYO Townhouse 678,Ahmedabad,Banjara Hills,classic,4980,,699,,
+1186,oyo Townhouse 242,Pune,Connaught Place,Suite,7466,,No reviews,28%,
+1187,oyo Inn 41,Delhi,Andheri,classic,₹8396,3.4,,,181.0
+1188,oyo Residency 947,Ahmedabad,Whitefield,Classic,3727,,96,30,284.0
+1189,oyo Inn 265,Hyderabad,Park Street,classic,,,,,331.0
+1190,Oyo Flagship 159,Pune,Banjara Hills,Premium,1773,,No reviews,,152.0
+1191,OYO Collection 775,Delhi,Airport Road,Premium,2838.0,,882,24,
+1192,oyo Collection 161,Hyderabad,Connaught Place,Suite,6511.0,4.2,No reviews,,278.0
+1193,OYO Residency 934,Hyderabad,Whitefield,classic,₹1081,,No reviews,,11.0
+1194,Oyo Flagship 570,Mumbai,City Center,DELUXE,,,,,
+1195,Oyo Inn 655,Delhi,Banjara Hills,classic,1642.0,3.0,No reviews,,161.0
+1196,oyo Flagship 827,Pune,Airport Road,classic,₹3016,,No reviews,,24.0
+1197,oyo Townhouse 647,Kolkata,City Center,DELUXE,3943 INR,,No reviews,7,39.0
+1198,oyo Collection 777,Ahmedabad,City Center,Classic,6064 INR,,,,94.0
+1199,OYO Stay 110,Delhi,Salt Lake,Suite,6181 INR,2.8,,,
+1200,oyo SilverKey 843,Hyderabad,Connaught Place,Deluxe,2661 INR,,1392,,29.0
