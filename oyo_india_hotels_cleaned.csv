@@ -1,0 +1,983 @@
+hotel_id,hotel_name,city,area,room_type,price,rating,reviews,discount,availability_365
+1,OYO Inn 282,Mumbai,Salt Lake,Classic,4712.0,2.8,0.0,0.0,15.0
+3,Oyo Flagship 221,Chennai,Andheri,Classic,6214.0,2.7,0.0,0.0,0.0
+5,Oyo Inn 855,Hyderabad,Airport Road,Classic,6677.0,3.4,0.0,0.0,325.0
+6,oyo Flagship 168,Goa,City Center,Deluxe,8273.0,3.6,0.0,48.0,0.0
+7,Oyo Townhouse 217,Pune,Park Street,Deluxe,5855.0,3.6,0.0,0.0,0.0
+8,Oyo Stay 409,Ahmedabad,Airport Road,Deluxe,6630.0,4.8,0.0,0.0,321.0
+10,OYO SilverKey 446,Chennai,Whitefield,Classic,3291.0,3.6,0.0,0.0,0.0
+11,oyo Flagship 157,Goa,Airport Road,Suite,6826.0,3.6,0.0,0.0,157.0
+12,OYO Stay 970,Delhi,Whitefield,Deluxe,1990.0,4.2,1090.0,47.0,0.0
+13,oyo Residency 748,Kolkata,Airport Road,Deluxe,3995.0,3.6,0.0,38.0,115.0
+16,oyo Townhouse 690,Jaipur,Andheri,Deluxe,2312.0,3.6,223.0,0.0,216.0
+17,Oyo Flagship 896,Hyderabad,Airport Road,Deluxe,1935.0,3.6,200.0,0.0,0.0
+18,Oyo Flagship 886,Jaipur,Banjara Hills,Premium,7270.0,2.9,0.0,55.0,0.0
+21,oyo Stay 324,Ahmedabad,Banjara Hills,Premium,4972.0,3.6,0.0,0.0,161.0
+22,Oyo Stay 577,Delhi,Connaught Place,Suite,2338.0,3.6,543.0,0.0,0.0
+24,OYO Inn 352,Ahmedabad,City Center,Classic,4035.0,3.6,104.0,32.0,170.0
+26,Oyo SilverKey 921,Delhi,Salt Lake,Classic,1353.0,3.0,1365.0,0.0,79.0
+27,OYO Collection 26,Bangalore,MG Road,Deluxe,3638.0,3.6,0.0,20.0,0.0
+28,Oyo Flagship 205,Delhi,Connaught Place,Suite,8241.0,3.2,456.0,17.0,0.0
+29,oyo Stay 410,Chennai,Salt Lake,Suite,6125.0,3.6,0.0,0.0,0.0
+30,oyo Townhouse 395,Ahmedabad,Park Street,Suite,3814.0,3.6,0.0,0.0,220.0
+31,oyo SilverKey 680,Chennai,Whitefield,Deluxe,2741.0,3.6,0.0,49.0,0.0
+34,OYO Flagship 26,Kolkata,Park Street,Deluxe,1457.0,3.6,0.0,0.0,0.0
+35,Oyo Flagship 152,Jaipur,Whitefield,Deluxe,790.0,4.3,0.0,0.0,0.0
+36,Oyo Inn 544,Bangalore,MG Road,Deluxe,5898.0,3.6,0.0,40.0,0.0
+38,OYO Flagship 155,Goa,Whitefield,Premium,4488.0,3.6,438.0,31.0,212.0
+40,OYO SilverKey 447,Jaipur,MG Road,Classic,8656.0,3.6,0.0,15.0,273.0
+41,oyo Stay 679,Pune,Connaught Place,Deluxe,1144.0,4.0,945.0,21.0,0.0
+42,Oyo SilverKey 771,Chennai,Park Street,Deluxe,7606.0,3.6,0.0,8.0,35.0
+44,oyo Stay 987,Bangalore,Salt Lake,Premium,2576.0,4.7,1185.0,0.0,101.0
+45,oyo Residency 643,Ahmedabad,City Center,Suite,4678.0,3.6,0.0,0.0,0.0
+46,OYO Stay 664,Chennai,MG Road,Premium,6290.0,3.6,0.0,45.0,0.0
+47,oyo Residency 496,Ahmedabad,Banjara Hills,Premium,8316.0,3.6,0.0,0.0,0.0
+48,oyo Inn 389,Ahmedabad,Connaught Place,Suite,6211.0,3.6,0.0,27.0,0.0
+49,OYO Stay 971,Goa,Andheri,Deluxe,3830.0,3.6,0.0,0.0,0.0
+50,OYO Townhouse 302,Jaipur,Whitefield,Suite,4330.0,3.6,0.0,0.0,0.0
+51,oyo Collection 278,Chennai,MG Road,Deluxe,5723.0,3.6,0.0,0.0,0.0
+52,oyo Stay 779,Hyderabad,Whitefield,Deluxe,5336.0,3.6,0.0,0.0,140.0
+53,oyo SilverKey 715,Delhi,Connaught Place,Deluxe,2768.0,2.7,0.0,35.0,0.0
+54,OYO Residency 67,Jaipur,Banjara Hills,Classic,7265.0,3.6,1405.0,0.0,127.0
+56,Oyo Inn 84,Kolkata,Andheri,Suite,3273.0,2.9,320.0,0.0,16.0
+57,oyo SilverKey 720,Hyderabad,Salt Lake,Classic,8138.0,3.6,0.0,0.0,278.0
+58,Oyo Residency 146,Bangalore,Andheri,Classic,1869.0,3.6,0.0,41.0,0.0
+59,Oyo Stay 553,Pune,City Center,Classic,8790.0,2.7,0.0,43.0,117.0
+60,oyo Townhouse 782,Hyderabad,Andheri,Classic,3570.0,3.6,569.0,0.0,0.0
+61,Oyo SilverKey 687,Pune,City Center,Premium,2413.0,3.6,0.0,0.0,0.0
+63,OYO Flagship 274,Jaipur,Park Street,Deluxe,2846.0,3.6,992.0,0.0,0.0
+64,OYO Stay 418,Goa,Andheri,Deluxe,2227.0,4.8,945.0,0.0,0.0
+66,Oyo Inn 306,Delhi,Salt Lake,Premium,8722.0,3.6,0.0,0.0,164.0
+67,oyo Collection 240,Kolkata,MG Road,Premium,7430.0,3.6,0.0,0.0,18.0
+68,oyo SilverKey 891,Goa,MG Road,Classic,2344.0,3.6,0.0,0.0,0.0
+69,oyo Inn 408,Chennai,Whitefield,Classic,2015.0,3.6,0.0,50.0,316.0
+70,oyo Inn 944,Kolkata,Andheri,Deluxe,5408.0,3.6,0.0,0.0,0.0
+71,OYO SilverKey 816,Delhi,MG Road,Deluxe,1619.0,3.6,298.0,0.0,89.0
+72,Oyo Stay 700,Ahmedabad,Banjara Hills,Deluxe,4645.0,4.6,0.0,21.0,0.0
+73,oyo Stay 162,Hyderabad,Andheri,Suite,1910.0,3.6,0.0,49.0,0.0
+75,oyo Collection 853,Ahmedabad,MG Road,Deluxe,5389.0,3.6,0.0,44.0,49.0
+76,Oyo Townhouse 594,Hyderabad,MG Road,Classic,6677.0,3.6,0.0,0.0,0.0
+77,Oyo Residency 967,Bangalore,Salt Lake,Classic,8594.0,3.6,0.0,0.0,187.0
+78,OYO SilverKey 550,Pune,Connaught Place,Classic,2724.0,3.6,0.0,0.0,345.0
+80,Oyo Collection 119,Delhi,Whitefield,Premium,2292.0,4.5,0.0,0.0,300.0
+82,oyo Inn 368,Chennai,City Center,Classic,1692.0,3.1,931.0,0.0,170.0
+84,OYO Inn 888,Bangalore,City Center,Deluxe,1122.0,2.5,0.0,16.0,215.0
+86,Oyo Residency 412,Delhi,Airport Road,Deluxe,7684.0,3.6,150.0,0.0,0.0
+88,OYO Collection 348,Jaipur,Connaught Place,Deluxe,8130.0,3.5,0.0,47.0,0.0
+89,OYO Residency 88,Mumbai,Whitefield,Classic,2227.0,3.6,763.0,0.0,168.0
+90,Oyo Residency 682,Pune,Park Street,Deluxe,7629.0,3.6,0.0,0.0,0.0
+91,OYO SilverKey 866,Kolkata,Whitefield,Classic,6722.0,3.6,0.0,0.0,0.0
+92,OYO SilverKey 720,Delhi,MG Road,Deluxe,5762.0,3.3,0.0,0.0,324.0
+93,oyo Stay 221,Mumbai,Airport Road,Classic,6863.0,3.5,0.0,0.0,79.0
+94,OYO Inn 84,Ahmedabad,Whitefield,Classic,5158.0,3.6,0.0,0.0,0.0
+96,Oyo SilverKey 123,Hyderabad,Whitefield,Classic,826.0,4.2,0.0,0.0,0.0
+97,Oyo Residency 760,Mumbai,Salt Lake,Suite,1393.0,2.5,0.0,41.0,0.0
+98,Oyo Flagship 821,Delhi,Airport Road,Premium,8238.0,2.7,0.0,0.0,0.0
+100,OYO Flagship 617,Hyderabad,Andheri,Deluxe,3204.0,3.6,0.0,0.0,0.0
+101,OYO Collection 70,Chennai,Banjara Hills,Premium,8382.0,3.6,1211.0,0.0,231.0
+102,Oyo Residency 294,Delhi,City Center,Premium,1957.0,3.6,0.0,0.0,292.0
+103,oyo Collection 514,Chennai,City Center,Deluxe,3171.0,3.6,1462.0,0.0,0.0
+104,oyo Stay 625,Jaipur,City Center,Deluxe,3300.0,3.6,0.0,0.0,0.0
+105,Oyo Townhouse 572,Mumbai,MG Road,Suite,7033.0,3.6,1234.0,0.0,0.0
+106,oyo Inn 961,Bangalore,Whitefield,Classic,2088.0,3.6,672.0,0.0,0.0
+107,Oyo Townhouse 372,Goa,Airport Road,Suite,5760.0,3.6,995.0,0.0,51.0
+108,oyo Flagship 612,Chennai,Salt Lake,Suite,6872.0,3.6,1279.0,0.0,346.0
+109,oyo SilverKey 771,Jaipur,Andheri,Premium,8055.0,3.6,960.0,0.0,0.0
+110,oyo Collection 990,Goa,Whitefield,Classic,3355.0,4.3,512.0,35.0,364.0
+111,OYO Residency 165,Hyderabad,Connaught Place,Classic,5169.0,4.6,895.0,57.0,212.0
+112,oyo SilverKey 242,Pune,Connaught Place,Deluxe,7026.0,3.4,652.0,0.0,70.0
+113,Oyo Inn 852,Hyderabad,Whitefield,Deluxe,2973.0,3.5,162.0,0.0,0.0
+114,Oyo Flagship 309,Mumbai,Whitefield,Classic,2696.0,3.6,0.0,12.0,323.0
+115,Oyo Collection 2,Bangalore,Airport Road,Classic,6480.0,3.8,0.0,38.0,278.0
+116,Oyo Townhouse 651,Pune,Airport Road,Classic,7038.0,3.1,731.0,0.0,170.0
+117,Oyo Stay 347,Delhi,Andheri,Classic,3568.0,3.6,1293.0,0.0,150.0
+119,Oyo Townhouse 819,Chennai,Andheri,Suite,6729.0,3.6,0.0,16.0,0.0
+121,oyo Inn 437,Jaipur,City Center,Classic,3430.0,3.3,0.0,32.0,0.0
+122,oyo Residency 768,Chennai,Park Street,Deluxe,3321.0,3.6,0.0,0.0,0.0
+123,oyo Townhouse 620,Pune,Connaught Place,Premium,3213.0,3.6,909.0,0.0,0.0
+124,OYO Townhouse 754,Kolkata,Andheri,Deluxe,3748.0,3.6,0.0,0.0,0.0
+125,OYO Townhouse 139,Jaipur,Connaught Place,Deluxe,1913.0,3.6,911.0,48.0,0.0
+126,OYO Inn 727,Hyderabad,City Center,Suite,3552.0,3.7,411.0,55.0,0.0
+127,oyo Flagship 627,Jaipur,Airport Road,Deluxe,2112.0,3.6,0.0,31.0,162.0
+128,Oyo Inn 530,Jaipur,Salt Lake,Classic,6344.0,3.6,0.0,0.0,28.0
+129,OYO SilverKey 169,Goa,Banjara Hills,Deluxe,3353.0,4.6,0.0,0.0,0.0
+131,OYO Inn 790,Mumbai,Whitefield,Suite,5036.0,3.6,0.0,0.0,0.0
+132,OYO Residency 827,Jaipur,Andheri,Deluxe,7353.0,3.6,122.0,31.0,174.0
+133,oyo SilverKey 752,Chennai,Andheri,Classic,6358.0,3.6,0.0,0.0,0.0
+134,OYO Townhouse 52,Kolkata,Connaught Place,Deluxe,5454.0,3.6,508.0,0.0,0.0
+135,Oyo Collection 901,Goa,Connaught Place,Classic,5755.0,3.6,0.0,0.0,0.0
+136,oyo Residency 670,Jaipur,Salt Lake,Suite,8410.0,3.7,882.0,51.0,0.0
+138,Oyo Stay 962,Chennai,MG Road,Deluxe,6690.0,3.6,0.0,0.0,0.0
+139,Oyo Flagship 621,Goa,Connaught Place,Classic,2990.0,3.6,0.0,52.0,0.0
+140,Oyo Collection 836,Ahmedabad,City Center,Classic,972.0,3.3,0.0,0.0,0.0
+142,oyo Townhouse 196,Ahmedabad,Andheri,Deluxe,1010.0,3.2,0.0,0.0,31.0
+144,Oyo Stay 306,Kolkata,Andheri,Suite,4384.0,3.6,0.0,36.0,0.0
+145,OYO Stay 693,Hyderabad,Connaught Place,Premium,6920.0,4.4,594.0,0.0,0.0
+147,OYO Townhouse 424,Kolkata,Andheri,Premium,6111.0,2.7,0.0,0.0,333.0
+148,Oyo SilverKey 662,Hyderabad,MG Road,Premium,1669.0,4.0,0.0,0.0,90.0
+149,Oyo Flagship 960,Pune,Whitefield,Classic,5442.0,3.6,1234.0,23.0,252.0
+150,Oyo SilverKey 198,Goa,Connaught Place,Suite,2545.0,3.6,0.0,0.0,290.0
+151,oyo Residency 655,Bangalore,Andheri,Suite,7343.0,3.7,0.0,0.0,127.0
+152,Oyo Flagship 458,Hyderabad,Park Street,Classic,5074.0,3.6,1173.0,46.0,341.0
+153,Oyo Flagship 416,Jaipur,MG Road,Premium,8933.0,3.6,0.0,0.0,0.0
+155,oyo Townhouse 64,Mumbai,Airport Road,Deluxe,8981.0,3.8,0.0,38.0,0.0
+156,oyo Collection 829,Mumbai,Banjara Hills,Deluxe,1611.0,3.6,0.0,40.0,0.0
+157,OYO Inn 224,Hyderabad,City Center,Suite,1896.0,3.6,0.0,9.0,209.0
+158,oyo Inn 662,Bangalore,Whitefield,Deluxe,7587.0,3.6,0.0,0.0,0.0
+159,OYO Stay 403,Mumbai,Salt Lake,Classic,2786.0,4.4,0.0,0.0,194.0
+160,Oyo SilverKey 159,Kolkata,City Center,Deluxe,5216.0,3.6,231.0,47.0,105.0
+161,oyo Townhouse 458,Mumbai,MG Road,Classic,1497.0,3.6,898.0,0.0,148.0
+162,Oyo Stay 613,Ahmedabad,Banjara Hills,Classic,5953.0,3.2,0.0,31.0,285.0
+163,oyo Collection 49,Pune,Salt Lake,Deluxe,6342.0,3.6,0.0,14.0,0.0
+164,OYO SilverKey 879,Kolkata,Salt Lake,Deluxe,3065.0,3.6,0.0,0.0,130.0
+165,oyo Townhouse 945,Chennai,City Center,Classic,8069.0,3.6,390.0,0.0,96.0
+166,OYO Residency 929,Jaipur,Andheri,Deluxe,6155.0,4.7,433.0,0.0,356.0
+167,OYO Stay 330,Pune,Andheri,Premium,5337.0,3.6,0.0,0.0,0.0
+168,OYO SilverKey 321,Chennai,Salt Lake,Suite,7481.0,3.8,298.0,0.0,78.0
+169,OYO Collection 584,Chennai,Andheri,Premium,4726.0,3.6,0.0,57.0,0.0
+170,OYO Inn 560,Bangalore,City Center,Classic,8700.0,3.6,1314.0,0.0,211.0
+171,OYO Inn 155,Kolkata,Andheri,Deluxe,849.0,3.6,0.0,0.0,249.0
+172,oyo Stay 422,Delhi,Salt Lake,Deluxe,894.0,3.6,0.0,0.0,54.0
+173,OYO Flagship 197,Goa,Park Street,Deluxe,4835.0,3.6,0.0,0.0,0.0
+174,oyo Residency 666,Mumbai,MG Road,Classic,1219.0,3.6,0.0,0.0,0.0
+176,oyo Inn 34,Goa,Salt Lake,Classic,3638.0,2.5,1202.0,0.0,153.0
+178,OYO SilverKey 620,Kolkata,Salt Lake,Premium,7199.0,3.6,0.0,0.0,0.0
+179,oyo SilverKey 818,Mumbai,Salt Lake,Suite,4737.0,2.7,0.0,0.0,184.0
+180,OYO SilverKey 456,Mumbai,Whitefield,Premium,6596.0,2.7,0.0,0.0,52.0
+181,Oyo Stay 96,Mumbai,Whitefield,Deluxe,6015.0,3.6,794.0,0.0,0.0
+182,OYO SilverKey 309,Bangalore,Airport Road,Suite,5097.0,2.8,0.0,24.0,128.0
+183,oyo Stay 201,Jaipur,Connaught Place,Premium,8201.0,2.8,0.0,44.0,0.0
+184,OYO SilverKey 329,Ahmedabad,Andheri,Classic,3990.0,3.6,0.0,0.0,0.0
+185,Oyo Residency 805,Pune,Whitefield,Classic,7137.0,3.6,0.0,0.0,236.0
+186,Oyo Residency 710,Jaipur,MG Road,Deluxe,1833.0,4.0,0.0,0.0,0.0
+188,OYO Inn 681,Mumbai,Connaught Place,Premium,6516.0,4.0,0.0,46.0,54.0
+189,Oyo Flagship 523,Mumbai,Connaught Place,Classic,4321.0,3.6,0.0,0.0,247.0
+190,Oyo Townhouse 119,Hyderabad,Airport Road,Premium,3021.0,3.6,0.0,27.0,0.0
+191,OYO SilverKey 46,Chennai,Park Street,Classic,2585.0,3.6,0.0,0.0,89.0
+192,oyo Collection 982,Chennai,Salt Lake,Classic,8270.0,3.6,377.0,47.0,314.0
+193,oyo Collection 399,Jaipur,MG Road,Suite,772.0,3.6,0.0,0.0,166.0
+198,oyo Collection 426,Pune,Park Street,Classic,7972.0,3.6,63.0,7.0,147.0
+200,OYO Inn 850,Pune,Andheri,Classic,4755.0,4.5,0.0,0.0,121.0
+201,oyo SilverKey 882,Ahmedabad,Banjara Hills,Classic,7715.0,3.9,423.0,0.0,275.0
+203,OYO Flagship 729,Bangalore,Banjara Hills,Deluxe,5977.0,3.6,0.0,0.0,0.0
+204,OYO Inn 814,Jaipur,City Center,Deluxe,2225.0,3.6,0.0,36.0,0.0
+205,OYO Residency 548,Chennai,Connaught Place,Classic,7216.0,4.7,0.0,58.0,295.0
+206,Oyo Residency 352,Ahmedabad,Andheri,Classic,1493.0,3.6,33.0,15.0,219.0
+207,oyo SilverKey 163,Bangalore,City Center,Premium,5189.0,3.6,0.0,0.0,0.0
+208,Oyo Inn 94,Kolkata,Andheri,Classic,2259.0,3.0,0.0,0.0,0.0
+209,Oyo Inn 136,Mumbai,Banjara Hills,Deluxe,8526.0,3.0,1496.0,25.0,195.0
+212,oyo Stay 739,Goa,Park Street,Deluxe,5368.0,3.6,617.0,0.0,0.0
+213,OYO Collection 396,Delhi,MG Road,Premium,2547.0,3.6,0.0,28.0,0.0
+214,oyo Inn 177,Chennai,Salt Lake,Classic,8417.0,2.5,0.0,0.0,0.0
+215,oyo Collection 85,Pune,Connaught Place,Premium,3201.0,2.7,1047.0,0.0,300.0
+216,oyo Collection 748,Hyderabad,Banjara Hills,Deluxe,4609.0,3.6,0.0,0.0,336.0
+217,OYO Inn 141,Mumbai,Banjara Hills,Deluxe,885.0,3.6,0.0,0.0,190.0
+218,oyo Townhouse 790,Hyderabad,Airport Road,Premium,1180.0,3.6,1072.0,0.0,0.0
+219,Oyo Residency 581,Delhi,Whitefield,Classic,3434.0,2.9,0.0,0.0,22.0
+220,OYO Collection 373,Kolkata,Park Street,Suite,6974.0,2.9,0.0,46.0,0.0
+221,Oyo Residency 80,Chennai,Salt Lake,Classic,6808.0,3.7,367.0,0.0,0.0
+222,Oyo Townhouse 567,Hyderabad,Andheri,Suite,8183.0,3.6,0.0,0.0,0.0
+223,oyo Stay 779,Kolkata,City Center,Suite,4716.0,3.6,48.0,0.0,0.0
+224,OYO Flagship 543,Hyderabad,Park Street,Classic,4602.0,3.6,0.0,0.0,0.0
+226,Oyo Inn 852,Chennai,Airport Road,Deluxe,6045.0,3.5,152.0,0.0,54.0
+228,OYO Flagship 856,Ahmedabad,Banjara Hills,Suite,6070.0,2.7,0.0,0.0,89.0
+229,Oyo Stay 767,Pune,MG Road,Deluxe,4793.0,3.6,248.0,0.0,0.0
+230,oyo Stay 266,Mumbai,Connaught Place,Classic,1928.0,4.8,0.0,0.0,0.0
+231,OYO Stay 444,Delhi,Banjara Hills,Suite,7171.0,3.6,873.0,0.0,228.0
+232,oyo Stay 632,Delhi,MG Road,Premium,4726.0,3.6,981.0,22.0,102.0
+233,OYO Collection 801,Goa,Banjara Hills,Deluxe,6583.0,3.6,0.0,25.0,0.0
+234,OYO Townhouse 918,Ahmedabad,MG Road,Classic,5302.0,3.6,0.0,0.0,126.0
+235,oyo Residency 811,Hyderabad,Connaught Place,Deluxe,1616.0,3.6,726.0,0.0,0.0
+237,oyo Flagship 21,Kolkata,Connaught Place,Classic,8531.0,3.6,412.0,0.0,11.0
+239,OYO Inn 972,Bangalore,Park Street,Deluxe,7857.0,4.0,0.0,44.0,301.0
+240,Oyo Inn 706,Pune,City Center,Deluxe,5525.0,2.9,0.0,0.0,0.0
+241,OYO Inn 580,Ahmedabad,Airport Road,Deluxe,2405.0,3.6,159.0,0.0,0.0
+242,OYO SilverKey 215,Jaipur,Salt Lake,Deluxe,4788.0,3.3,1475.0,29.0,0.0
+243,Oyo Stay 385,Pune,Airport Road,Classic,2361.0,3.6,0.0,15.0,150.0
+244,Oyo Townhouse 76,Chennai,Andheri,Deluxe,6300.0,4.5,1499.0,10.0,0.0
+245,oyo Collection 161,Bangalore,Whitefield,Suite,1577.0,3.3,0.0,0.0,0.0
+247,OYO Townhouse 212,Kolkata,Andheri,Deluxe,3498.0,3.6,0.0,30.0,135.0
+248,Oyo Flagship 380,Goa,Banjara Hills,Classic,6949.0,2.9,0.0,0.0,31.0
+251,OYO Townhouse 434,Kolkata,Airport Road,Classic,1983.0,3.6,0.0,0.0,0.0
+252,Oyo Residency 283,Goa,Salt Lake,Deluxe,8206.0,3.6,0.0,0.0,75.0
+254,OYO Stay 624,Pune,Banjara Hills,Suite,7281.0,3.6,1414.0,52.0,0.0
+255,Oyo SilverKey 864,Hyderabad,Banjara Hills,Deluxe,8754.0,4.7,0.0,33.0,213.0
+256,Oyo Flagship 936,Kolkata,Banjara Hills,Deluxe,7371.0,3.6,0.0,0.0,0.0
+257,oyo Stay 30,Bangalore,Connaught Place,Deluxe,3546.0,4.5,118.0,0.0,0.0
+258,Oyo Stay 407,Chennai,Whitefield,Suite,2729.0,3.6,0.0,60.0,176.0
+259,oyo Residency 706,Hyderabad,Park Street,Deluxe,2180.0,2.6,0.0,0.0,0.0
+260,oyo Townhouse 886,Pune,Banjara Hills,Classic,845.0,3.6,0.0,0.0,0.0
+261,Oyo Residency 358,Pune,Airport Road,Classic,8220.0,3.6,0.0,44.0,0.0
+262,oyo Stay 624,Goa,Banjara Hills,Suite,5331.0,3.6,0.0,45.0,0.0
+263,OYO Stay 784,Kolkata,City Center,Deluxe,4637.0,3.6,0.0,0.0,0.0
+265,Oyo Residency 175,Goa,Connaught Place,Deluxe,3667.0,2.7,0.0,0.0,45.0
+266,OYO Inn 893,Chennai,Airport Road,Premium,5731.0,3.6,0.0,23.0,27.0
+268,Oyo SilverKey 647,Mumbai,MG Road,Premium,3597.0,4.0,0.0,0.0,45.0
+269,Oyo Inn 440,Ahmedabad,Connaught Place,Classic,7309.0,3.6,9.0,0.0,164.0
+270,oyo Townhouse 642,Delhi,Banjara Hills,Deluxe,4776.0,3.6,639.0,0.0,33.0
+271,Oyo Collection 746,Hyderabad,MG Road,Premium,6235.0,4.5,0.0,0.0,9.0
+273,OYO Inn 111,Ahmedabad,Andheri,Deluxe,1023.0,3.6,0.0,40.0,78.0
+275,OYO Residency 109,Hyderabad,Banjara Hills,Deluxe,8854.0,3.6,1071.0,50.0,0.0
+276,oyo Collection 339,Kolkata,Airport Road,Classic,4542.0,2.5,0.0,0.0,38.0
+277,oyo Flagship 468,Hyderabad,Connaught Place,Premium,5550.0,3.6,357.0,23.0,59.0
+278,OYO Residency 142,Delhi,Connaught Place,Deluxe,3493.0,3.6,0.0,10.0,0.0
+279,Oyo SilverKey 856,Pune,City Center,Deluxe,7019.0,3.6,341.0,0.0,0.0
+280,Oyo Residency 583,Ahmedabad,MG Road,Premium,7878.0,3.6,1252.0,0.0,249.0
+281,Oyo Townhouse 65,Pune,Park Street,Deluxe,4986.0,3.6,0.0,0.0,173.0
+282,oyo Inn 255,Pune,City Center,Classic,8595.0,3.6,788.0,0.0,329.0
+283,Oyo Residency 508,Goa,Park Street,Classic,3409.0,3.6,0.0,0.0,0.0
+286,Oyo SilverKey 574,Kolkata,Connaught Place,Deluxe,8451.0,4.1,0.0,5.0,0.0
+287,OYO Flagship 505,Mumbai,Park Street,Premium,3001.0,3.6,401.0,59.0,0.0
+288,Oyo Townhouse 949,Mumbai,City Center,Classic,2718.0,3.6,1032.0,0.0,0.0
+289,OYO Inn 593,Goa,Salt Lake,Classic,3545.0,3.6,0.0,37.0,354.0
+290,Oyo SilverKey 994,Hyderabad,Banjara Hills,Deluxe,5519.0,4.4,0.0,0.0,0.0
+293,Oyo Residency 805,Kolkata,Whitefield,Classic,3336.0,4.1,0.0,0.0,0.0
+295,OYO Townhouse 762,Goa,Connaught Place,Classic,4817.0,3.6,0.0,0.0,279.0
+296,Oyo Collection 182,Kolkata,Banjara Hills,Classic,1920.0,3.6,1052.0,7.0,135.0
+297,oyo Residency 262,Bangalore,Banjara Hills,Premium,792.0,3.6,81.0,0.0,0.0
+298,oyo SilverKey 539,Mumbai,Airport Road,Suite,4303.0,3.6,0.0,39.0,113.0
+300,oyo SilverKey 391,Delhi,Whitefield,Classic,2557.0,3.6,579.0,57.0,0.0
+302,OYO Flagship 551,Pune,Airport Road,Classic,7830.0,4.2,0.0,0.0,27.0
+303,oyo Townhouse 589,Hyderabad,Salt Lake,Deluxe,4429.0,3.6,0.0,0.0,60.0
+304,OYO Residency 764,Ahmedabad,Airport Road,Suite,1445.0,3.6,0.0,48.0,0.0
+306,oyo Residency 569,Delhi,Banjara Hills,Deluxe,3016.0,3.6,0.0,0.0,176.0
+307,oyo Residency 525,Pune,City Center,Classic,3033.0,3.6,517.0,0.0,236.0
+308,oyo Townhouse 257,Hyderabad,Park Street,Classic,2308.0,3.6,0.0,0.0,145.0
+310,OYO Residency 227,Chennai,Andheri,Suite,7845.0,4.4,0.0,35.0,0.0
+311,OYO Flagship 662,Goa,Airport Road,Deluxe,2043.0,4.5,1103.0,0.0,38.0
+313,oyo Residency 298,Ahmedabad,Park Street,Classic,2893.0,3.7,0.0,0.0,350.0
+315,Oyo SilverKey 240,Mumbai,Connaught Place,Classic,1401.0,3.6,0.0,0.0,0.0
+316,oyo Stay 584,Hyderabad,Banjara Hills,Premium,3548.0,3.6,0.0,0.0,0.0
+318,Oyo Stay 735,Bangalore,Andheri,Deluxe,2638.0,3.6,1475.0,48.0,302.0
+320,Oyo Stay 993,Goa,MG Road,Deluxe,1005.0,4.7,0.0,60.0,210.0
+321,OYO Stay 676,Ahmedabad,Salt Lake,Premium,5033.0,3.6,0.0,0.0,67.0
+322,OYO Stay 881,Delhi,City Center,Classic,8963.0,3.6,197.0,0.0,257.0
+323,Oyo Inn 134,Mumbai,Andheri,Premium,719.0,3.6,0.0,0.0,179.0
+324,OYO SilverKey 489,Pune,City Center,Classic,4509.0,3.6,0.0,0.0,267.0
+325,OYO Collection 671,Goa,Banjara Hills,Classic,4065.0,3.4,0.0,42.0,0.0
+326,Oyo Inn 407,Ahmedabad,Andheri,Suite,4037.0,3.6,988.0,0.0,0.0
+327,oyo Flagship 876,Pune,Connaught Place,Classic,2651.0,3.6,331.0,37.0,314.0
+328,Oyo Inn 6,Bangalore,Connaught Place,Classic,2192.0,3.6,891.0,0.0,311.0
+331,Oyo Stay 206,Pune,Connaught Place,Suite,951.0,3.6,0.0,0.0,141.0
+333,Oyo Stay 833,Goa,Andheri,Classic,4798.0,3.6,990.0,26.0,0.0
+334,Oyo Townhouse 392,Mumbai,Banjara Hills,Deluxe,4310.0,3.6,0.0,0.0,147.0
+335,oyo Inn 841,Pune,Banjara Hills,Deluxe,6303.0,3.8,0.0,0.0,349.0
+336,oyo Flagship 241,Jaipur,Airport Road,Classic,4665.0,3.0,0.0,0.0,0.0
+337,OYO Residency 878,Ahmedabad,MG Road,Classic,1392.0,3.6,0.0,22.0,0.0
+338,oyo Flagship 56,Kolkata,MG Road,Premium,7633.0,4.7,0.0,0.0,0.0
+339,oyo Townhouse 13,Chennai,Whitefield,Suite,4152.0,3.6,0.0,0.0,0.0
+340,oyo SilverKey 375,Jaipur,Banjara Hills,Premium,3713.0,3.6,0.0,59.0,92.0
+341,oyo Flagship 834,Ahmedabad,MG Road,Premium,2336.0,3.6,0.0,0.0,4.0
+342,Oyo Flagship 915,Pune,MG Road,Classic,5872.0,3.6,1162.0,0.0,0.0
+343,oyo Townhouse 461,Jaipur,Airport Road,Suite,6183.0,3.6,0.0,6.0,347.0
+344,oyo Inn 665,Ahmedabad,Airport Road,Premium,3559.0,3.6,0.0,52.0,0.0
+345,oyo Flagship 890,Jaipur,MG Road,Suite,3445.0,3.6,0.0,0.0,0.0
+347,OYO Inn 241,Delhi,City Center,Classic,4822.0,3.6,210.0,0.0,203.0
+348,Oyo Stay 160,Mumbai,Whitefield,Deluxe,2081.0,3.2,0.0,0.0,14.0
+350,oyo Inn 547,Goa,Banjara Hills,Deluxe,5773.0,3.6,0.0,28.0,155.0
+351,oyo Residency 777,Delhi,Banjara Hills,Classic,2933.0,3.6,0.0,53.0,0.0
+352,OYO Residency 8,Ahmedabad,Salt Lake,Premium,6821.0,3.6,0.0,0.0,0.0
+353,Oyo Inn 246,Mumbai,MG Road,Deluxe,5154.0,3.6,0.0,0.0,148.0
+354,oyo Collection 279,Jaipur,Banjara Hills,Suite,8760.0,3.2,0.0,0.0,0.0
+355,OYO Townhouse 155,Delhi,City Center,Suite,941.0,3.6,0.0,0.0,41.0
+358,Oyo Inn 306,Hyderabad,Connaught Place,Classic,3955.0,3.6,446.0,45.0,0.0
+359,OYO Collection 809,Ahmedabad,Connaught Place,Classic,4682.0,3.6,0.0,0.0,127.0
+360,OYO Inn 634,Jaipur,MG Road,Premium,6244.0,3.6,0.0,0.0,0.0
+361,oyo Residency 356,Goa,Andheri,Deluxe,7887.0,3.6,0.0,0.0,0.0
+363,Oyo Residency 270,Jaipur,Connaught Place,Classic,6714.0,3.6,0.0,0.0,0.0
+364,oyo Stay 839,Mumbai,Salt Lake,Deluxe,7048.0,3.6,1129.0,23.0,164.0
+365,oyo Inn 69,Mumbai,City Center,Classic,1417.0,2.9,413.0,0.0,0.0
+366,oyo Stay 719,Jaipur,Andheri,Classic,4893.0,3.6,1470.0,0.0,239.0
+367,oyo Inn 961,Chennai,Airport Road,Suite,7514.0,4.3,0.0,0.0,39.0
+369,oyo Stay 367,Mumbai,MG Road,Classic,8215.0,4.5,0.0,37.0,0.0
+370,Oyo Stay 333,Chennai,Whitefield,Deluxe,6790.0,3.6,0.0,0.0,0.0
+371,Oyo Collection 983,Chennai,City Center,Suite,7205.0,3.6,1220.0,13.0,113.0
+373,oyo Flagship 239,Chennai,Connaught Place,Premium,4898.0,3.6,1165.0,0.0,0.0
+374,OYO Stay 658,Ahmedabad,Connaught Place,Premium,5621.0,3.6,781.0,8.0,213.0
+375,oyo Inn 870,Kolkata,Connaught Place,Classic,887.0,3.6,0.0,0.0,357.0
+376,OYO Inn 750,Bangalore,Salt Lake,Deluxe,7136.0,3.6,1033.0,32.0,0.0
+379,oyo Collection 434,Mumbai,MG Road,Suite,6684.0,3.6,0.0,54.0,0.0
+380,OYO Collection 46,Ahmedabad,Park Street,Classic,4525.0,4.1,1491.0,0.0,0.0
+381,Oyo Inn 824,Delhi,Park Street,Classic,2523.0,3.5,679.0,0.0,0.0
+382,Oyo Stay 748,Goa,Banjara Hills,Deluxe,3015.0,3.6,1078.0,0.0,0.0
+383,Oyo Inn 968,Delhi,City Center,Suite,836.0,3.6,0.0,0.0,0.0
+384,Oyo Stay 727,Kolkata,Andheri,Classic,2331.0,3.6,1088.0,0.0,364.0
+385,OYO Stay 313,Delhi,Banjara Hills,Deluxe,6165.0,3.4,0.0,27.0,0.0
+386,oyo SilverKey 900,Delhi,MG Road,Classic,7043.0,3.6,461.0,0.0,195.0
+387,OYO Stay 157,Pune,MG Road,Classic,7687.0,3.6,0.0,0.0,277.0
+388,Oyo Inn 723,Bangalore,Whitefield,Classic,2915.0,4.8,0.0,0.0,60.0
+389,OYO Inn 31,Chennai,Banjara Hills,Deluxe,5921.0,3.6,0.0,0.0,96.0
+391,oyo Residency 620,Bangalore,Park Street,Classic,8380.0,3.6,0.0,0.0,209.0
+392,Oyo Flagship 761,Hyderabad,Park Street,Premium,4023.0,3.6,0.0,25.0,207.0
+393,oyo Residency 390,Ahmedabad,City Center,Classic,5826.0,3.6,0.0,0.0,0.0
+394,OYO Flagship 532,Jaipur,Salt Lake,Suite,7181.0,3.6,1291.0,23.0,0.0
+396,Oyo SilverKey 462,Pune,MG Road,Deluxe,1108.0,3.6,0.0,21.0,63.0
+397,oyo Collection 650,Mumbai,Whitefield,Premium,6646.0,3.6,0.0,15.0,22.0
+398,oyo Residency 676,Chennai,Andheri,Suite,3159.0,4.5,1458.0,24.0,320.0
+399,OYO Flagship 4,Mumbai,Park Street,Classic,4846.0,3.6,1113.0,0.0,0.0
+400,Oyo Collection 82,Jaipur,City Center,Deluxe,807.0,3.6,0.0,0.0,75.0
+402,oyo Inn 717,Ahmedabad,Connaught Place,Premium,3606.0,3.6,73.0,24.0,0.0
+403,OYO SilverKey 483,Goa,Park Street,Classic,2904.0,3.6,0.0,0.0,29.0
+404,oyo Inn 542,Ahmedabad,Banjara Hills,Classic,2136.0,3.6,0.0,43.0,0.0
+405,oyo Stay 509,Bangalore,Airport Road,Classic,8854.0,3.6,0.0,0.0,238.0
+406,oyo Collection 424,Kolkata,Banjara Hills,Suite,1445.0,3.6,434.0,0.0,0.0
+407,oyo Stay 332,Hyderabad,MG Road,Deluxe,800.0,3.6,0.0,0.0,0.0
+408,Oyo Residency 37,Jaipur,City Center,Classic,2924.0,3.6,0.0,55.0,0.0
+409,oyo Townhouse 214,Goa,Whitefield,Deluxe,6134.0,2.7,574.0,0.0,0.0
+410,oyo Townhouse 886,Bangalore,Andheri,Suite,5750.0,3.6,847.0,20.0,0.0
+411,OYO SilverKey 804,Bangalore,MG Road,Deluxe,1312.0,3.6,1036.0,0.0,0.0
+412,Oyo Residency 336,Goa,Andheri,Premium,3047.0,3.6,1385.0,0.0,365.0
+413,Oyo Townhouse 704,Delhi,Banjara Hills,Classic,2126.0,3.6,0.0,0.0,0.0
+414,Oyo Flagship 198,Kolkata,Banjara Hills,Classic,5395.0,3.6,1374.0,0.0,7.0
+415,oyo SilverKey 563,Kolkata,Banjara Hills,Classic,5918.0,3.6,0.0,0.0,0.0
+416,OYO Townhouse 483,Delhi,Andheri,Classic,1526.0,3.4,0.0,0.0,0.0
+417,OYO Inn 777,Chennai,Andheri,Premium,1986.0,3.8,0.0,34.0,118.0
+418,oyo SilverKey 935,Bangalore,Airport Road,Premium,6654.0,3.6,0.0,0.0,0.0
+419,Oyo Residency 175,Jaipur,Airport Road,Suite,5324.0,3.9,1040.0,0.0,284.0
+420,oyo Collection 411,Hyderabad,Park Street,Deluxe,7473.0,3.6,0.0,9.0,0.0
+421,oyo Residency 351,Pune,Andheri,Suite,4569.0,4.0,0.0,0.0,284.0
+422,OYO SilverKey 979,Jaipur,City Center,Classic,7348.0,3.6,0.0,0.0,111.0
+423,oyo Residency 1,Ahmedabad,Park Street,Deluxe,3103.0,3.6,0.0,0.0,0.0
+424,oyo SilverKey 941,Ahmedabad,Banjara Hills,Classic,7822.0,3.6,0.0,0.0,189.0
+425,oyo Stay 841,Delhi,Connaught Place,Deluxe,6585.0,4.5,0.0,42.0,0.0
+426,Oyo Stay 217,Pune,Banjara Hills,Deluxe,3541.0,3.6,0.0,0.0,64.0
+427,OYO Inn 17,Delhi,Andheri,Deluxe,3059.0,4.0,173.0,56.0,0.0
+429,Oyo Collection 949,Goa,Andheri,Deluxe,6712.0,3.6,0.0,0.0,40.0
+431,OYO SilverKey 548,Ahmedabad,Banjara Hills,Suite,876.0,3.6,0.0,31.0,85.0
+432,oyo SilverKey 745,Ahmedabad,City Center,Suite,4967.0,3.6,0.0,47.0,248.0
+433,oyo Townhouse 872,Bangalore,MG Road,Classic,5252.0,3.6,0.0,0.0,0.0
+434,OYO SilverKey 802,Chennai,MG Road,Premium,4569.0,3.6,0.0,0.0,0.0
+435,oyo Collection 744,Kolkata,City Center,Deluxe,3440.0,3.6,0.0,0.0,0.0
+436,Oyo Collection 765,Jaipur,City Center,Suite,4528.0,3.6,0.0,38.0,0.0
+437,oyo Inn 979,Chennai,Connaught Place,Suite,1372.0,3.6,0.0,46.0,136.0
+438,oyo Stay 401,Hyderabad,MG Road,Suite,8254.0,3.6,0.0,0.0,280.0
+441,oyo Flagship 260,Mumbai,Connaught Place,Suite,5526.0,4.0,0.0,54.0,82.0
+442,OYO Collection 398,Hyderabad,Salt Lake,Deluxe,6150.0,3.6,0.0,0.0,0.0
+443,OYO Stay 788,Mumbai,Airport Road,Classic,7765.0,3.9,0.0,0.0,0.0
+444,OYO Collection 153,Jaipur,City Center,Classic,714.0,3.6,0.0,0.0,0.0
+446,OYO Inn 982,Pune,Park Street,Deluxe,2185.0,3.6,0.0,54.0,283.0
+447,oyo Flagship 307,Pune,Park Street,Deluxe,7091.0,3.6,996.0,0.0,18.0
+448,oyo Stay 245,Delhi,City Center,Classic,8715.0,3.6,0.0,39.0,173.0
+449,oyo Townhouse 416,Chennai,MG Road,Deluxe,2636.0,3.6,0.0,0.0,296.0
+450,OYO Inn 145,Mumbai,City Center,Deluxe,8710.0,3.6,93.0,0.0,323.0
+452,oyo Inn 412,Chennai,City Center,Classic,6012.0,3.6,1117.0,0.0,0.0
+453,OYO SilverKey 145,Mumbai,MG Road,Classic,7501.0,3.6,0.0,0.0,0.0
+454,OYO Collection 83,Bangalore,Andheri,Deluxe,804.0,2.9,0.0,23.0,64.0
+455,oyo SilverKey 536,Bangalore,Andheri,Classic,8079.0,3.1,0.0,0.0,0.0
+456,Oyo Townhouse 572,Chennai,Whitefield,Deluxe,4560.0,3.6,0.0,0.0,237.0
+457,OYO Flagship 116,Hyderabad,Banjara Hills,Deluxe,3144.0,3.6,1372.0,46.0,0.0
+458,oyo Residency 912,Chennai,Andheri,Classic,8124.0,2.7,1100.0,0.0,59.0
+459,oyo Collection 607,Kolkata,Park Street,Classic,6040.0,3.6,667.0,12.0,0.0
+461,oyo SilverKey 999,Kolkata,Airport Road,Premium,5118.0,3.3,0.0,0.0,0.0
+463,oyo Collection 858,Kolkata,Park Street,Classic,8281.0,3.6,505.0,0.0,76.0
+464,OYO Townhouse 482,Pune,Andheri,Deluxe,8961.0,3.6,0.0,11.0,42.0
+465,OYO Flagship 368,Pune,Andheri,Classic,5546.0,4.0,0.0,0.0,298.0
+466,Oyo Residency 142,Jaipur,Airport Road,Premium,7341.0,3.6,0.0,0.0,0.0
+470,OYO Townhouse 382,Hyderabad,Whitefield,Suite,6356.0,3.6,0.0,0.0,0.0
+471,OYO Collection 90,Mumbai,MG Road,Premium,2013.0,3.6,157.0,0.0,77.0
+473,OYO Residency 971,Delhi,Whitefield,Classic,6203.0,3.6,0.0,0.0,0.0
+474,oyo Flagship 920,Hyderabad,MG Road,Suite,5721.0,4.3,0.0,0.0,0.0
+475,oyo Flagship 729,Bangalore,Park Street,Classic,5373.0,3.6,0.0,0.0,0.0
+476,OYO Collection 267,Ahmedabad,Connaught Place,Premium,6756.0,3.6,0.0,0.0,276.0
+477,Oyo Townhouse 943,Goa,Whitefield,Classic,1108.0,4.6,0.0,0.0,0.0
+479,OYO Collection 633,Hyderabad,Whitefield,Deluxe,4310.0,3.6,0.0,0.0,142.0
+480,OYO Stay 870,Delhi,Whitefield,Classic,7998.0,3.6,0.0,0.0,0.0
+481,OYO Inn 875,Pune,Whitefield,Classic,7706.0,3.4,0.0,24.0,0.0
+482,Oyo SilverKey 168,Pune,Andheri,Classic,7644.0,3.6,1224.0,18.0,171.0
+483,Oyo Townhouse 7,Ahmedabad,Park Street,Deluxe,7408.0,3.6,0.0,0.0,0.0
+485,oyo Inn 915,Mumbai,Andheri,Classic,5413.0,3.6,1320.0,12.0,0.0
+486,Oyo Stay 447,Ahmedabad,Banjara Hills,Deluxe,4925.0,4.7,0.0,0.0,297.0
+487,Oyo Collection 900,Bangalore,Banjara Hills,Suite,2919.0,3.6,0.0,0.0,271.0
+488,OYO Residency 644,Goa,Banjara Hills,Suite,3702.0,3.9,0.0,0.0,0.0
+489,oyo Stay 361,Mumbai,Airport Road,Deluxe,3054.0,3.6,0.0,0.0,79.0
+490,oyo Stay 707,Kolkata,Banjara Hills,Deluxe,2567.0,3.6,238.0,35.0,185.0
+491,oyo Stay 782,Jaipur,MG Road,Deluxe,6304.0,4.1,242.0,0.0,0.0
+492,OYO Flagship 81,Bangalore,Whitefield,Classic,7660.0,3.6,883.0,0.0,0.0
+493,Oyo Townhouse 68,Mumbai,Connaught Place,Classic,5642.0,4.2,1232.0,0.0,46.0
+495,OYO Residency 551,Hyderabad,MG Road,Premium,770.0,3.6,0.0,0.0,344.0
+497,oyo Townhouse 85,Goa,Andheri,Deluxe,6075.0,3.6,0.0,0.0,0.0
+498,Oyo Flagship 878,Hyderabad,Airport Road,Premium,1840.0,3.6,367.0,0.0,224.0
+499,OYO Collection 411,Mumbai,Airport Road,Deluxe,2366.0,2.6,693.0,59.0,0.0
+500,oyo Residency 596,Hyderabad,MG Road,Premium,5172.0,3.6,0.0,37.0,55.0
+501,Oyo Collection 237,Hyderabad,Salt Lake,Classic,2905.0,2.7,0.0,0.0,0.0
+502,Oyo Stay 639,Bangalore,Andheri,Premium,2278.0,3.6,0.0,0.0,0.0
+503,Oyo Residency 881,Goa,Andheri,Premium,989.0,4.8,0.0,59.0,18.0
+504,oyo Inn 882,Bangalore,Andheri,Deluxe,5665.0,3.6,0.0,0.0,0.0
+505,oyo Residency 161,Jaipur,Connaught Place,Classic,1613.0,3.6,0.0,27.0,14.0
+506,Oyo SilverKey 829,Bangalore,Park Street,Deluxe,1140.0,3.6,0.0,0.0,0.0
+507,OYO Inn 68,Ahmedabad,Salt Lake,Classic,5695.0,3.3,0.0,0.0,0.0
+508,OYO Inn 481,Hyderabad,Airport Road,Deluxe,1064.0,3.6,0.0,56.0,345.0
+509,Oyo Stay 831,Chennai,Whitefield,Deluxe,6263.0,3.6,892.0,0.0,0.0
+511,OYO SilverKey 815,Pune,Salt Lake,Premium,1956.0,3.6,0.0,0.0,0.0
+513,OYO SilverKey 474,Goa,Park Street,Premium,3120.0,3.6,0.0,0.0,0.0
+514,Oyo Inn 616,Bangalore,Andheri,Premium,4568.0,3.0,393.0,56.0,0.0
+515,oyo Townhouse 207,Pune,City Center,Deluxe,3310.0,3.6,0.0,0.0,248.0
+516,OYO SilverKey 617,Delhi,MG Road,Deluxe,5582.0,3.6,0.0,10.0,57.0
+517,oyo Residency 595,Goa,Connaught Place,Classic,4825.0,4.5,1228.0,56.0,199.0
+518,OYO Flagship 110,Pune,Andheri,Classic,3569.0,3.6,0.0,0.0,191.0
+519,oyo Collection 487,Chennai,City Center,Deluxe,4736.0,4.5,0.0,28.0,310.0
+520,oyo Residency 688,Delhi,Airport Road,Classic,4626.0,3.6,0.0,0.0,0.0
+521,OYO Collection 950,Pune,Connaught Place,Deluxe,4886.0,2.7,609.0,15.0,208.0
+522,OYO Residency 799,Hyderabad,Banjara Hills,Classic,8755.0,3.6,0.0,0.0,0.0
+523,oyo Inn 833,Pune,MG Road,Classic,6053.0,4.1,0.0,45.0,205.0
+524,Oyo Stay 85,Hyderabad,Salt Lake,Suite,2515.0,3.6,1329.0,0.0,0.0
+525,Oyo Flagship 704,Bangalore,Park Street,Classic,6067.0,3.6,752.0,0.0,11.0
+526,Oyo Flagship 269,Mumbai,MG Road,Classic,3464.0,3.6,0.0,10.0,60.0
+527,Oyo Residency 943,Goa,Banjara Hills,Deluxe,8133.0,3.6,416.0,57.0,0.0
+528,Oyo Residency 212,Bangalore,City Center,Suite,4231.0,4.2,856.0,0.0,134.0
+529,Oyo Flagship 379,Ahmedabad,Salt Lake,Deluxe,8206.0,2.5,0.0,0.0,0.0
+530,OYO Stay 61,Mumbai,City Center,Classic,1553.0,3.6,0.0,0.0,0.0
+532,Oyo Flagship 267,Goa,Banjara Hills,Suite,2614.0,2.6,0.0,28.0,0.0
+533,Oyo Collection 915,Goa,Andheri,Classic,3403.0,3.6,0.0,0.0,96.0
+534,OYO Flagship 37,Delhi,Connaught Place,Deluxe,8404.0,3.6,893.0,7.0,0.0
+535,Oyo Townhouse 867,Jaipur,Whitefield,Suite,3125.0,3.3,581.0,0.0,288.0
+536,OYO Stay 786,Ahmedabad,Banjara Hills,Deluxe,3658.0,4.6,0.0,0.0,348.0
+537,Oyo Stay 952,Pune,Banjara Hills,Classic,2437.0,2.9,0.0,35.0,336.0
+538,OYO Inn 638,Chennai,Banjara Hills,Suite,8123.0,3.6,1165.0,0.0,28.0
+539,oyo Collection 95,Goa,Salt Lake,Premium,7234.0,3.6,182.0,0.0,145.0
+540,Oyo Collection 821,Mumbai,Whitefield,Deluxe,7783.0,3.6,0.0,11.0,0.0
+541,Oyo SilverKey 577,Pune,Airport Road,Classic,7631.0,3.6,1257.0,45.0,0.0
+542,oyo Flagship 664,Jaipur,Airport Road,Premium,3240.0,3.6,1074.0,34.0,153.0
+544,Oyo Inn 738,Mumbai,Andheri,Deluxe,4851.0,3.1,1031.0,0.0,0.0
+545,OYO Collection 898,Delhi,Connaught Place,Deluxe,5576.0,3.6,0.0,56.0,108.0
+546,oyo Stay 266,Mumbai,Andheri,Premium,2442.0,3.7,808.0,0.0,0.0
+547,oyo Collection 311,Ahmedabad,City Center,Deluxe,6610.0,4.4,256.0,0.0,96.0
+548,Oyo Inn 149,Kolkata,MG Road,Premium,4661.0,3.6,390.0,54.0,216.0
+549,OYO Flagship 757,Mumbai,Salt Lake,Classic,7995.0,3.6,1198.0,0.0,170.0
+550,oyo Residency 731,Mumbai,City Center,Premium,7774.0,3.6,0.0,40.0,0.0
+551,oyo Inn 627,Goa,Airport Road,Suite,8693.0,3.6,0.0,0.0,0.0
+552,OYO Collection 638,Jaipur,Connaught Place,Premium,6381.0,4.1,0.0,17.0,118.0
+553,oyo SilverKey 944,Ahmedabad,Connaught Place,Premium,8375.0,3.6,0.0,0.0,82.0
+554,oyo Inn 89,Hyderabad,Andheri,Suite,8611.0,2.9,0.0,55.0,120.0
+555,OYO Townhouse 368,Goa,Salt Lake,Classic,4973.0,4.1,1031.0,9.0,316.0
+556,oyo Flagship 499,Mumbai,Whitefield,Classic,4924.0,4.3,0.0,0.0,342.0
+557,Oyo Residency 469,Delhi,MG Road,Deluxe,2517.0,3.6,0.0,0.0,60.0
+559,OYO Residency 829,Delhi,Connaught Place,Deluxe,8460.0,3.2,0.0,50.0,340.0
+560,oyo Collection 807,Bangalore,Connaught Place,Classic,4438.0,3.6,0.0,0.0,226.0
+561,oyo Residency 530,Delhi,MG Road,Classic,1840.0,3.6,0.0,0.0,0.0
+562,Oyo Inn 718,Pune,Salt Lake,Premium,5686.0,4.6,0.0,0.0,329.0
+563,oyo Residency 634,Goa,Whitefield,Suite,7944.0,3.6,828.0,0.0,199.0
+565,oyo Collection 518,Hyderabad,Airport Road,Premium,2509.0,3.6,0.0,0.0,152.0
+566,Oyo Flagship 825,Jaipur,Salt Lake,Classic,4531.0,3.6,0.0,0.0,126.0
+567,oyo Stay 198,Chennai,Salt Lake,Deluxe,6619.0,3.6,0.0,0.0,243.0
+569,OYO Stay 131,Bangalore,Andheri,Premium,8642.0,3.6,0.0,0.0,16.0
+570,Oyo Townhouse 617,Goa,Connaught Place,Suite,7394.0,3.6,593.0,0.0,0.0
+571,Oyo Townhouse 811,Hyderabad,Andheri,Classic,3040.0,3.6,0.0,0.0,0.0
+573,oyo Collection 153,Jaipur,Connaught Place,Classic,6028.0,3.6,0.0,19.0,0.0
+574,oyo Townhouse 887,Hyderabad,Whitefield,Classic,3413.0,3.6,0.0,0.0,98.0
+577,OYO Townhouse 555,Mumbai,MG Road,Classic,3455.0,3.6,183.0,0.0,0.0
+578,OYO Inn 60,Bangalore,City Center,Deluxe,5582.0,2.7,0.0,0.0,122.0
+579,oyo Residency 517,Jaipur,City Center,Premium,7008.0,3.6,0.0,9.0,324.0
+580,Oyo Stay 987,Delhi,Airport Road,Deluxe,2363.0,3.6,0.0,31.0,256.0
+582,Oyo SilverKey 613,Delhi,City Center,Deluxe,4810.0,3.6,0.0,37.0,273.0
+583,OYO Collection 716,Hyderabad,Connaught Place,Deluxe,2714.0,3.6,884.0,37.0,0.0
+584,OYO Inn 330,Hyderabad,City Center,Classic,6297.0,3.6,672.0,0.0,243.0
+585,oyo Flagship 424,Delhi,Andheri,Deluxe,8711.0,3.6,1333.0,0.0,0.0
+586,oyo SilverKey 397,Pune,City Center,Suite,3603.0,3.6,0.0,0.0,0.0
+587,OYO Residency 629,Kolkata,Park Street,Classic,5667.0,3.6,743.0,0.0,0.0
+588,Oyo Stay 513,Mumbai,MG Road,Classic,8793.0,3.6,0.0,0.0,301.0
+590,Oyo Inn 690,Delhi,Andheri,Suite,1549.0,3.6,561.0,38.0,264.0
+592,OYO Flagship 169,Mumbai,Connaught Place,Suite,6094.0,3.6,198.0,0.0,126.0
+593,OYO SilverKey 853,Jaipur,Andheri,Classic,1591.0,3.7,0.0,0.0,63.0
+594,OYO Collection 321,Delhi,Airport Road,Classic,1765.0,3.6,0.0,45.0,346.0
+595,OYO SilverKey 871,Goa,City Center,Premium,6949.0,3.6,0.0,0.0,0.0
+596,oyo Stay 104,Pune,Airport Road,Classic,6264.0,3.6,1203.0,0.0,99.0
+598,oyo Stay 795,Hyderabad,MG Road,Classic,3085.0,3.6,0.0,0.0,121.0
+599,Oyo Flagship 206,Pune,Connaught Place,Classic,3997.0,3.6,0.0,0.0,0.0
+600,Oyo Collection 337,Ahmedabad,Park Street,Premium,3358.0,3.5,1015.0,0.0,319.0
+601,Oyo Inn 787,Kolkata,City Center,Classic,6131.0,3.0,0.0,9.0,58.0
+602,Oyo Flagship 647,Hyderabad,MG Road,Suite,6596.0,4.7,0.0,19.0,283.0
+603,OYO Townhouse 181,Bangalore,Connaught Place,Deluxe,4989.0,3.6,0.0,0.0,0.0
+605,Oyo Stay 440,Chennai,Connaught Place,Deluxe,4706.0,3.6,0.0,0.0,0.0
+606,oyo Stay 908,Bangalore,Salt Lake,Deluxe,8711.0,3.6,0.0,0.0,0.0
+607,oyo Collection 184,Jaipur,Salt Lake,Deluxe,5972.0,3.6,0.0,0.0,298.0
+608,OYO Flagship 463,Kolkata,Banjara Hills,Classic,4540.0,3.6,0.0,58.0,43.0
+609,Oyo Collection 532,Mumbai,Andheri,Premium,6460.0,3.6,0.0,32.0,0.0
+610,Oyo SilverKey 392,Jaipur,Whitefield,Classic,1104.0,3.6,1321.0,10.0,279.0
+611,OYO Townhouse 122,Hyderabad,Banjara Hills,Deluxe,1868.0,2.6,683.0,26.0,0.0
+612,oyo Stay 142,Kolkata,City Center,Premium,4978.0,3.6,0.0,0.0,334.0
+613,OYO Flagship 741,Pune,Connaught Place,Classic,4138.0,3.6,0.0,57.0,160.0
+614,oyo Collection 215,Pune,Banjara Hills,Deluxe,7887.0,4.5,767.0,0.0,0.0
+615,Oyo Flagship 430,Chennai,City Center,Deluxe,7674.0,3.6,0.0,0.0,0.0
+616,oyo Residency 618,Ahmedabad,Airport Road,Suite,7104.0,3.6,0.0,17.0,0.0
+617,OYO Flagship 107,Hyderabad,Salt Lake,Suite,3610.0,3.6,1000.0,0.0,105.0
+618,oyo Stay 72,Hyderabad,MG Road,Classic,8149.0,3.3,0.0,31.0,0.0
+619,oyo Townhouse 399,Jaipur,Banjara Hills,Classic,4082.0,3.6,0.0,0.0,0.0
+620,OYO Townhouse 147,Hyderabad,Andheri,Premium,8002.0,3.6,0.0,41.0,294.0
+621,Oyo Inn 903,Mumbai,Salt Lake,Deluxe,8176.0,3.6,0.0,0.0,0.0
+622,Oyo Inn 188,Jaipur,Banjara Hills,Deluxe,2265.0,4.1,490.0,0.0,34.0
+623,Oyo Residency 567,Jaipur,Banjara Hills,Deluxe,2686.0,2.7,0.0,0.0,259.0
+624,OYO Townhouse 655,Jaipur,Airport Road,Deluxe,8267.0,3.6,0.0,5.0,0.0
+626,Oyo Townhouse 548,Bangalore,MG Road,Deluxe,7103.0,2.7,0.0,33.0,365.0
+628,Oyo Residency 207,Delhi,Connaught Place,Deluxe,4791.0,4.6,187.0,0.0,348.0
+629,OYO Residency 856,Kolkata,Park Street,Classic,3450.0,3.6,0.0,0.0,0.0
+630,OYO Flagship 219,Pune,Park Street,Premium,2434.0,3.2,0.0,5.0,112.0
+631,oyo Stay 378,Hyderabad,Whitefield,Classic,1419.0,3.6,0.0,0.0,0.0
+632,oyo SilverKey 647,Mumbai,Airport Road,Suite,7066.0,3.6,0.0,47.0,0.0
+634,OYO Townhouse 141,Ahmedabad,Andheri,Deluxe,6836.0,3.2,769.0,0.0,168.0
+637,oyo Flagship 961,Delhi,Salt Lake,Deluxe,4045.0,3.6,1124.0,0.0,0.0
+638,oyo Flagship 251,Bangalore,Banjara Hills,Premium,7647.0,3.6,0.0,0.0,0.0
+639,Oyo Flagship 483,Pune,City Center,Premium,7931.0,3.6,887.0,55.0,218.0
+640,oyo Stay 157,Hyderabad,Andheri,Classic,3578.0,3.6,0.0,0.0,170.0
+641,OYO Flagship 939,Jaipur,Salt Lake,Premium,3806.0,3.6,0.0,36.0,0.0
+642,Oyo Inn 603,Jaipur,Banjara Hills,Deluxe,1867.0,4.5,0.0,17.0,0.0
+643,oyo Townhouse 667,Chennai,City Center,Deluxe,7013.0,4.2,978.0,0.0,340.0
+644,oyo Collection 967,Hyderabad,Salt Lake,Premium,3114.0,3.6,1357.0,0.0,361.0
+645,OYO Collection 170,Goa,Salt Lake,Deluxe,7693.0,3.6,0.0,42.0,45.0
+646,Oyo Residency 147,Ahmedabad,City Center,Classic,5107.0,3.6,0.0,15.0,0.0
+647,Oyo Inn 296,Goa,Whitefield,Classic,7760.0,2.9,1441.0,0.0,230.0
+648,OYO Townhouse 768,Bangalore,MG Road,Classic,3693.0,3.6,0.0,0.0,150.0
+649,OYO SilverKey 66,Pune,City Center,Suite,6305.0,3.6,0.0,0.0,3.0
+650,OYO Stay 811,Mumbai,Salt Lake,Suite,818.0,3.6,0.0,0.0,0.0
+651,OYO SilverKey 682,Chennai,Salt Lake,Deluxe,7228.0,3.6,676.0,0.0,71.0
+652,OYO Residency 544,Ahmedabad,Salt Lake,Deluxe,5278.0,3.6,0.0,0.0,96.0
+653,OYO Inn 369,Chennai,Airport Road,Suite,1449.0,4.1,0.0,0.0,0.0
+654,oyo Collection 301,Mumbai,Airport Road,Suite,3896.0,3.6,0.0,13.0,0.0
+655,Oyo Townhouse 494,Bangalore,City Center,Deluxe,4646.0,3.6,1433.0,0.0,0.0
+656,OYO Inn 264,Hyderabad,Connaught Place,Deluxe,8503.0,3.6,0.0,0.0,294.0
+659,Oyo SilverKey 790,Pune,Whitefield,Premium,6680.0,3.6,1209.0,0.0,161.0
+660,OYO Collection 697,Hyderabad,Banjara Hills,Classic,8167.0,3.9,0.0,43.0,352.0
+661,oyo Stay 490,Hyderabad,Park Street,Deluxe,4234.0,3.6,0.0,0.0,115.0
+662,Oyo Inn 402,Bangalore,Connaught Place,Premium,5600.0,3.6,0.0,48.0,200.0
+664,OYO Collection 713,Ahmedabad,City Center,Suite,8604.0,4.6,0.0,0.0,294.0
+665,Oyo Collection 696,Bangalore,Connaught Place,Classic,3456.0,3.6,367.0,0.0,222.0
+666,OYO Townhouse 122,Pune,Airport Road,Premium,4646.0,3.6,1220.0,52.0,0.0
+667,oyo Inn 456,Hyderabad,Park Street,Classic,6718.0,2.8,0.0,0.0,0.0
+668,oyo Inn 97,Hyderabad,Airport Road,Suite,3667.0,3.6,0.0,0.0,32.0
+669,oyo Townhouse 404,Pune,Airport Road,Deluxe,8704.0,3.6,0.0,0.0,337.0
+671,OYO Townhouse 519,Delhi,City Center,Classic,5591.0,4.7,0.0,20.0,0.0
+673,OYO Flagship 307,Delhi,Salt Lake,Classic,4226.0,3.9,0.0,0.0,0.0
+674,Oyo Inn 926,Hyderabad,Park Street,Classic,3375.0,3.6,0.0,0.0,0.0
+675,oyo SilverKey 578,Kolkata,Airport Road,Suite,3387.0,3.6,0.0,0.0,63.0
+676,Oyo Townhouse 338,Goa,Salt Lake,Deluxe,2157.0,3.6,299.0,0.0,193.0
+678,OYO SilverKey 970,Delhi,Andheri,Classic,7082.0,3.6,0.0,43.0,0.0
+679,oyo Stay 731,Delhi,Park Street,Deluxe,3247.0,3.6,547.0,45.0,0.0
+681,oyo Townhouse 79,Mumbai,City Center,Premium,4632.0,2.9,0.0,40.0,346.0
+682,Oyo Stay 702,Jaipur,Connaught Place,Deluxe,2742.0,2.5,0.0,0.0,338.0
+683,Oyo Flagship 691,Ahmedabad,Salt Lake,Deluxe,4387.0,2.7,0.0,32.0,191.0
+684,oyo Flagship 852,Chennai,Salt Lake,Deluxe,2631.0,3.6,542.0,0.0,156.0
+685,oyo Residency 500,Jaipur,Connaught Place,Deluxe,1642.0,3.6,0.0,0.0,0.0
+686,OYO Townhouse 442,Chennai,MG Road,Deluxe,8761.0,3.6,0.0,0.0,128.0
+687,Oyo SilverKey 307,Jaipur,MG Road,Deluxe,6671.0,3.6,551.0,47.0,0.0
+688,Oyo Residency 727,Delhi,City Center,Deluxe,3951.0,2.9,0.0,52.0,341.0
+689,oyo SilverKey 122,Jaipur,Whitefield,Deluxe,7599.0,3.6,1462.0,53.0,199.0
+690,OYO Residency 22,Mumbai,Salt Lake,Classic,2766.0,3.3,1401.0,48.0,0.0
+691,Oyo SilverKey 498,Jaipur,Airport Road,Suite,2053.0,3.1,0.0,20.0,358.0
+694,OYO Stay 438,Jaipur,Connaught Place,Classic,1546.0,3.6,0.0,0.0,93.0
+695,OYO Inn 763,Delhi,Andheri,Suite,5969.0,3.6,1242.0,16.0,0.0
+696,OYO Inn 14,Mumbai,Banjara Hills,Deluxe,2834.0,3.6,0.0,0.0,0.0
+697,OYO Flagship 645,Mumbai,Airport Road,Classic,2671.0,3.6,390.0,0.0,0.0
+699,oyo Inn 121,Jaipur,MG Road,Suite,7845.0,3.6,1031.0,43.0,23.0
+702,oyo Townhouse 176,Hyderabad,Banjara Hills,Classic,4368.0,3.6,0.0,0.0,328.0
+704,OYO Inn 836,Chennai,Airport Road,Deluxe,870.0,3.6,0.0,0.0,0.0
+705,oyo Inn 619,Hyderabad,MG Road,Premium,4077.0,3.6,0.0,56.0,0.0
+706,OYO Collection 96,Chennai,Banjara Hills,Classic,8825.0,3.6,0.0,0.0,158.0
+707,Oyo Inn 623,Bangalore,Whitefield,Deluxe,3777.0,3.6,0.0,0.0,6.0
+708,Oyo Townhouse 113,Pune,City Center,Classic,922.0,2.8,548.0,0.0,0.0
+709,OYO Flagship 492,Mumbai,Banjara Hills,Deluxe,7979.0,3.6,316.0,0.0,278.0
+710,OYO Townhouse 558,Delhi,Salt Lake,Premium,5561.0,3.6,290.0,0.0,0.0
+711,OYO Inn 394,Hyderabad,Connaught Place,Classic,2541.0,2.9,459.0,0.0,184.0
+713,Oyo Collection 678,Mumbai,MG Road,Suite,6747.0,3.6,156.0,0.0,0.0
+714,oyo Residency 805,Jaipur,MG Road,Deluxe,8538.0,3.6,0.0,10.0,0.0
+716,oyo Residency 236,Goa,Park Street,Deluxe,7001.0,3.6,0.0,0.0,44.0
+717,OYO Flagship 872,Chennai,Banjara Hills,Premium,981.0,3.8,225.0,0.0,0.0
+718,OYO Residency 230,Kolkata,Salt Lake,Suite,1615.0,3.6,1441.0,0.0,27.0
+719,OYO Collection 858,Ahmedabad,Salt Lake,Deluxe,3291.0,2.8,161.0,0.0,0.0
+720,oyo Stay 716,Bangalore,Airport Road,Deluxe,5607.0,3.6,0.0,5.0,30.0
+721,OYO Stay 165,Ahmedabad,Whitefield,Suite,878.0,3.6,0.0,58.0,363.0
+723,Oyo SilverKey 669,Jaipur,Airport Road,Classic,7337.0,3.6,0.0,0.0,0.0
+724,OYO SilverKey 167,Delhi,City Center,Deluxe,2444.0,3.0,633.0,0.0,137.0
+725,oyo Townhouse 578,Ahmedabad,Salt Lake,Classic,8626.0,2.6,632.0,53.0,0.0
+726,oyo SilverKey 998,Pune,City Center,Classic,2822.0,3.6,1031.0,0.0,0.0
+727,OYO SilverKey 166,Ahmedabad,MG Road,Deluxe,3182.0,3.6,0.0,0.0,0.0
+729,oyo Inn 510,Bangalore,Connaught Place,Deluxe,2295.0,3.6,1120.0,11.0,151.0
+730,Oyo Stay 373,Mumbai,MG Road,Classic,6489.0,3.6,0.0,21.0,0.0
+731,Oyo Residency 294,Delhi,Connaught Place,Suite,7268.0,3.6,0.0,0.0,0.0
+733,oyo Collection 875,Bangalore,Whitefield,Premium,1895.0,3.6,1370.0,34.0,55.0
+734,oyo Townhouse 940,Bangalore,Park Street,Deluxe,7203.0,3.6,0.0,43.0,243.0
+735,Oyo Townhouse 559,Hyderabad,City Center,Suite,3251.0,2.8,0.0,43.0,0.0
+736,OYO Flagship 889,Kolkata,Salt Lake,Classic,1075.0,3.6,360.0,9.0,0.0
+737,oyo Flagship 686,Pune,Park Street,Suite,4950.0,4.4,0.0,0.0,0.0
+738,oyo Inn 803,Jaipur,Park Street,Classic,3332.0,3.6,0.0,0.0,341.0
+739,oyo Residency 962,Chennai,Salt Lake,Suite,5885.0,3.6,0.0,0.0,266.0
+740,OYO Inn 461,Jaipur,Salt Lake,Deluxe,2296.0,3.0,0.0,0.0,178.0
+741,oyo Stay 979,Kolkata,Andheri,Deluxe,935.0,4.4,0.0,0.0,0.0
+743,Oyo Collection 292,Goa,Salt Lake,Classic,7867.0,4.1,179.0,0.0,254.0
+744,oyo Stay 826,Jaipur,Park Street,Premium,1234.0,4.5,0.0,0.0,0.0
+745,Oyo Residency 661,Jaipur,Banjara Hills,Premium,7184.0,4.7,0.0,47.0,344.0
+746,Oyo Townhouse 16,Delhi,Salt Lake,Deluxe,1130.0,3.6,0.0,0.0,0.0
+748,oyo Residency 130,Mumbai,Connaught Place,Deluxe,8961.0,3.6,0.0,0.0,47.0
+749,Oyo Townhouse 644,Delhi,MG Road,Premium,3207.0,3.6,0.0,0.0,0.0
+750,OYO Inn 920,Bangalore,City Center,Suite,4333.0,2.9,0.0,0.0,42.0
+751,oyo Stay 888,Delhi,MG Road,Classic,2394.0,3.6,251.0,23.0,0.0
+752,OYO Collection 104,Chennai,Salt Lake,Suite,8745.0,3.6,1281.0,48.0,0.0
+755,Oyo SilverKey 494,Bangalore,Salt Lake,Classic,3964.0,3.6,0.0,52.0,204.0
+756,OYO Flagship 704,Hyderabad,Andheri,Premium,5305.0,3.6,638.0,0.0,0.0
+759,OYO Townhouse 221,Chennai,Connaught Place,Deluxe,6789.0,3.6,250.0,0.0,0.0
+761,Oyo Residency 328,Pune,Airport Road,Premium,3946.0,3.6,1021.0,0.0,0.0
+762,Oyo Flagship 591,Ahmedabad,City Center,Classic,1048.0,3.6,0.0,13.0,270.0
+763,oyo Townhouse 72,Chennai,Salt Lake,Classic,8398.0,3.6,0.0,25.0,0.0
+764,oyo Townhouse 403,Jaipur,Park Street,Classic,5589.0,3.6,0.0,0.0,5.0
+765,Oyo Residency 705,Mumbai,City Center,Suite,7838.0,2.9,0.0,0.0,22.0
+767,oyo Residency 990,Bangalore,Andheri,Suite,7471.0,3.6,1080.0,0.0,0.0
+768,OYO SilverKey 785,Kolkata,Airport Road,Classic,5553.0,3.3,0.0,0.0,253.0
+769,OYO Inn 222,Kolkata,Whitefield,Suite,8370.0,2.9,697.0,0.0,0.0
+770,oyo Townhouse 937,Bangalore,Park Street,Classic,2830.0,3.6,0.0,17.0,0.0
+771,oyo SilverKey 975,Bangalore,Banjara Hills,Classic,2372.0,3.6,225.0,0.0,0.0
+772,Oyo Townhouse 950,Chennai,City Center,Premium,2077.0,3.5,0.0,37.0,0.0
+773,OYO Inn 392,Mumbai,Andheri,Classic,7623.0,3.6,0.0,0.0,221.0
+774,oyo Flagship 982,Delhi,Airport Road,Suite,2519.0,2.8,0.0,0.0,0.0
+775,Oyo Townhouse 226,Pune,Banjara Hills,Deluxe,5095.0,3.0,0.0,0.0,1.0
+776,oyo Inn 638,Bangalore,MG Road,Deluxe,8511.0,3.6,488.0,0.0,0.0
+777,OYO Inn 486,Bangalore,Connaught Place,Premium,7711.0,3.6,157.0,0.0,298.0
+778,OYO Collection 113,Jaipur,Airport Road,Classic,1440.0,3.6,0.0,0.0,0.0
+779,Oyo Inn 360,Jaipur,Whitefield,Deluxe,4916.0,3.6,0.0,50.0,0.0
+780,Oyo Inn 532,Mumbai,Park Street,Classic,1039.0,4.8,1350.0,0.0,0.0
+781,OYO Inn 92,Chennai,MG Road,Suite,3875.0,3.6,0.0,0.0,0.0
+782,Oyo Stay 428,Chennai,Airport Road,Premium,5226.0,3.6,0.0,0.0,0.0
+783,OYO Townhouse 511,Hyderabad,Banjara Hills,Premium,3110.0,3.6,0.0,0.0,147.0
+784,OYO Collection 42,Hyderabad,Connaught Place,Deluxe,4260.0,4.4,0.0,5.0,0.0
+786,OYO Townhouse 485,Hyderabad,Banjara Hills,Classic,6510.0,3.6,0.0,11.0,159.0
+788,oyo Collection 559,Ahmedabad,Connaught Place,Classic,3704.0,3.6,196.0,0.0,0.0
+789,Oyo Collection 478,Jaipur,Banjara Hills,Deluxe,7589.0,3.6,0.0,0.0,0.0
+790,oyo Stay 922,Bangalore,Whitefield,Premium,5506.0,3.6,0.0,5.0,27.0
+791,Oyo Residency 666,Delhi,Airport Road,Deluxe,2453.0,3.6,0.0,0.0,299.0
+792,oyo Flagship 576,Kolkata,City Center,Premium,8815.0,3.6,1310.0,45.0,319.0
+795,OYO Residency 763,Bangalore,Banjara Hills,Deluxe,4643.0,3.6,1119.0,35.0,0.0
+796,oyo SilverKey 401,Chennai,Salt Lake,Classic,7021.0,3.6,303.0,0.0,0.0
+797,oyo Inn 915,Delhi,City Center,Deluxe,7982.0,3.6,0.0,34.0,183.0
+798,oyo Stay 400,Chennai,MG Road,Suite,1728.0,3.6,0.0,26.0,0.0
+799,OYO Residency 661,Pune,Whitefield,Suite,8625.0,3.6,1349.0,0.0,0.0
+800,oyo SilverKey 599,Ahmedabad,Andheri,Deluxe,7315.0,3.6,325.0,0.0,0.0
+801,oyo Residency 243,Kolkata,Airport Road,Classic,2427.0,3.6,860.0,44.0,0.0
+802,oyo Inn 861,Chennai,Whitefield,Deluxe,1182.0,3.6,0.0,0.0,0.0
+803,Oyo Inn 293,Jaipur,Airport Road,Deluxe,4394.0,3.6,1082.0,0.0,17.0
+804,Oyo Residency 418,Delhi,Park Street,Classic,1879.0,3.6,0.0,0.0,0.0
+805,oyo Stay 874,Chennai,Whitefield,Suite,2958.0,3.6,770.0,0.0,51.0
+806,OYO Townhouse 616,Jaipur,MG Road,Suite,6121.0,3.6,0.0,0.0,38.0
+808,OYO SilverKey 910,Hyderabad,Airport Road,Classic,1673.0,3.6,0.0,20.0,312.0
+810,Oyo SilverKey 801,Pune,City Center,Classic,4431.0,4.6,0.0,60.0,246.0
+811,Oyo Inn 129,Pune,Park Street,Suite,7740.0,3.8,896.0,28.0,223.0
+812,OYO Townhouse 603,Kolkata,Park Street,Classic,864.0,3.6,1163.0,0.0,39.0
+813,Oyo Flagship 290,Bangalore,Andheri,Deluxe,1416.0,3.6,0.0,43.0,62.0
+814,Oyo Stay 211,Mumbai,Banjara Hills,Deluxe,8808.0,4.6,0.0,0.0,0.0
+815,oyo Stay 516,Chennai,Park Street,Deluxe,2410.0,3.6,0.0,0.0,266.0
+816,oyo Stay 216,Hyderabad,Andheri,Classic,2711.0,4.2,73.0,0.0,0.0
+817,Oyo SilverKey 603,Delhi,Andheri,Classic,6994.0,4.4,0.0,44.0,0.0
+818,OYO Flagship 211,Jaipur,Connaught Place,Classic,6914.0,3.6,0.0,0.0,0.0
+819,oyo Flagship 776,Hyderabad,City Center,Classic,1148.0,3.6,0.0,0.0,0.0
+820,oyo Collection 435,Hyderabad,Banjara Hills,Classic,4961.0,3.6,487.0,0.0,0.0
+821,oyo Collection 40,Chennai,Connaught Place,Suite,5193.0,3.6,0.0,12.0,0.0
+822,OYO Collection 10,Jaipur,Airport Road,Suite,8342.0,3.6,0.0,0.0,0.0
+823,Oyo Flagship 265,Mumbai,City Center,Deluxe,5224.0,4.5,0.0,0.0,58.0
+825,oyo Townhouse 615,Goa,Park Street,Suite,4545.0,3.6,908.0,0.0,0.0
+826,OYO Inn 437,Pune,Andheri,Suite,5338.0,3.6,0.0,46.0,318.0
+828,Oyo Residency 597,Kolkata,Whitefield,Deluxe,1234.0,3.6,160.0,0.0,214.0
+829,OYO Stay 484,Goa,Park Street,Premium,7925.0,3.6,600.0,20.0,161.0
+830,Oyo Inn 981,Kolkata,Park Street,Premium,7416.0,3.6,1035.0,46.0,214.0
+832,Oyo Inn 903,Ahmedabad,Andheri,Deluxe,3945.0,4.5,341.0,0.0,51.0
+833,Oyo Townhouse 707,Delhi,Whitefield,Deluxe,3435.0,3.6,0.0,13.0,0.0
+835,Oyo Residency 489,Pune,Connaught Place,Deluxe,2905.0,3.6,1043.0,0.0,0.0
+836,Oyo Collection 181,Pune,Whitefield,Premium,5276.0,3.6,698.0,0.0,0.0
+837,Oyo Residency 183,Pune,Connaught Place,Classic,3046.0,3.6,1497.0,38.0,0.0
+838,OYO SilverKey 281,Bangalore,Park Street,Deluxe,8673.0,3.0,0.0,0.0,142.0
+839,OYO Stay 859,Mumbai,Andheri,Classic,3466.0,3.9,0.0,0.0,189.0
+841,OYO SilverKey 750,Mumbai,Whitefield,Suite,2608.0,3.6,0.0,0.0,0.0
+842,oyo Residency 76,Goa,City Center,Deluxe,5857.0,3.6,0.0,0.0,321.0
+843,OYO Stay 386,Kolkata,MG Road,Deluxe,4307.0,3.1,992.0,36.0,325.0
+844,oyo Inn 220,Goa,Salt Lake,Deluxe,752.0,3.6,1251.0,0.0,0.0
+846,Oyo SilverKey 99,Goa,Salt Lake,Classic,4286.0,3.6,0.0,0.0,0.0
+847,oyo Townhouse 356,Chennai,City Center,Suite,7222.0,3.6,0.0,0.0,137.0
+848,OYO Stay 791,Pune,City Center,Suite,5995.0,3.6,0.0,30.0,248.0
+849,oyo Residency 47,Chennai,Airport Road,Classic,5754.0,3.6,0.0,0.0,0.0
+850,oyo Stay 21,Bangalore,Airport Road,Deluxe,1045.0,3.6,0.0,0.0,25.0
+851,oyo Flagship 161,Chennai,Park Street,Classic,7180.0,3.2,0.0,0.0,18.0
+852,OYO Stay 408,Goa,Park Street,Classic,8644.0,3.6,49.0,0.0,139.0
+853,oyo Collection 135,Pune,City Center,Classic,5123.0,3.6,0.0,51.0,277.0
+854,oyo Stay 812,Mumbai,Banjara Hills,Suite,7108.0,3.6,0.0,0.0,234.0
+855,Oyo Inn 591,Mumbai,Banjara Hills,Deluxe,8423.0,3.2,0.0,22.0,273.0
+856,OYO Collection 746,Pune,Salt Lake,Deluxe,7149.0,3.6,0.0,0.0,0.0
+857,oyo Townhouse 659,Jaipur,Andheri,Classic,5789.0,3.6,171.0,0.0,127.0
+859,Oyo Inn 579,Delhi,Park Street,Suite,7360.0,3.1,0.0,36.0,0.0
+860,oyo Residency 758,Goa,Whitefield,Deluxe,2034.0,3.5,769.0,0.0,62.0
+861,Oyo Residency 996,Kolkata,MG Road,Deluxe,2562.0,3.6,0.0,38.0,0.0
+862,OYO SilverKey 121,Pune,MG Road,Deluxe,7834.0,3.6,0.0,44.0,148.0
+863,oyo SilverKey 532,Ahmedabad,Andheri,Classic,4816.0,3.6,1474.0,0.0,0.0
+864,OYO Collection 69,Bangalore,Airport Road,Classic,791.0,4.1,1421.0,34.0,0.0
+865,OYO Townhouse 359,Ahmedabad,Banjara Hills,Suite,4403.0,3.9,0.0,60.0,0.0
+866,oyo Stay 657,Hyderabad,Airport Road,Deluxe,4019.0,3.9,1496.0,16.0,0.0
+868,OYO Collection 896,Bangalore,Andheri,Suite,704.0,2.7,0.0,33.0,154.0
+869,oyo Collection 387,Kolkata,MG Road,Deluxe,7016.0,3.6,0.0,0.0,142.0
+870,oyo Collection 502,Pune,Andheri,Deluxe,4804.0,3.6,0.0,6.0,0.0
+871,oyo Stay 898,Kolkata,Park Street,Classic,3829.0,3.6,21.0,0.0,0.0
+873,oyo Townhouse 995,Hyderabad,Whitefield,Classic,1198.0,3.6,0.0,0.0,0.0
+874,oyo Inn 157,Delhi,Connaught Place,Classic,3598.0,2.7,0.0,0.0,0.0
+875,oyo Stay 756,Kolkata,Whitefield,Classic,973.0,3.6,1452.0,51.0,0.0
+876,oyo Inn 63,Pune,Andheri,Classic,1764.0,3.6,0.0,0.0,141.0
+877,Oyo Flagship 651,Goa,Airport Road,Classic,752.0,3.6,0.0,0.0,237.0
+878,OYO Flagship 748,Mumbai,Connaught Place,Premium,2115.0,3.6,41.0,0.0,41.0
+879,oyo Inn 966,Hyderabad,Connaught Place,Premium,3830.0,3.6,0.0,0.0,115.0
+880,OYO Flagship 303,Hyderabad,Whitefield,Premium,4949.0,3.6,0.0,0.0,323.0
+881,oyo Collection 160,Delhi,Whitefield,Deluxe,4151.0,3.6,591.0,0.0,137.0
+882,OYO SilverKey 224,Goa,MG Road,Premium,8362.0,2.6,0.0,16.0,0.0
+883,oyo Collection 675,Chennai,Connaught Place,Suite,1254.0,3.6,734.0,31.0,331.0
+885,Oyo Inn 383,Kolkata,Salt Lake,Premium,6235.0,3.6,82.0,0.0,0.0
+886,OYO Flagship 525,Ahmedabad,MG Road,Deluxe,3426.0,3.6,1073.0,0.0,170.0
+887,Oyo Residency 785,Mumbai,MG Road,Suite,3017.0,3.6,943.0,0.0,157.0
+888,OYO Residency 209,Bangalore,City Center,Premium,7852.0,4.2,0.0,54.0,0.0
+889,Oyo Stay 704,Mumbai,Salt Lake,Deluxe,7156.0,3.6,0.0,0.0,162.0
+891,Oyo SilverKey 349,Kolkata,Park Street,Classic,8915.0,3.6,0.0,13.0,0.0
+892,OYO SilverKey 394,Pune,Banjara Hills,Premium,3647.0,3.6,0.0,0.0,91.0
+893,oyo Stay 855,Pune,City Center,Deluxe,2443.0,3.6,0.0,46.0,163.0
+894,oyo Collection 703,Ahmedabad,Salt Lake,Suite,8149.0,3.6,0.0,8.0,324.0
+895,Oyo Stay 382,Ahmedabad,Airport Road,Deluxe,8458.0,3.6,228.0,39.0,0.0
+896,Oyo Flagship 528,Ahmedabad,Connaught Place,Classic,8154.0,3.6,81.0,36.0,0.0
+897,Oyo SilverKey 692,Hyderabad,Connaught Place,Suite,5552.0,3.7,0.0,6.0,325.0
+900,oyo Inn 310,Chennai,Salt Lake,Classic,7622.0,3.6,0.0,0.0,0.0
+901,oyo Stay 553,Hyderabad,MG Road,Suite,4693.0,3.6,0.0,0.0,256.0
+902,Oyo Flagship 695,Ahmedabad,Banjara Hills,Premium,5368.0,2.5,0.0,13.0,0.0
+903,OYO Flagship 19,Mumbai,Salt Lake,Deluxe,6018.0,3.6,0.0,57.0,0.0
+904,Oyo Collection 953,Goa,Andheri,Deluxe,905.0,3.6,910.0,0.0,272.0
+905,Oyo Collection 34,Pune,Banjara Hills,Suite,1987.0,3.6,170.0,38.0,0.0
+907,oyo Residency 127,Pune,Salt Lake,Classic,2288.0,3.0,0.0,0.0,0.0
+908,Oyo Stay 286,Kolkata,Whitefield,Classic,5933.0,3.6,0.0,45.0,0.0
+909,Oyo Collection 775,Kolkata,Whitefield,Suite,8300.0,3.6,321.0,0.0,237.0
+910,Oyo Stay 669,Mumbai,Whitefield,Classic,7550.0,3.6,0.0,0.0,0.0
+912,Oyo SilverKey 741,Bangalore,City Center,Deluxe,4620.0,3.6,0.0,0.0,0.0
+913,OYO Inn 618,Jaipur,Connaught Place,Deluxe,7968.0,3.6,0.0,0.0,0.0
+915,Oyo Residency 744,Jaipur,Andheri,Premium,1679.0,3.6,0.0,0.0,63.0
+916,Oyo Residency 846,Bangalore,Park Street,Suite,2531.0,3.6,695.0,55.0,0.0
+917,Oyo Inn 504,Mumbai,Banjara Hills,Classic,4709.0,3.6,0.0,0.0,140.0
+918,OYO Stay 296,Bangalore,MG Road,Classic,1125.0,3.6,0.0,0.0,0.0
+919,oyo Collection 690,Jaipur,Banjara Hills,Deluxe,5531.0,3.6,263.0,23.0,116.0
+920,oyo SilverKey 152,Kolkata,Connaught Place,Deluxe,897.0,3.6,0.0,0.0,0.0
+921,Oyo Collection 887,Goa,Airport Road,Suite,8650.0,3.6,0.0,0.0,0.0
+922,OYO Flagship 285,Kolkata,Whitefield,Deluxe,2659.0,3.6,0.0,0.0,0.0
+924,Oyo Residency 758,Kolkata,Whitefield,Suite,3693.0,3.6,934.0,43.0,46.0
+925,OYO Stay 311,Mumbai,City Center,Suite,1697.0,3.6,0.0,0.0,324.0
+926,Oyo Townhouse 453,Kolkata,City Center,Classic,2066.0,3.6,1207.0,36.0,220.0
+927,oyo Flagship 604,Jaipur,Connaught Place,Classic,8175.0,3.6,0.0,0.0,0.0
+928,Oyo Residency 545,Hyderabad,MG Road,Premium,4779.0,3.6,0.0,0.0,0.0
+929,Oyo Collection 168,Goa,Whitefield,Deluxe,3629.0,3.6,623.0,33.0,99.0
+930,OYO SilverKey 514,Kolkata,MG Road,Suite,5703.0,3.6,0.0,0.0,80.0
+931,OYO Residency 162,Pune,Banjara Hills,Deluxe,3274.0,3.6,0.0,0.0,0.0
+932,Oyo Flagship 314,Hyderabad,Salt Lake,Classic,6167.0,3.6,0.0,41.0,206.0
+933,Oyo Inn 825,Pune,Banjara Hills,Suite,2992.0,4.3,1442.0,0.0,191.0
+935,oyo Collection 965,Chennai,Salt Lake,Classic,8398.0,3.6,0.0,20.0,51.0
+936,Oyo Stay 379,Chennai,MG Road,Deluxe,7878.0,2.8,0.0,51.0,0.0
+937,OYO Stay 91,Ahmedabad,City Center,Deluxe,7880.0,3.6,0.0,38.0,0.0
+938,Oyo Inn 906,Chennai,Banjara Hills,Suite,4219.0,3.2,0.0,0.0,309.0
+939,OYO Inn 421,Bangalore,Salt Lake,Classic,7701.0,4.4,1082.0,0.0,0.0
+940,Oyo SilverKey 589,Goa,MG Road,Classic,6168.0,3.6,0.0,0.0,0.0
+941,oyo Flagship 770,Ahmedabad,Airport Road,Deluxe,1897.0,3.6,0.0,46.0,0.0
+942,oyo Residency 710,Jaipur,City Center,Deluxe,7784.0,3.6,0.0,0.0,0.0
+944,OYO Townhouse 27,Hyderabad,Park Street,Suite,1346.0,3.7,0.0,0.0,0.0
+945,OYO Flagship 791,Hyderabad,Park Street,Premium,6521.0,3.6,0.0,0.0,0.0
+947,oyo Stay 367,Jaipur,Airport Road,Premium,5891.0,2.9,0.0,0.0,8.0
+948,Oyo Collection 985,Pune,Park Street,Deluxe,2339.0,3.6,0.0,46.0,0.0
+949,OYO SilverKey 748,Jaipur,MG Road,Deluxe,5996.0,2.8,0.0,0.0,0.0
+950,OYO Stay 822,Delhi,MG Road,Deluxe,4137.0,3.6,0.0,0.0,342.0
+951,OYO Residency 167,Chennai,Connaught Place,Classic,1191.0,3.6,0.0,0.0,0.0
+952,Oyo Townhouse 753,Delhi,Airport Road,Classic,3064.0,3.6,0.0,0.0,178.0
+953,Oyo Townhouse 116,Mumbai,City Center,Suite,8493.0,3.6,901.0,0.0,0.0
+955,OYO Inn 85,Bangalore,Banjara Hills,Suite,2253.0,3.6,215.0,0.0,0.0
+956,oyo Stay 592,Ahmedabad,Salt Lake,Deluxe,5070.0,3.6,1354.0,0.0,24.0
+957,OYO Flagship 650,Bangalore,Park Street,Deluxe,1258.0,3.6,0.0,35.0,0.0
+959,oyo Collection 680,Jaipur,Whitefield,Deluxe,2281.0,3.6,0.0,0.0,48.0
+960,OYO Townhouse 564,Jaipur,MG Road,Premium,5544.0,3.6,0.0,0.0,261.0
+961,oyo Flagship 795,Bangalore,Whitefield,Classic,973.0,3.6,0.0,0.0,0.0
+962,OYO Inn 970,Goa,Park Street,Deluxe,3432.0,3.6,0.0,0.0,0.0
+963,Oyo Townhouse 983,Kolkata,Banjara Hills,Classic,7267.0,3.6,0.0,0.0,0.0
+964,oyo SilverKey 214,Goa,Salt Lake,Deluxe,1794.0,4.2,0.0,0.0,0.0
+965,oyo Flagship 255,Pune,MG Road,Deluxe,6441.0,3.6,0.0,0.0,227.0
+967,OYO Residency 933,Bangalore,Salt Lake,Classic,6293.0,4.7,0.0,45.0,0.0
+970,oyo Collection 682,Kolkata,Salt Lake,Classic,5054.0,3.6,0.0,0.0,0.0
+972,Oyo Stay 885,Jaipur,MG Road,Classic,1310.0,3.6,0.0,0.0,0.0
+973,Oyo Collection 822,Mumbai,Banjara Hills,Premium,1164.0,3.6,0.0,0.0,0.0
+974,oyo Inn 270,Jaipur,MG Road,Premium,3331.0,3.6,0.0,30.0,0.0
+975,oyo Stay 758,Chennai,Andheri,Deluxe,4428.0,4.4,1478.0,30.0,0.0
+976,Oyo Residency 725,Kolkata,Airport Road,Deluxe,8653.0,3.6,740.0,0.0,0.0
+978,OYO Inn 349,Hyderabad,Airport Road,Suite,6496.0,3.6,0.0,56.0,0.0
+979,OYO Stay 159,Delhi,Park Street,Deluxe,5185.0,3.6,448.0,0.0,0.0
+980,OYO Residency 627,Kolkata,Salt Lake,Deluxe,8617.0,3.6,1163.0,0.0,0.0
+981,oyo Residency 373,Hyderabad,MG Road,Suite,5018.0,3.4,0.0,0.0,359.0
+983,OYO Collection 634,Ahmedabad,City Center,Suite,7874.0,3.9,350.0,0.0,244.0
+985,oyo Inn 691,Hyderabad,Connaught Place,Classic,5691.0,3.6,833.0,0.0,312.0
+988,Oyo Flagship 725,Hyderabad,Airport Road,Suite,7751.0,3.6,0.0,19.0,231.0
+990,oyo Stay 384,Delhi,Airport Road,Deluxe,1836.0,3.6,1020.0,18.0,0.0
+992,oyo Stay 172,Bangalore,Salt Lake,Premium,2333.0,2.9,0.0,0.0,59.0
+993,OYO SilverKey 145,Chennai,Airport Road,Classic,4623.0,3.6,0.0,0.0,0.0
+995,Oyo Townhouse 503,Pune,Banjara Hills,Deluxe,1090.0,3.6,0.0,24.0,357.0
+996,OYO Flagship 970,Goa,City Center,Classic,2161.0,3.6,0.0,46.0,14.0
+997,Oyo Flagship 361,Hyderabad,City Center,Deluxe,1559.0,3.6,0.0,0.0,0.0
+998,OYO Inn 328,Bangalore,Park Street,Deluxe,1895.0,3.6,0.0,7.0,0.0
+999,OYO Inn 834,Delhi,Park Street,Classic,6119.0,4.8,0.0,0.0,0.0
+1000,oyo Stay 728,Pune,Salt Lake,Premium,5774.0,3.6,0.0,5.0,142.0
+1001,Oyo Stay 11,Jaipur,Airport Road,Classic,7179.0,3.6,0.0,0.0,0.0
+1002,OYO Stay 336,Mumbai,Banjara Hills,Classic,3442.0,3.6,0.0,39.0,133.0
+1003,Oyo Residency 907,Mumbai,Andheri,Classic,4011.0,3.6,411.0,7.0,57.0
+1004,Oyo Flagship 86,Delhi,City Center,Deluxe,1804.0,3.6,0.0,0.0,257.0
+1005,oyo SilverKey 45,Kolkata,City Center,Premium,932.0,3.6,0.0,0.0,194.0
+1006,oyo Townhouse 231,Hyderabad,Park Street,Classic,3714.0,3.6,898.0,0.0,0.0
+1007,OYO Flagship 561,Goa,MG Road,Deluxe,5902.0,2.8,0.0,0.0,0.0
+1008,OYO Townhouse 701,Delhi,Park Street,Deluxe,4528.0,3.6,0.0,0.0,18.0
+1010,oyo Collection 491,Chennai,MG Road,Premium,3209.0,3.6,458.0,0.0,131.0
+1011,oyo Townhouse 443,Chennai,MG Road,Deluxe,5612.0,3.6,0.0,19.0,180.0
+1012,Oyo Collection 472,Pune,MG Road,Deluxe,8110.0,3.6,0.0,47.0,271.0
+1016,Oyo Collection 252,Pune,Airport Road,Classic,2839.0,3.6,0.0,0.0,43.0
+1017,OYO SilverKey 874,Delhi,Airport Road,Suite,2173.0,3.6,0.0,18.0,0.0
+1018,Oyo Collection 347,Ahmedabad,Whitefield,Classic,3570.0,3.6,327.0,0.0,209.0
+1019,oyo Inn 481,Goa,MG Road,Premium,5307.0,3.6,0.0,0.0,0.0
+1020,OYO Residency 21,Jaipur,Connaught Place,Suite,6637.0,3.8,916.0,0.0,0.0
+1021,OYO Flagship 640,Mumbai,Airport Road,Suite,5616.0,4.6,1369.0,25.0,0.0
+1022,oyo Stay 428,Delhi,Connaught Place,Deluxe,3469.0,4.5,0.0,6.0,26.0
+1023,Oyo Collection 444,Hyderabad,City Center,Deluxe,6229.0,3.6,0.0,0.0,319.0
+1024,OYO SilverKey 390,Ahmedabad,Connaught Place,Suite,3970.0,3.4,0.0,49.0,0.0
+1025,oyo SilverKey 136,Pune,Airport Road,Deluxe,6372.0,3.6,0.0,0.0,163.0
+1026,OYO Residency 781,Delhi,Airport Road,Classic,2453.0,3.6,133.0,0.0,4.0
+1027,oyo Townhouse 160,Chennai,Park Street,Deluxe,8249.0,4.3,1254.0,0.0,41.0
+1028,oyo Townhouse 4,Mumbai,Park Street,Premium,7793.0,3.6,0.0,0.0,0.0
+1030,oyo Flagship 717,Goa,Banjara Hills,Classic,2731.0,3.6,466.0,0.0,0.0
+1031,Oyo SilverKey 845,Kolkata,Airport Road,Classic,6348.0,3.6,0.0,0.0,0.0
+1032,oyo Townhouse 635,Chennai,Connaught Place,Classic,7746.0,3.6,913.0,0.0,185.0
+1033,Oyo Inn 860,Ahmedabad,Connaught Place,Classic,5927.0,3.6,0.0,53.0,97.0
+1034,OYO Townhouse 708,Ahmedabad,Andheri,Deluxe,6481.0,3.6,0.0,60.0,0.0
+1035,OYO Residency 143,Pune,MG Road,Deluxe,5889.0,3.6,0.0,5.0,303.0
+1036,OYO Townhouse 401,Kolkata,Whitefield,Suite,8437.0,3.1,0.0,15.0,116.0
+1037,oyo Inn 512,Jaipur,Airport Road,Suite,7791.0,4.7,0.0,0.0,0.0
+1038,Oyo Flagship 241,Ahmedabad,Banjara Hills,Deluxe,8797.0,3.5,0.0,0.0,0.0
+1039,OYO Stay 133,Ahmedabad,City Center,Premium,5318.0,3.6,0.0,0.0,0.0
+1040,OYO SilverKey 705,Kolkata,Park Street,Deluxe,4524.0,3.6,0.0,41.0,164.0
+1041,oyo Flagship 833,Ahmedabad,Connaught Place,Classic,4781.0,3.8,0.0,0.0,0.0
+1042,oyo Inn 273,Jaipur,Andheri,Deluxe,1796.0,3.4,0.0,0.0,114.0
+1045,OYO Townhouse 668,Hyderabad,Andheri,Suite,7604.0,3.3,0.0,0.0,0.0
+1046,Oyo Flagship 724,Jaipur,Whitefield,Premium,8127.0,2.9,661.0,8.0,188.0
+1047,oyo Collection 564,Chennai,Banjara Hills,Suite,1117.0,3.6,0.0,0.0,289.0
+1048,OYO Inn 735,Goa,Park Street,Classic,2860.0,2.6,286.0,0.0,0.0
+1049,OYO Collection 352,Chennai,MG Road,Classic,1839.0,3.4,0.0,55.0,45.0
+1050,OYO Townhouse 782,Jaipur,Park Street,Premium,4972.0,3.6,0.0,0.0,21.0
+1052,OYO Townhouse 205,Goa,Connaught Place,Classic,1289.0,3.6,0.0,0.0,0.0
+1053,OYO Stay 8,Kolkata,Banjara Hills,Suite,5310.0,3.6,795.0,0.0,0.0
+1054,Oyo Townhouse 667,Hyderabad,Park Street,Deluxe,5375.0,3.6,0.0,54.0,57.0
+1055,OYO Inn 956,Pune,Banjara Hills,Suite,4068.0,3.6,0.0,0.0,237.0
+1057,Oyo Stay 772,Jaipur,Airport Road,Classic,3407.0,3.6,0.0,0.0,15.0
+1058,Oyo Townhouse 311,Delhi,Park Street,Premium,7991.0,4.2,199.0,0.0,190.0
+1059,Oyo Inn 23,Hyderabad,Airport Road,Deluxe,5573.0,3.6,0.0,0.0,349.0
+1060,OYO Townhouse 116,Jaipur,Andheri,Classic,2110.0,3.6,0.0,0.0,354.0
+1061,OYO Collection 695,Kolkata,City Center,Deluxe,6883.0,3.6,0.0,0.0,0.0
+1062,oyo Collection 208,Hyderabad,City Center,Classic,5079.0,4.0,0.0,0.0,0.0
+1063,oyo Residency 761,Kolkata,MG Road,Suite,1474.0,3.6,0.0,0.0,0.0
+1064,oyo Flagship 329,Goa,MG Road,Deluxe,6381.0,3.6,0.0,54.0,0.0
+1065,Oyo Townhouse 617,Chennai,MG Road,Classic,4848.0,3.6,0.0,0.0,175.0
+1068,Oyo Stay 673,Goa,Andheri,Deluxe,7135.0,3.6,0.0,0.0,355.0
+1069,oyo Residency 111,Delhi,Park Street,Classic,8813.0,3.6,627.0,30.0,326.0
+1070,OYO Townhouse 32,Kolkata,Salt Lake,Suite,5546.0,3.6,146.0,0.0,0.0
+1071,oyo Stay 308,Delhi,City Center,Deluxe,6322.0,3.6,0.0,0.0,251.0
+1072,Oyo SilverKey 32,Jaipur,Connaught Place,Deluxe,4890.0,3.6,1103.0,0.0,251.0
+1073,OYO Collection 778,Pune,Airport Road,Premium,2122.0,3.1,169.0,0.0,0.0
+1074,oyo Collection 36,Kolkata,City Center,Deluxe,5989.0,3.6,924.0,0.0,65.0
+1075,Oyo Townhouse 515,Goa,Banjara Hills,Classic,3669.0,3.6,0.0,0.0,0.0
+1076,Oyo SilverKey 875,Bangalore,Park Street,Premium,3366.0,3.6,873.0,0.0,248.0
+1077,Oyo Residency 763,Delhi,Andheri,Deluxe,3593.0,2.6,0.0,0.0,0.0
+1079,OYO Collection 486,Goa,Connaught Place,Premium,1249.0,3.6,864.0,10.0,205.0
+1081,Oyo Townhouse 574,Ahmedabad,Connaught Place,Classic,1351.0,3.6,0.0,0.0,261.0
+1082,oyo Inn 273,Mumbai,Park Street,Deluxe,845.0,4.5,654.0,0.0,0.0
+1084,OYO Flagship 642,Ahmedabad,Connaught Place,Premium,7474.0,3.6,832.0,0.0,14.0
+1085,Oyo Collection 621,Chennai,MG Road,Deluxe,4381.0,3.6,0.0,0.0,0.0
+1086,OYO Collection 615,Jaipur,Connaught Place,Suite,1206.0,2.7,1442.0,0.0,0.0
+1087,oyo Residency 940,Jaipur,Andheri,Premium,6294.0,3.6,0.0,0.0,352.0
+1088,Oyo Townhouse 709,Jaipur,Banjara Hills,Suite,8722.0,3.6,1293.0,45.0,304.0
+1089,Oyo Flagship 580,Chennai,Banjara Hills,Classic,3833.0,4.7,0.0,31.0,217.0
+1090,OYO Residency 789,Ahmedabad,Andheri,Classic,5533.0,3.6,0.0,0.0,266.0
+1091,oyo Inn 898,Mumbai,Connaught Place,Deluxe,5475.0,3.6,690.0,56.0,0.0
+1092,oyo Collection 551,Hyderabad,Salt Lake,Classic,6293.0,3.1,517.0,0.0,34.0
+1094,OYO Flagship 186,Chennai,Whitefield,Suite,2713.0,4.2,84.0,0.0,65.0
+1095,OYO Townhouse 913,Pune,Park Street,Deluxe,1681.0,3.6,0.0,0.0,0.0
+1096,Oyo Residency 243,Goa,Park Street,Classic,3185.0,3.6,450.0,57.0,315.0
+1097,OYO Stay 759,Bangalore,MG Road,Deluxe,5119.0,2.8,832.0,0.0,0.0
+1098,OYO Flagship 688,Mumbai,Airport Road,Premium,5754.0,3.6,0.0,0.0,0.0
+1100,Oyo Stay 631,Delhi,Salt Lake,Deluxe,7055.0,3.6,0.0,0.0,206.0
+1101,Oyo SilverKey 415,Kolkata,Park Street,Deluxe,5191.0,4.1,0.0,0.0,357.0
+1103,OYO SilverKey 376,Chennai,Park Street,Classic,4957.0,2.9,0.0,0.0,0.0
+1104,OYO Townhouse 725,Delhi,Andheri,Deluxe,3301.0,3.6,0.0,38.0,150.0
+1105,Oyo Residency 938,Pune,City Center,Classic,3747.0,3.4,1066.0,0.0,335.0
+1106,oyo Collection 965,Hyderabad,Banjara Hills,Deluxe,7634.0,3.0,0.0,0.0,273.0
+1107,oyo Residency 378,Jaipur,Banjara Hills,Classic,3631.0,3.7,503.0,0.0,10.0
+1108,OYO Flagship 50,Pune,Andheri,Deluxe,8385.0,4.4,0.0,55.0,232.0
+1109,oyo Flagship 166,Mumbai,Salt Lake,Classic,1392.0,4.8,0.0,38.0,0.0
+1111,OYO Stay 377,Kolkata,Connaught Place,Premium,5589.0,3.6,0.0,0.0,101.0
+1112,Oyo Residency 654,Kolkata,Park Street,Deluxe,3111.0,3.6,0.0,24.0,8.0
+1113,Oyo Collection 409,Jaipur,MG Road,Deluxe,8340.0,3.4,948.0,0.0,0.0
+1114,OYO SilverKey 477,Chennai,Andheri,Classic,7033.0,3.6,0.0,0.0,0.0
+1115,Oyo Stay 170,Kolkata,Park Street,Deluxe,881.0,3.6,0.0,0.0,0.0
+1116,Oyo Collection 343,Delhi,Airport Road,Premium,8241.0,3.6,753.0,0.0,0.0
+1117,OYO Inn 799,Goa,Banjara Hills,Deluxe,8989.0,4.8,0.0,50.0,72.0
+1118,oyo Collection 283,Mumbai,Park Street,Premium,7161.0,3.6,24.0,0.0,0.0
+1119,oyo SilverKey 939,Goa,Park Street,Premium,4150.0,4.8,0.0,0.0,0.0
+1122,OYO Stay 308,Pune,Airport Road,Deluxe,4921.0,3.6,457.0,0.0,0.0
+1123,oyo Collection 430,Pune,City Center,Premium,6126.0,2.7,0.0,9.0,0.0
+1124,Oyo Collection 32,Bangalore,Salt Lake,Premium,6168.0,2.8,0.0,0.0,0.0
+1125,oyo Residency 169,Kolkata,City Center,Deluxe,6206.0,3.6,771.0,0.0,0.0
+1126,OYO Residency 828,Jaipur,Connaught Place,Deluxe,3188.0,2.5,66.0,58.0,292.0
+1127,OYO SilverKey 339,Delhi,MG Road,Premium,2337.0,4.8,0.0,0.0,251.0
+1129,OYO Collection 873,Hyderabad,Salt Lake,Premium,6248.0,3.6,0.0,0.0,0.0
+1130,OYO Flagship 473,Chennai,MG Road,Deluxe,3136.0,2.6,1203.0,11.0,0.0
+1131,oyo SilverKey 594,Chennai,Banjara Hills,Deluxe,4619.0,3.5,0.0,0.0,0.0
+1132,Oyo Flagship 401,Delhi,Andheri,Deluxe,3837.0,2.7,0.0,57.0,0.0
+1133,OYO Residency 335,Jaipur,Banjara Hills,Premium,7619.0,3.6,1433.0,0.0,0.0
+1134,OYO Townhouse 906,Chennai,City Center,Classic,2999.0,3.6,569.0,16.0,0.0
+1135,oyo SilverKey 346,Chennai,Whitefield,Suite,744.0,3.6,413.0,0.0,0.0
+1136,oyo Stay 949,Goa,Banjara Hills,Classic,3922.0,3.6,0.0,0.0,233.0
+1137,Oyo Townhouse 418,Hyderabad,Park Street,Premium,1728.0,3.6,0.0,19.0,0.0
+1138,OYO Inn 927,Delhi,Park Street,Premium,4863.0,3.6,469.0,57.0,0.0
+1140,oyo Flagship 547,Jaipur,Park Street,Classic,5411.0,3.6,0.0,0.0,0.0
+1141,Oyo Inn 252,Mumbai,Banjara Hills,Premium,8562.0,3.6,0.0,47.0,0.0
+1142,oyo Flagship 371,Kolkata,MG Road,Classic,2299.0,3.6,0.0,0.0,1.0
+1143,Oyo Flagship 117,Mumbai,Banjara Hills,Classic,8093.0,3.6,0.0,0.0,182.0
+1145,oyo Residency 707,Bangalore,Salt Lake,Classic,3881.0,3.6,719.0,59.0,0.0
+1147,OYO Townhouse 464,Kolkata,City Center,Suite,3781.0,3.8,0.0,26.0,237.0
+1149,Oyo Stay 842,Kolkata,Banjara Hills,Premium,7673.0,2.6,0.0,0.0,0.0
+1150,Oyo Townhouse 999,Chennai,Connaught Place,Deluxe,6660.0,3.6,0.0,6.0,364.0
+1151,oyo Stay 614,Bangalore,Park Street,Classic,2340.0,3.6,0.0,0.0,40.0
+1153,OYO Inn 342,Pune,Andheri,Suite,5108.0,2.8,1204.0,0.0,207.0
+1154,OYO Stay 963,Hyderabad,City Center,Premium,4756.0,3.3,0.0,0.0,111.0
+1155,oyo Residency 885,Bangalore,Andheri,Classic,4609.0,3.6,0.0,0.0,121.0
+1156,OYO Stay 683,Pune,Banjara Hills,Suite,7064.0,3.6,705.0,42.0,127.0
+1157,Oyo Inn 620,Pune,MG Road,Classic,8853.0,3.6,1209.0,0.0,94.0
+1158,OYO Inn 42,Kolkata,Banjara Hills,Classic,4482.0,3.6,0.0,0.0,294.0
+1159,oyo Townhouse 850,Kolkata,Airport Road,Suite,925.0,2.7,915.0,0.0,0.0
+1160,oyo Stay 697,Pune,Park Street,Premium,5206.0,3.6,298.0,0.0,0.0
+1161,OYO SilverKey 4,Pune,Airport Road,Suite,7799.0,2.9,0.0,18.0,0.0
+1162,OYO Collection 788,Hyderabad,Park Street,Premium,925.0,3.6,0.0,27.0,0.0
+1163,Oyo SilverKey 165,Jaipur,Park Street,Classic,8570.0,3.5,35.0,36.0,260.0
+1164,Oyo Inn 380,Mumbai,Airport Road,Classic,4874.0,3.6,0.0,0.0,54.0
+1165,Oyo Residency 251,Hyderabad,Whitefield,Premium,3697.0,4.7,305.0,0.0,0.0
+1166,Oyo Flagship 192,Delhi,Park Street,Deluxe,2477.0,3.6,0.0,0.0,0.0
+1167,Oyo Collection 640,Mumbai,Connaught Place,Premium,3915.0,3.6,0.0,0.0,0.0
+1169,Oyo Inn 139,Goa,Airport Road,Suite,4316.0,3.0,0.0,42.0,0.0
+1171,OYO Inn 776,Goa,Park Street,Classic,804.0,4.4,0.0,0.0,142.0
+1172,oyo SilverKey 958,Pune,City Center,Deluxe,6547.0,3.8,0.0,0.0,140.0
+1173,OYO Flagship 756,Bangalore,Andheri,Deluxe,1440.0,3.0,404.0,0.0,316.0
+1174,OYO Inn 935,Delhi,MG Road,Premium,4045.0,3.6,0.0,0.0,193.0
+1175,Oyo Townhouse 546,Bangalore,Salt Lake,Deluxe,3568.0,2.7,433.0,0.0,358.0
+1176,oyo Stay 731,Hyderabad,Salt Lake,Deluxe,6107.0,3.6,0.0,18.0,0.0
+1177,Oyo SilverKey 621,Hyderabad,Airport Road,Deluxe,4208.0,3.6,0.0,0.0,64.0
+1179,OYO Townhouse 521,Bangalore,Banjara Hills,Suite,1915.0,3.7,0.0,10.0,281.0
+1180,OYO Collection 503,Bangalore,Andheri,Classic,4063.0,4.3,0.0,0.0,216.0
+1181,Oyo Flagship 698,Chennai,City Center,Classic,5227.0,2.6,0.0,0.0,165.0
+1182,OYO Townhouse 705,Ahmedabad,City Center,Deluxe,3819.0,4.7,0.0,0.0,0.0
+1183,Oyo Inn 118,Chennai,Whitefield,Premium,8957.0,3.6,326.0,0.0,0.0
+1185,OYO Townhouse 678,Ahmedabad,Banjara Hills,Classic,4980.0,3.6,699.0,0.0,0.0
+1186,oyo Townhouse 242,Pune,Connaught Place,Suite,7466.0,3.6,0.0,0.0,0.0
+1187,oyo Inn 41,Delhi,Andheri,Classic,8396.0,3.4,0.0,0.0,181.0
+1188,oyo Residency 947,Ahmedabad,Whitefield,Classic,3727.0,3.6,96.0,30.0,284.0
+1190,Oyo Flagship 159,Pune,Banjara Hills,Premium,1773.0,3.6,0.0,0.0,152.0
+1191,OYO Collection 775,Delhi,Airport Road,Premium,2838.0,3.6,882.0,24.0,0.0
+1192,oyo Collection 161,Hyderabad,Connaught Place,Suite,6511.0,4.2,0.0,0.0,278.0
+1193,OYO Residency 934,Hyderabad,Whitefield,Classic,1081.0,3.6,0.0,0.0,11.0
+1195,Oyo Inn 655,Delhi,Banjara Hills,Classic,1642.0,3.0,0.0,0.0,161.0
+1196,oyo Flagship 827,Pune,Airport Road,Classic,3016.0,3.6,0.0,0.0,24.0
+1197,oyo Townhouse 647,Kolkata,City Center,Deluxe,3943.0,3.6,0.0,7.0,39.0
+1198,oyo Collection 777,Ahmedabad,City Center,Classic,6064.0,3.6,0.0,0.0,94.0
+1199,OYO Stay 110,Delhi,Salt Lake,Suite,6181.0,2.8,0.0,0.0,0.0
+1200,oyo SilverKey 843,Hyderabad,Connaught Place,Deluxe,2661.0,3.6,1392.0,0.0,29.0
