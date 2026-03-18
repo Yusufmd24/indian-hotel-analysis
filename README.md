@@ -1,4 +1,4 @@
-# 🏨 Indian Hotel Market Analysis (OYO-Style Dataset)
+# 🏨 Indian Hotel Market Analysis with Python (OYO & all Dataset)
 
 ## 📌 Project Overview
 This project analyzes hotel listings across major Indian cities to uncover patterns in pricing, customer demand, and service quality. Using Python-based exploratory data analysis (EDA), the study identifies key factors influencing hotel performance and provides actionable business recommendations.
@@ -98,6 +98,7 @@ The analysis highlights that hotel market performance is driven by a combination
 👨‍💻 Author
 
 Yusuf M
+
 Aspiring Data Analyst | Python | SQL | Power BI
 
 ⭐ If you found this project useful, consider giving it a star!
