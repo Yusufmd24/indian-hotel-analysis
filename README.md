@@ -147,7 +147,7 @@ OccuRate-Hotel-Revenue-Optimization-Occupancy-Analytics/
 **Md Yusuf**
 Data Analyst | Revenue · Margin · Category Analytics | SQL · Power BI · Python
 
-🔗 [GitHub — Yusufmd24](https://github.com/Yusufmd24) · Portfolio: [yusufmd24.github.io](https://yusufmd24.github.io)
+🔗 [GitHub — mdyusufanalytics](https://github.com/mdyusufanalytics) · Portfolio: [mdyusufanalytics.github.io](https://mdyusufanalytics.github.io)
 
 Part of a broader portfolio applying commercial and P&L judgment to structured data problems — see also the [SaaS Metrics Intelligence Dashboard](https://github.com/Yusufmd24/SaaS-Metrics-Intelligence-Dashboard) for a full-stack SQL + Power BI case study.
 
